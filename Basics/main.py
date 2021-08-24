@@ -13,7 +13,7 @@ parser.add_argument('--depth', type=int, default='1',
                     help='set the depth of of the crawler (default: 1)')
 # Add log to files
 parser.add_argument('--log', type=bool, default=False,
-                    help='Log to files (default: False')
+                    help='Log to files (default: False)')
 
 
 # Parse The Arguments
