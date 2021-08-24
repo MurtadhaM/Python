@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebCrawler/referee_list.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/images.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/images.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebCrawler/links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCrawler/links_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links_crawl.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
       <recent name="$PROJECT_DIR$/WebCrawler" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.referee_list">
+  <component name="RunManager" selected="Python.links_crawl">
     <configuration name="image_crawl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.links_crawl" />
         <item itemvalue="Python.referee_list" />
         <item itemvalue="Python.image_crawl" />
-        <item itemvalue="Python.links_crawl" />
         <item itemvalue="Python.start" />
       </list>
     </recent_temporary>

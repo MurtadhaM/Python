@@ -1,6 +1,9 @@
 import requests
 import re
 
+from bs4 import BeautifulSoup
+
+
 url = "https://uncc.edu"
 request = requests.get(url)
 
@@ -10,7 +13,6 @@ result = re.findall('<a .*? href="(.*?)" .*?>', request.text)
 for line_print in result:
     print(line_print)
 
-
 # to write to file
 
 filename = "links.txt"
@@ -19,3 +21,6 @@ for line in result:
     outfile.write(line)
     outfile.write('\n')
 outfile.close()
+
+
+
