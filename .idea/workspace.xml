@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebCrawler/words_frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/image_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/image_crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/images.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/images.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/links_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links_crawl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/referee_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/referee_list.py" afterDir="false" />
-    </list>
+    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
