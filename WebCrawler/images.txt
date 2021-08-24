@@ -1,5 +1,3 @@
-/sites/all/themes/uncctheme/assets/images/charlotte-logo.png
-//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png
 https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20A.jpg
 https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20B.jpg
 https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20C.jpg
@@ -31,4 +29,3 @@ https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Jennifer_Webb_50
 https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Oscar_Lansen_500x715.jpg
 https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Thomas_Marshal%20_500x715.jpg
 https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Jordan_Poler_500x715.jpg
-/sites/all/themes/uncctheme/assets/images/charlotte-logo-footer.png
