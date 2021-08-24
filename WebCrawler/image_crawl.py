@@ -1,7 +1,8 @@
 import requests
 import re
 
-url = "https://uncc.edu"
+# url = "https://uncc.edu"
+url = "http://books.toscrape.com/"
 request = requests.get(url)
 
 # filter using regex to get links
