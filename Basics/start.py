@@ -1,15 +1,18 @@
 # Author: Murtadha Marzouq
+# Date: 08/29/2021
+# Program: Python HTTP Retrieval
 
-int = 1
-float = 1.1
-string = "str"
-bool = True
-
-
-result = str(type(string)) + str(type(int))
-result = result.replace("<class '", "")
-result = result.replace("'>", " ")
-
-print(result)
+# Import Library to parse HTML/SOAP
 
 
+from bs4 import BeautifulSoup
+# import Requests library
+import requests
+# get the response after you run a http get request
+response = requests.get('https://www.uncc.edu')
+soup = BeautifulSoup(response.content, 'html.parser')
+
+
+
+print(soup)
+open()
