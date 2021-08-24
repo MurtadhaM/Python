@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebCrawler/links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebCrawler/links_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/links_crawl.py" afterDir="false" />
     </list>
