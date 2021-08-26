@@ -11,11 +11,3 @@ for image in result:
     print(image)
 
 
-# to write to file
-
-filename = "images.txt"
-outfile = open(filename, 'w')
-for line in result:
-    outfile.write(line)
-    outfile.write('\n')
-outfile.close()

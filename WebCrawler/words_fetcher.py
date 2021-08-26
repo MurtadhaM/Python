@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-from collections import Counter
 
 # storing variables
 word_list = []
@@ -12,12 +11,16 @@ url = base_url
 response_text = requests.get(url)  # getting response from the server after requesting the url
 soup = BeautifulSoup(response_text.content, 'html.parser')
 
+
+# populate a wordlist based on page
 for word in soup.getText().strip().replace("\n", " ").split(" "):
     word_list.append(word.replace("\n", ' '))
 word_list = list(filter(None, word_list))
 
-for word_to_print in word_list:
-    print(word_to_print)
-
+# print all words
+output = ''
+for i in range(len(word_list)):
+    output += (word_list[i]) + ' '
+print(output)
 
 
