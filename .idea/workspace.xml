@@ -2,21 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebCrawler/file_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawler/link_fetcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawler/request_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebCrawler/crawler_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/image_crawl.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/image_fetcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/images.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/links_crawl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/referee_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/start.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/words_frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/words_fetcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCrawler/request_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/request_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCrawler/words_fetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/words_fetcher.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +50,28 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.link_fetcher">
+  <component name="RunManager" selected="Python.crawler_functions">
+    <configuration name="crawler_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebCrawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/crawler_functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="image_fetcher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="request_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,28 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="referee_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebCrawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/referee_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/request_parser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.crawler_functions" />
+        <item itemvalue="Python.request_parser" />
         <item itemvalue="Python.link_fetcher" />
         <item itemvalue="Python.words_fetcher" />
         <item itemvalue="Python.image_fetcher" />
-        <item itemvalue="Python.referee_list" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>

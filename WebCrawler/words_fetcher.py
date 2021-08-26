@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 
 # storing variables
-word_list = []
 base_url = 'https://uncc.edu'
 url = base_url
 
@@ -11,7 +10,7 @@ url = base_url
 response_text = requests.get(url)  # getting response from the server after requesting the url
 soup = BeautifulSoup(response_text.content, 'html.parser')
 
-
+word_list = []
 # populate a wordlist based on page
 for word in soup.getText().strip().replace("\n", " ").split(" "):
     word_list.append(word.replace("\n", ' '))
