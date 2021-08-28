@@ -3,24 +3,26 @@
 # Program: Python HTTP Retrieval
 
 # Import Library to parse HTML/SOAP
+from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
 # import Requests library
 import requests
 
-url = "https://uncc.edu"
-html = requests.get(url)
-soup = BeautifulSoup(html.text, 'html.parser')
-links_list = []
+def link_parser(response_content, url):
+    links_list = []
+    # links
+    soup = BeautifulSoup(response_content, 'html.parser')
 
-# links
-links_all = soup.find_all('a')
+    links_all = soup.find_all('a')
 
-# search word
-for link in links_all:
-    fullLink = link.get('href')
-    links_list.append(fullLink)
+    for link in links_all:
+        full_link = link.get('href')
+        # To avoid empty slashes
+        if full_link and full_link.startswith('/'):
+            full_link = urljoin(url, full_link)
+            links_list.append(full_link)
+            #add_url_to_visit(full_link)
 
-# printing the links
-for line in links_list:
-    print(line)
+    links_list = list(filter(None, links_list))
+    return links_list
