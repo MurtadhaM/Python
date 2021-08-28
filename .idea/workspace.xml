@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/Spyder/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/queue.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spyder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spyder/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/crawled.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
