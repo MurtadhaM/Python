@@ -1,12 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/WebCrawler/news_crawler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebCrawler/word_analysis.py" afterDir="false" />
+    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change afterPath="$PROJECT_DIR$/Spyder/file_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/link_finder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/spider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebCrawler/crawled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebCrawler/queue.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebCrawler/crawler_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/crawler_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebCrawler/link_fetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/link_fetcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCrawler/news_crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/news_crawler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebCrawler/word_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/word_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +53,12 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Spyder" />
       <recent name="$PROJECT_DIR$/WebCrawler" />
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.word_analysis">
+  <component name="RunManager" selected="Python.main">
     <configuration name="crawler_functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,6 +101,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spyder" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spyder/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="news_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="request_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,32 +151,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebCrawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spyder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/request_parser.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="word_analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebCrawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/word_analysis.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spyder/spider.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.word_analysis" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.spider" />
         <item itemvalue="Python.news_crawler" />
-        <item itemvalue="Python.crawler_functions" />
-        <item itemvalue="Python.request_parser" />
         <item itemvalue="Python.link_fetcher" />
+        <item itemvalue="Python.crawler_functions" />
       </list>
     </recent_temporary>
   </component>

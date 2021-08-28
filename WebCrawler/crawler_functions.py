@@ -19,7 +19,7 @@ def write_file(filename, list_contents):
 
 def make_request(url_request):
     html = requests.get(url_request)
-    soup = BeautifulSoup(html.text, 'html.parser')
+    soup = BeautifulSoup(response.content, 'html.parser')
     return soup
 
 

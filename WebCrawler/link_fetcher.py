@@ -9,10 +9,13 @@ from bs4 import BeautifulSoup
 # import Requests library
 import requests
 
+
 def link_parser(response_content, url):
+    print(url)
     links_list = []
     # links
-    soup = BeautifulSoup(response_content, 'html.parser')
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
 
     links_all = soup.find_all('a')
 
@@ -22,7 +25,12 @@ def link_parser(response_content, url):
         if full_link and full_link.startswith('/'):
             full_link = urljoin(url, full_link)
             links_list.append(full_link)
-            #add_url_to_visit(full_link)
+            # add_url_to_visit(full_link)
 
     links_list = list(filter(None, links_list))
     return links_list
+
+url = 'https://charlotte.edu'
+
+for u in link_parser('1', url):
+    print(u)
