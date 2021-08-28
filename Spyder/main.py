@@ -3,19 +3,54 @@
 
 import threading
 from queue import Queue
+from urllib.parse import urlparse
+
+import urlparser as urlparser
+
 from spider import Spider
 from domain import *
 from file_writer import *
+import argparse
 
-PROJECT_NAME = 'CNN'
-HOMEPAGE = 'https://cnn.com'
+
+# Set a parser
+parser = argparse.ArgumentParser(description='Process Passed-in Parameters.')
+# Add a url Parameter
+parser.add_argument('--url', type=str,  default="https://google.com",
+                    help='a string for the url (default: https://google.com)')
+# Add a depth parameter
+parser.add_argument('--depth', type=int, default='1',
+                    help='set the depth of of the crawler (default: 1)')
+# Add Threads count
+parser.add_argument('--threads', type=int, default=False,
+                    help='Threads to consume (default: 2)')
+
+
+# Parse The Arguments
+args = parser.parse_args()
+# Print the url
+print("The url is: " + str(args.url))
+# Print the crawl depth
+print("The depth is: " + str(args.depth))
+# Print the threads switch
+print("threads now is : " + str(args.threads))
+
+
+
+PROJECT_NAME = urlparse(str(args.url)).netloc
+# HOMEPAGE = 'https://cnn.com'
+HOMEPAGE = str(args.url)
 DOMAIN_NAME = Spider.get_domain_name(HOMEPAGE)
 QUEUE_FILE = PROJECT_NAME + '/queue.txt'
 CRAWLED_FILE = PROJECT_NAME + '/crawled.txt'
 LINKS_FILE = PROJECT_NAME + '/all_links.txt'
-NUMBER_OF_THREADS = 8
+# NUMBER_OF_THREADS = 8
+NUMBER_OF_THREADS = int(args.threads)
+CRAWL_LIMIT = int(args.depth)
+
 queue = Queue()
 Spider(PROJECT_NAME, HOMEPAGE, DOMAIN_NAME)
+
 
 
 # Create worker threads (will die when main exits)
@@ -29,6 +64,7 @@ def create_workers():
 # Do the next job in the queue
 def work():
     while True:
+
         url = queue.get()
         Spider.crawl_page(threading.current_thread().name, url)
         queue.task_done()
@@ -44,9 +80,11 @@ def create_jobs():
 
 # Check if there are items in the queue, if so crawl them
 def crawl():
+
     queued_links = file_to_set(QUEUE_FILE)
     if len(queued_links) > 0:
         print(str(len(queued_links)) + ' links in the queue')
+        #CRAWL_LIMIT = depth - 1
         create_jobs()
 
 
