@@ -16,9 +16,7 @@ def link_parser(response_content, url):
     # links
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
-
     links_all = soup.find_all('a')
-
     for link in links_all:
         full_link = link.get('href')
         # To avoid empty slashes
@@ -26,7 +24,6 @@ def link_parser(response_content, url):
             full_link = urljoin(url, full_link)
             links_list.append(full_link)
             # add_url_to_visit(full_link)
-
     links_list = list(filter(None, links_list))
     return links_list
 
