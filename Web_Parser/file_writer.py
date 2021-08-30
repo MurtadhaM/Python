@@ -27,7 +27,8 @@ def create_data_files(project_name, base_url):
 # Create a new file
 def write_file(path, data):
     with open(path, 'w') as f:
-        f.write(data)
+        f.write(str(data))
+
 
 
 # Add data onto an existing file
@@ -54,5 +55,5 @@ def file_to_set(file_name):
 def set_to_file(links, file_name):
     with open(file_name, "w") as f:
         print(links)
-        # for l in sorted(links):
-        #     f.write(l + "\n")
+        for l in sorted(links):
+            f.write(l + "\n")

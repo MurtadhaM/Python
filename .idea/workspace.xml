@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google.com/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google.com/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google.com/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Parser/file_writer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thedukeendowment.org/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thedukeendowment.org/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/thedukeendowment.org/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uncc.edu/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.dukeendowment.org/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.dukeendowment.org/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/www.dukeendowment.org/queue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Selected TEXT.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/html_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/com/all_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/com/crawled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/com/queue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/google/all_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/google/crawled.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spyder/google/queue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebCrawler/link_fetcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebCrawler/link_fetcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spyder/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/file_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/file_writer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/all_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uncc.edu/all_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uncc.edu/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uncc.edu/queue.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Setup Script" />
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -56,10 +60,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -68,7 +74,7 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.cnn_spider">
     <configuration name="cnn_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,6 +117,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="html_parser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/html_parser.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,55 +180,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="news_crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WebCrawler" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WebCrawler/news_crawler.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spyder" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spyder/spider.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.cnn_spider" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.html_parser" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.file_writer" />
-        <item itemvalue="Python.spider" />
-        <item itemvalue="Python.news_crawler" />
       </list>
     </recent_temporary>
   </component>

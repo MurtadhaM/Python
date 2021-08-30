@@ -13,6 +13,7 @@ create_data_files('OUTPUT', urls)
 
 # url = 'https://www.cnn.com/2020/07/28/politics/republican-reaction-gop-stimulus-plan/index.html'
 
+depth = 3
 
 def make_request(url):
     # Prepare the request for Parsing
@@ -25,10 +26,12 @@ def make_request(url):
 
     
 def update_files():
-    csv_file = 'OUTPUT' + '/data.csv'
+    links_file = 'OUTPUT' + '/links.csv'
+    data_file = 'OUTPUT' + '/data.csv'
+
     #csv_data = urls.append(titles)
     #csv_data = urls
-    set_to_file(urls, csv_file)
+    set_to_file(urls, links_file)
 
 
 def cnn_parser(response_html):
@@ -64,26 +67,30 @@ def cnn_parser(response_html):
 
 
 # Spider for the Science Section only
-def get_links():
-    start_url = 'https://www.cnn.com/specials/space-science'
-    links_list = []
-    # links
-    response = requests.get(start_url)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    for l in soup.find_all('h3', class_='cd__headline'):
-        a = l.find('a')
-        # Titles a.get_text()
-        full_link = a['href']
-        # To avoid empty slashes
-        if full_link and full_link.startswith('/'):
-            full_link = urljoin(start_url, full_link)
-            links_list.append(full_link)
-            urls.append(full_link)
-            # DEBUGGING
-            # print(full_link)
-            # add_url_to_visit(full_link)
-    links_list = list(filter(None, links_list))
-    return links_list
+def get_links(depth):
+    while depth > 0:
+        start_url = 'https://www.cnn.com/specials/space-science'
+        links_list = []
+        # links
+        response = requests.get(start_url)
+        soup = BeautifulSoup(response.content, 'html.parser')
+        for l in soup.find_all('h3', class_='cd__headline'):
+            a = l.find('a')
+            # Titles a.get_text()
+            full_link = a['href']
+            # To avoid empty slashes
+            if full_link and full_link.startswith('/'):
+                full_link = urljoin(start_url, full_link)
+                links_list.append(full_link)
+                urls.append(full_link)
+                # DEBUGGING
+                # print(full_link)
+                # add_url_to_visit(full_link)
+        links_list = list(filter(None, links_list))
+        depth = depth - 1
+        update_files()
+
+        return links_list
 
 
 # Printing Log
@@ -95,11 +102,10 @@ def print_log():
 def main():
     for u in urls:
         make_request(u)
-        update_files()
 
 
 # For Testing
-get_links()
+get_links(1)
 print_log()
 main()
 
