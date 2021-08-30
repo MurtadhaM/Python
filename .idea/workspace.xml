@@ -2,28 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Selected TEXT.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/html_parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/com/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/com/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/com/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Spyder/google/queue.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spyder/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spyder/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/file_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/file_writer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/all_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/crawled.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thedukeendowment.org/queue.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uncc.edu/all_links.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uncc.edu/crawled.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uncc.edu/queue.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
