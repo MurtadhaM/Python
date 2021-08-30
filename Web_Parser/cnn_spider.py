@@ -7,7 +7,7 @@ urls = list()
 titles = list()
 authors = list()
 times = list()
-contents = ['title , author, time']
+contents = ['title , author, time, url']
 create_project_dir('OUTPUT')
 create_data_files('OUTPUT', urls)
 
@@ -20,7 +20,7 @@ def make_request(url):
 
     response_html = requests.get(url)
     # Adding the URL to List
-    cnn_parser(response_html)
+    cnn_parser(response_html, url)
 
 
 def update_files():
@@ -33,7 +33,7 @@ def update_files():
     set_to_file(contents, data_file)
 
 
-def cnn_parser(response_html):
+def cnn_parser(response_html, url):
 
     title = ' '
     author = ' '
@@ -60,7 +60,7 @@ def cnn_parser(response_html):
 
         # adding dates
         times.append(temp_time.get_text())
-        contents.append('{} , {}, {}'.format(title, author, time))
+        contents.append('{} , {}, {}, {}'.format(title, author, time, url))
         #print(contents)
         update_files()
     except Exception as e:
@@ -109,16 +109,21 @@ def print_log():
     for u in urls:
         print(u)
 
+# depth is to limit the requests
+def main(limit):
+    for i in range(0,limit):
+        make_request(urls[i])
 
-def main():
-    for u in urls:
-        make_request(u)
 
 
 # For Testing
 get_links()
 print_log()
-main()
+
+# Takes a depth parameter
+
+depth = 5
+main(depth)
 #make_request('https://www.cnn.com/2020/07/28/politics/republican-reaction-gop-stimulus-plan/index.html')
 
 # print('Page URL: {}'.format(urls.pop()))

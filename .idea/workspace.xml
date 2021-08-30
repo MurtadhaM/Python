@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/ links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/html_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/html_parser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/com/all_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/com/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/com/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google.com/all_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google.com/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google.com/queue.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google/all_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google/crawled.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spyder/google/queue.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/file_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/file_writer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +68,7 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cnn_spider">
+  <component name="RunManager" selected="Python.main (1)">
     <configuration name="cnn_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,8 +176,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cnn_spider" />
         <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.cnn_spider" />
         <item itemvalue="Python.html_parser" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.file_writer" />
