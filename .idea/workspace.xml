@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change afterPath="$PROJECT_DIR$/Basics/OUTPUT/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/html_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/html_parser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +57,7 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (1)">
+  <component name="RunManager" selected="Python.html_parser">
     <configuration name="cnn_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,9 +165,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.html_parser" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.cnn_spider" />
-        <item itemvalue="Python.html_parser" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.file_writer" />
       </list>
