@@ -1,15 +1,37 @@
-import html_parser 
+import requests
+from bs4 import BeautifulSoup
 
-#html_parser.html_parser('http://feeds.nbcnews.com/nbcnews/public/us-news', 'link')
+import html_parser
+
+output = '2'
 
 
-#print('html_parser.tags')
+class main():
+    def __init__(self, *args):
+        # print(args.__len__())
+        if (args.__len__() > 0):
+            self.url = args[0]
+            self.depth = args[1]
 
-import pandas as pd
-import matplotlib.pyplot as plt
+    def parse_page(self, page):
+        contents = BeautifulSoup(page.text, 'html.parser')
+        print(contents.)
+        #parsed_contents = contents.find()
+        #parsed_contents = parsed_contents.prettify()
+        return contents
 
-material_per = {'Earth_Part': [71,18,7,4]}
-dataframe = pd.DataFrame(material_per,columns=['Earth_Part'],index = ['Water','Mineral','Sand','Metals'])
+    def make_request(self):
+        response = requests.get(self.url)
+        return response
 
-dataframe.plot.pie(y='Earth_Part',figsize=(7, 7),autopct='%1.1f%%', startangle=90)
-plt.show()
+    def main(self):
+        response = self.make_request()
+        o = self.parse_page(response)
+        return o
+
+
+
+m = main("https://charlotte.edu", 2)
+#print(m.main())
+m.main()
+#m.print_output()
