@@ -19,8 +19,8 @@ class Spider:
         self.get_links(self.start_url)
 
     # Get the text from a class name
-
-    def make_request(self, url):
+    @staticmethod
+    def make_request(url):
         try:
             # Prepare the request for Parsing
             response_html = requests.get(url)
@@ -28,7 +28,7 @@ class Spider:
             return response_html
         except Exception as e:
             print(e)
-
+    # Get the text from a class name
     def get_class(self, class_name):
         try:
             response = self.make_request(self.start_url)
@@ -72,5 +72,4 @@ class Spider:
 
 s = Spider(start_url='https://charlotte.edu', depth=1)
 s.print_log()
-
 # print(s.external_urls)

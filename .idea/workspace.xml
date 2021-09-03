@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/Py_Site/Py_Site/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/Py_Site/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/Py_Site/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/Py_Site/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/Py_Site/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Py_Site/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Py_Site/First_App/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +53,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Basics" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
