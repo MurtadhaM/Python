@@ -1,5 +1,4 @@
 from urllib.parse import urljoin
-from file_writer import *
 import requests
 from bs4 import BeautifulSoup
 
@@ -66,10 +65,7 @@ class Spider:
 
     # depth is to limit the requests
     def main(self, url, depth):
-        for i in range(0, self.depth):
+        for i in range(0, depth):
             self.make_request(self.urls[i])
 
 
-s = Spider(start_url='https://charlotte.edu', depth=1)
-s.print_log()
-# print(s.external_urls)

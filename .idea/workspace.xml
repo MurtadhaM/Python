@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change afterPath="$PROJECT_DIR$/Py_Site/Spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Py_Site/MyFirstApp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Py_Site/MyFirstApp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/cnn_spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/Web_Crawler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +57,7 @@
       <recent name="$PROJECT_DIR$/Basics" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Py_Site" />
       <recent name="$PROJECT_DIR$/Py_Site/Py_Site" />
       <recent name="$PROJECT_DIR$/Spyder" />
       <recent name="$PROJECT_DIR$/WebCrawler" />
@@ -103,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cnn_spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Web_Crawler" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_Parser/cnn_spider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web_Parser/Web_Crawler.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +173,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.urls" />
-        <item itemvalue="Python.cnn_spider" />
+        <item itemvalue="Python.Web_Crawler" />
         <item itemvalue="Python.manage" />
         <item itemvalue="Python.AdventOfCodeDay3" />
         <item itemvalue="Python.AdventOfCodeDay2" />
