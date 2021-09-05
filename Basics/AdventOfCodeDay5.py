@@ -1,130 +1,103 @@
+available_rows = [
+    0,
+    127
+]
+
+available_columns = [
+    0,
+    7
+
+]
+
 
 file = open('input.txt')
 
 contents = file.read()
-# contents = file.read().replace('\n', ' ').strip()
 
-# Tags
-tags = ['byr', 'iyr', 'eyr', 'hgt', 'hcl', 'ecl', 'pid', 'cid']
+numbers = list()
 
-valid = 0
-values = list()
-dictionary = dict()
+def partition_input(input):
+    available_rows1 = available_rows
+    #column =
+    if input == 'B':
+        distance = available_rows1[1] - available_rows1[0]
+        if distance <= 1:
+            # print('row is: ' + str(available_rows1[1]))
+            return available_rows1[1]
+            #row = available_rows1[1]
+        available_rows1[0] = int(available_rows1[0] + (distance / 2)) + 1
 
+    elif input == 'F':
+        distance = available_rows1[1] - available_rows1[0]
+        if distance <= 1:
+            #print('row is: ' + str(available_rows[0]))
+            return available_rows[0]
+            # row = available_rows1[0]
 
-# def check
+        available_rows1[1] = int(available_rows1[0] + (distance / 2))
+        # print(available_rows)
 
-def check_byr(tag):
-    if tag.__contains__('byr') and 1920 <= int(tag.get('byr')[:4]) <= 2002:
-        return True
     else:
-        print('The Byr is wrong : ' + str(tag))
-
-        return False
+        print('else  is : ' + str(input))
 
 
-def check_iyr(tag):
-    if tag.__contains__('iyr') and 2010 <= int(tag.get('iyr')[:4]) <= 2020:
-        return True
-    else:
-        print('The iyr is wrong : ' + tag.get('iyr')[:4])
+def partition_columns(columns):
+    available_columns1 = available_columns
+    if columns == 'R':
+        distance = available_columns1[1] - available_columns1[0]
+        if distance <= 2:
+            #print('column is: ' + str(available_columns1[1]))
+            return available_columns1[1]
+        available_columns1[0] = int(available_columns1[0] + (distance / 2)) + 1
+    if columns == 'L':
+        distance = available_columns1[1] - available_columns1[0]
+        if distance <= 2:
+            #print('column is: ' + str(available_columns1[0]))
+            return available_columns1[0]
+        available_columns1[1] = int(available_columns1[1] - (distance / 2))
 
-        return False
+rows = list()
+columns = list()
+for ticket in contents.split('\n'):
+    available_columns[0] = 0
+    available_columns[1] = 7
+    available_rows[0] = 0
+    available_rows[1] = 127
+    my_set = list()
+    ticket1 = ticket.strip()
+    #print(ticket1)
 
+    for char in ticket1[:7]:
+        row = partition_input(char)
+        if type(row) is int:
+            rows.append(row)
+          #  print(row)
+    for char in ticket1[7:]:
+        column = partition_columns(char)
+        if type(column) is int:
+            columns.append(column)
+           # print(column)
 
-def check_eyr(tag):
-    if tag.__contains__('eyr') and 2020 <= int(tag.get('eyr')[:4]) <= 2030:
-        return True
-    else:
-        print('The eyr is wrong : ' + str(tag))
+        #my_set.append(column)
 
-        return False
+    #total = row * 8 + column
+    #numbers.append(total)
+    #print(my_set)
 
+#print(str(numbers))
 
-def check_hgt(tag):
-    stringTag = str(tag.get('hgt')).strip('\']')
-    if stringTag.endswith('cm'):
-        if 150 <= int(stringTag.strip('cm')) <= 193:
-            return True
-        else:
-            return False
-    elif stringTag.endswith('in'):
-        if 59 <= int(stringTag.strip('in')) <= 76:
-            return True
-        else:
-            return False
-    else:
-        return False
-
-
-def check_hcl(tag):
-    allow_characters = ['#', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f', '\'', ']']
-
-    if tag.get('hcl')[0] == '#' and len(tag.get('hcl')[:6]) >= 6:
-        for char in tag.get('hcl'):
-            if char in allow_characters:
-                continue
-            else:
-                print(tag)
-                return False
-        return True
-    else:
-        print('The hcl is wrong : ' + str(tag))
-        return False
-
-
-def check_ecl(tag):
-    string_taq = tag.get('ecl').strip('\']')
-    allow_characters = ['amb', 'blu', 'brn', 'gry', 'grn', 'hzl', 'oth']
-    if string_taq in allow_characters:
-        return True
-    else:
-        print('The ecl is wrong : ' + str(tag))
-
-        return False
+for number in zip(rows, columns):
+    #print(number[0] * 8 + number[1])
+    numbers.append(number[0] * 8 + number[1])
 
 
-def check_pid(tag):
-    string_taq = tag.get('pid').strip('\']')
-    if len(string_taq) == 9:
-        return True
-    else:
-        print('The pid is wrong : ' + str(tag))
+#print(max(numbers))
+numbers = sorted(numbers)
+#print(numbers)
 
-        return False
+# for part 2
+for index , seat in enumerate(numbers):
+    if abs(seat - numbers[index - 1]) == 2:
+        print(numbers[index ] -1 )
 
-
-def is_valid(passport):
-    try:
-        if passport.__contains__('hgt') and passport.__contains__('iyr') and passport.__contains__(
-                'byr') and passport.__contains__('hcl') and passport.__contains__('eyr') and passport.__contains__(
-            'pid') and passport.__contains__('ecl'):
-            if check_byr(passport) and check_iyr(passport) and check_eyr(passport) and check_hgt(
-                    passport) and check_hcl(passport) and check_ecl(passport) and check_pid(passport):
-                return True
-        else:
-            return False
-
-    except Exception as e:
-        print(str(e) + str(passport))
-
-
-for index, line in enumerate((contents.split('\n\n'))):
-    temp = list()
-    tempdict = dict()
-    for index1, value in enumerate(str(line.replace('\n', ' ').split('\\n')).split(' ')):
-        if len(value.split(':')) > 1:
-            v = {value.strip('[\'').split(':')[0]: value.split(':')[1]}
-            tempdict[value.strip('[\'').split(':')[0]] = value.split(':')[1]
-            temp.append(v)
-
-
-    dictionary.update(tempdict)
-    values.append(tempdict)
-
-for passport in values:
-    if is_valid(passport):
-        valid += 1
-    # else:
-    # print(passport)
-print(valid)
+    #print(numbers[num])
