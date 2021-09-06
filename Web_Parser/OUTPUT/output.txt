@@ -1,6 +1,667 @@
-Request: 1
+
+ REQUEST: 1 
 URL: https://charlotte.edu/
- <!DOCTYPE html>
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<meta name="description" content="UNC Charlotte is North Carolina’s emergent, applied and interdisciplinary research powerhouse solving world’s pressing problems in healthcare, energy, engineering, business, education and humanities." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.charlotte.edu/research" />
+<link rel="shortlink" href="https://www.charlotte.edu/node/5" />
+<meta property="og:site_name" content="UNC Charlotte" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Research @ UNC Charlotte" />
+<meta property="og:url" content="https://www.charlotte.edu/research" />
+<meta property="og:description" content="UNC Charlotte is North Carolina’s emergent, applied and interdisciplinary research powerhouse solving world’s pressing problems in healthcare, energy, engineering, business, education and humanities." />
+<meta property="og:updated_time" content="2021-04-08T11:07:15-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.charlotte.edu/research" />
+<meta name="twitter:title" content="Research" />
+<meta property="article:published_time" content="2016-10-11T13:51:28-04:00" />
+<meta property="article:modified_time" content="2021-04-08T11:07:15-04:00" />
+<meta name="dcterms.title" content="Research" />
+<meta name="dcterms.creator" content="cmsadmin" />
+<meta name="dcterms.date" content="2016-10-11T13:51-04:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.charlotte.edu/research" />
+<meta name="dcterms.modified" content="2021-04-08T11:07-04:00" />
+  <title>Research at the University of North Carolina at Charlotte | UNC Charlotte</title>
+  <link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_Fv50EZIGLeaXrpATgDt7418bTKMZuYI9JWOVVL3pG0g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_sJ_DiP25h5wPYFvivHtL4laS1BNLpOJOQNbwi3frvnk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_osC6AX_A0yKNsbgaSBxiRpYDdjkHPuRGWIkzB0EkE5E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_SNfYNmIqTZxDMQlLcrqMmiOkpaKotEgr0WSRFebdD24.css" media="all" />
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_AXxRUvKBTPKpuTuZ-bxAqsvJdQAXcNG8YfffkvB9dLg.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_7cDlyCaWvpvugsawmEZHGe8OyEiL0ESGqhZPUM9s8sY.js"></script>
+<script>
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1072478,hjsv:6};
+        a=o.getElementsByTagName("head")[0];
+        r=o.createElement("script");r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv=");
+
+
+</script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_nqSnaBSnocuY1OG4jmW9-0J0kKzYJdZPSbyDz55GET4.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_ul7MwxhDg77c-XIzkLnf0lC9IIRQjIdEp3g258S733A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":""});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-5 node-type-landing-page section-research">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFH2K33" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="l-page">
+
+    <header id="l-header" class="l-header" role="banner">
+	
+	<div class="container">
+
+		<div id="l-header-first">
+			  <div class="l-region l-region--header-first">
+    <div id="block-block-1" class="block block--block block--block-1">
+
+	<div class="block__content">
+		<div id="logo-container">
+			<h1>			<a href="/" id="logo-link" title="Home">
+				<img alt="UNC Charlotte" class="logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo.png" />
+			</a>
+			</h1>		</div>
+		<div id="main-toggle-container">
+			<div id="nav-icon1">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+			</div>
+
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <form id="utility-search" class="search" method="get" action="https://search.uncc.edu">
+    <div style="display: flex;">
+       <input type="text" id="utility-search-input" aria-label="Site Search" maxlength="150" size="10" placeholder=" search..." name="q" />
+       <button type="submit" aria-label="Search"><i class="fa fa-search" aria-hidden="true"></i></button>
+   </div>
+</form>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/landing/admissions-financial-aid">Admissions &amp; Financial Aid</a></li>
+<li class="leaf"><a href="https://www.charlotte.edu/academics" title="">Academics</a></li>
+<li class="leaf active-trail"><a href="/research" class="active-trail active">Research</a></li>
+<li class="leaf"><a href="/landing/athletics">Athletics</a></li>
+<li class="leaf"><a href="/landing/campus-life">Campus Life</a></li>
+<li class="last leaf"><a href="/landing/diversity">Diversity</a></li>
+</ul></nav>
+<nav id="block-menu-menu-gateway" role="navigation" class="block block--menu block--menu-menu-gateway">
+      
+  <ul class="menu"><li class="first leaf"><a href="/gateway/alumni-friends">Alumni &amp; Friends</a></li>
+<li class="leaf"><a href="/gateway/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="leaf"><a href="/gateway/prospective-students">Prospective Students</a></li>
+<li class="leaf"><a href="/gateway/community">Community</a></li>
+<li class="leaf"><a href="/gateway/current-students">Current Students</a></li>
+<li class="last leaf"><a href="/gateway/parents-family">Parents &amp; Family</a></li>
+</ul></nav>
+<nav id="block-menu-menu-utility" role="navigation" class="block block--menu block--menu-menu-utility">
+      
+  <ul class="menu"><li class="first leaf"><a href="https://my.charlotte.edu" title="">My UNC Charlotte</a></li>
+<li class="leaf"><a href="https://directory.charlotte.edu" title="">Directory</a></li>
+<li class="leaf"><a href="https://49eralumni.charlotte.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Make a Gift</a></li>
+<li class="last leaf"><a href="https://library.charlotte.edu" title="">Library</a></li>
+</ul></nav>
+<nav id="block-menu-block-2" role="navigation" class="block block--menu-block block--menu-block-2">
+      
+  <div class="menu-block-wrapper menu-block-2 menu-name-menu-cta-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1517"><a href="https://www.charlotte.edu/landing/about-us" title="">About Us</a></li>
+<li class="leaf menu-mlid-773"><a href="https://www.charlotte.edu/landing/admissions-financial-aid" title="">Apply Now</a></li>
+<li class="leaf menu-mlid-775"><a href="https://admissions.uncc.edu/about-unc-charlotte/visit-campus" title="">Visit Our Campus</a></li>
+<li class="leaf menu-mlid-1064"><a href="https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Give to UNC Charlotte</a></li>
+<li class="leaf menu-mlid-776"><a href="https://virtualtour.uncc.edu" title="">Take a Virtual Tour</a></li>
+<li class="last leaf menu-mlid-1575"><a href="https://ninernationcares.uncc.edu/" title="">COVID-19 Resources</a></li>
+</ul></div>
+</nav>
+<div id="block-block-19" class="block block--block block--block-19">
+        <div class="block__content">
+    <!-- Hotjar Tracking Code for https://www.charlotte.edu/ -->
+  </div>
+</div>
+<div id="block-block-43" class="block block--block block--block-43">
+        <div class="block__content">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFH2K33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  </div>
+</div>
+  </div>
+		</div>
+
+		<div id="l-header-second">
+					</div>
+
+		<div id="l-header-third">
+					</div>
+
+	</div>
+
+</header>
+
+    <div class="l-main">
+
+        <div class="container-fluid first">
+    <div class="row">
+        <section class="long-scroll-region" id="l-long-scroll-first">
+            <div id="l-edit-page">
+                                                                            </div>
+            
+                            <section class="" id="l-content-header">
+                    <div class="container">
+                        <div class="row row-no-padding">
+                            <div class="col col-xs-12">
+                                                                    <h1>Research</h1>
+                                                                  <div class="l-region l-region--content-header">
+    <div id="block-views-cta-links-block-1" class="block block--views block--views-cta-links-block-1">
+        <div class="block__content">
+    <div class="view view-cta-links view-id-cta_links view-display-id-block_1 view-dom-id-4bad9e29b01d6924ec4bdea19809a637">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-cta-link">        <div class="field-content"></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                        
+                              <div class="l-region l-region--long-scroll-first">
+    <div id="block-bean-slider-research" class="block block--bean block--bean-slider-research">
+        <div class="block__content">
+    <div class="entity entity-bean bean-feat-slider clearfix" about="/block/slider-research" typeof="" class="entity entity-bean bean-feat-slider">
+
+  <div class="content">
+    	
+		<div class="slide">
+		<img alt="Jill Yavorsky, an assistant professor of sociology at UNC Charlotte" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/yavorsky_2000x1000.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>New research on gender inequality</h2>
+													<p>Men supervise more individuals in the workplace than women — regardless of their grade point averages (GPAs) in high school — according to new published research on gender equality co-led by Jill Yavorsky, assistant professor of sociology.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/news-features/2021-02-03/men-failing-grades-high-school-have-same-leadership-opportunities-women">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Solar%20hi%20res_2000x1000.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>UNC Charlotte researchers recognized among world's top 2%</h2>
+													<p>A recent Stanford University study recognizes the top 2% of the world’s most cited researchers. In all, 41 researchers affiliated with UNC Charlotte made the list.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/news-features/2021-01-28/unc-charlotte-researchers-recognized-among-worlds-top-2">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="Pinku Mukherjee" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Pinku_flip_2000x1000.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>Beyond mammography</h2>
+													<p>Cancer researcher Pinku Mukherjee advocates for more than just mammograms for women with dense breast tissue.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/news-features/2020-11-02/breast-tissue-density-should-qualify-women-diagnostics-beyond-mammography">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/pexels-pixabay-158729_2000x1000REV2.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>Award-winning findings</h2>
+													<p>Missy Eppes, geologist, and Russ Keanini, mechanical engineer, earned recent recognition with a top award for interdisciplinary research in Quaternary geology and geomorphology.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/news-features/2020-06-03/geology-mechanical-engineering-pairing-results-novel-award-winning-findings">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="Oscar de la Torre" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Oscar%20de%20la%20Torre_2000x1000%20%281%29.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>Africana Studies researcher’s book continues to win acclaim</h2>
+													<p>UNC Charlotte Africana Studies associate professor Oscar de la Torre’s first book continues to garner awards, now recognized with two best book prizes and one honorable mention award.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/news-features/2020-10-08/africana-studies-researcher%E2%80%99s-book-continues-win-acclaim">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="UNC Charlotte wastewater testing lab" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/wasterwater_lab_2000x1000%20%281%29.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+									<h2>Preventing COVID-19 spread</h2>
+													<p> A team of UNC Charlotte researchers are sampling and testing wastewater from various campus locations as an early-warning system to locate the presence of COVID-19.</p>
+													<a class="btn btn-primary" href="https://inside.uncc.edu/unc_charlotte_wastewater_covid-19_testing">Read More</a>
+				
+			</div>
+		</div>
+	</div>
+
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+            
+        </section>
+    </div>
+</div>
+                    <div class="container-fluid second">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-second">
+                        <a id="main-content"></a>
+                          <div class="l-region l-region--long-scroll-second">
+    <div id="block-bean-img-box-research-4" class="block block--bean block--bean-img-box-research-4">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box" about="/block/img-box-research-4" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+							<a href="https://inside.uncc.edu/research">
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/research_news.jpg" alt="Research news" title="">
+
+				<div class="text-container">
+											<h3>Research News</h3>
+										
+					
+											<span class="learn-more white">Learn More</span>
+									</div>
+
+							</a>
+			
+		</div>
+
+		
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-research-2" class="block block--bean block--bean-img-box-research-2">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box" about="/block/img-box-research-2" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+							<a href="http://cri.uncc.edu/">
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/Solar_research.jpg" alt="" title="">
+
+				<div class="text-container">
+											<h3>Research Collaboration</h3>
+										
+					
+											<span class="learn-more white">Learn More</span>
+									</div>
+
+							</a>
+			
+		</div>
+
+		
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-research-3" class="block block--bean block--bean-img-box-research-3">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box" about="/block/img-box-research-3" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+							<a href="https://research.uncc.edu/updated-guidance-research-activities">
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/COVID_RED.jpg" alt="" title="">
+
+				<div class="text-container">
+											<h3>COVID-19 Updates for Researchers</h3>
+										
+					
+											<span class="learn-more white">Learn More</span>
+									</div>
+
+							</a>
+			
+		</div>
+
+		
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+                    <div class="container-fluid third">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-third">
+                          <div class="l-region l-region--long-scroll-third">
+    <div id="block-bean-img-sect-research-help" class="block block--bean block--bean-img-sect-research-help">
+        <div class="block__content">
+    
+<div class="entity entity-bean bean-img-section bg-center" about="/block/img-sect-research---help" typeof="" class="entity entity-bean bean-img-section">
+	<div class="row">
+		<div class="col-img" style="background-image:url(https://www.charlotte.edu/sites/www.charlotte.edu/files/section/research_background.jpg);"></div>
+		<div class="col-text">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>We're ready to dig into your project.</h2>
+<p>You won't find a more enthusiastic team to roll up its sleeves and get to work on helping you make your project a success. Whether you're a Faculty Member, Industry Partner or Research Administrator who needs assistance seeking funding, conducting research, or simply developing your business, click away. We're here to help!</p>
+</div></div></div>				 
+								<a class="btn btn-primary btn-secondary" href="https://research.uncc.edu/how-can-we-help-you">Research &amp; Economic Development</a>
+							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+                
+                    <div class="container-fluid fourth">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-fourth">
+                          <div class="l-region l-region--long-scroll-fourth">
+    <div id="block-views-facts-block-1" class="block block--views block--views-facts-block-1">
+        <div class="block__content">
+    <div class="view view-facts view-id-facts view-display-id-block_1 container view-dom-id-c59a03fef1ae748c4f14146331715ec7">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="entity entity-bean bean-factoid" about="/block/internship-research-opportunitie" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon graduate">
+				<svg height="140" width="140" id="svg_graduate" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#a49665;}.cls-2{fill:#574a1e;}</style></defs><title>UNC Charlotte Icons</title><path class="cls-1" d="M46.14,52.53h0.57a16.45,16.45,0,0,0,12.57-5.44c6.86-7.74,5.72-21,5.6-22.27-0.45-9.5-4.94-14-8.65-16.17a19.82,19.82,0,0,0-9.59-2.51h-0.3a19.85,19.85,0,0,0-9.59,2.44C33,10.7,28.43,15.25,28,24.82c-0.12,1.27-1.27,14.53,5.6,22.27a16.38,16.38,0,0,0,12.55,5.44h0ZM32.75,25.27c0-.05,0-0.11,0-0.14C33.35,12.34,42.43,11,46.32,11h0.21c4.81,0.11,13,2.07,13.55,14.16a0.34,0.34,0,0,0,0,.14c0,0.12,1.27,12.25-4.4,18.63-2.25,2.53-5.24,3.78-9.18,3.81H46.33c-3.92,0-6.94-1.28-9.16-3.81-5.65-6.35-4.44-18.52-4.42-18.63h0Zm0,0"/><path class="cls-1" d="M83.06,74.53V74.47c0-.14,0-0.29,0-0.45C82.93,70.5,82.7,62.24,75,59.6l-0.18-.05A51.46,51.46,0,0,1,60,52.81a2.41,2.41,0,0,0-2.76,3.94A55.58,55.58,0,0,0,73.5,64.19c4.15,1.48,4.62,5.92,4.74,10a3.5,3.5,0,0,0,0,.45,32.45,32.45,0,0,1-.37,5.51C75,81.76,63.68,87.43,46.46,87.43S17.92,81.75,15,80.11a30.61,30.61,0,0,1-.37-5.51c0-.14,0-0.28,0-0.45,0.13-4.06.59-8.5,4.74-10a56,56,0,0,0,16.28-7.43,2.41,2.41,0,1,0-2.76-3.94,50.87,50.87,0,0,1-14.8,6.74l-0.18.05C10.2,62.24,10,70.5,9.86,74a3.62,3.62,0,0,1,0,.45v0.05c0,0.93,0,5.69.91,8.08a2.28,2.28,0,0,0,.93,1.12c0.53,0.36,13.35,8.52,34.8,8.52S80.74,84,81.28,83.71a2.38,2.38,0,0,0,.93-1.12c0.89-2.37.87-7.13,0.86-8.06h0Zm0,0"/><polygon class="cls-2" points="67.34 21.18 66.15 2.45 26.28 2.45 25.68 21.18 30.5 22.09 32.74 23.34 57.9 23.34 59.16 22.23 67.34 21.18"/><path class="cls-1" d="M26.28,5.83a1.35,1.35,0,0,0-1.35,1.35V20a1.35,1.35,0,0,0,.75,1.21c0.34,0.17,8.52,4.19,20.83,4.19s20.49-4,20.83-4.19A1.35,1.35,0,0,0,68.09,20V7.18a1.35,1.35,0,0,0-2.7,0V19.1a50,50,0,0,1-18.88,3.57A50,50,0,0,1,27.63,19.1V7.18a1.35,1.35,0,0,0-1.35-1.35h0Zm0,0"/><path class="cls-1" d="M15.32,6.48l31,4h0.35L76.18,6.67v4.68c-0.84,1-2.7,3.32-2.7,5.92a4,4,0,1,0,8.09,0c0-2.6-1.85-5-2.7-5.92V5.14a1.33,1.33,0,0,0-.1-0.5,1.24,1.24,0,0,0-.09-0.15,1.38,1.38,0,0,0-.18-0.27,1.24,1.24,0,0,0-.16-0.12,1.25,1.25,0,0,0-.24-0.16,1.21,1.21,0,0,0-.21-0.07,1.23,1.23,0,0,0-.2-0.06l-31-4a1.53,1.53,0,0,0-.35,0l-31,4a1.35,1.35,0,0,0,0,2.68h0Z"/><path class="cls-2" d="M79.73,17.53a2.25,2.25,0,0,1-4.49,0c0-1.86,1.15-3.94,2.25-5.48,1.1,1.53,2.25,3.61,2.25,5.48h0Z"/><polygon class="cls-2" points="46.51 2.45 67.1 5.14 46.51 7.82 25.92 5.14 46.51 2.45"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="90">
+					0				</span>
+				<span class="fact-text">percent of graduated students that have 
+participated in internship/research opportunities</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-new-start-ups" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon research">
+				<svg height="140" width="140" id="svg_research" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><path class="cls-1" d="M43.09,45.78L51.1,70s12.42,3.89,15.82,1.72,10.34-2.64,11-7S82,55.49,81.12,52.57s-1.7-6.89-2.35-6.79-5.43,1.38-5.69,1.46-2.93,2.17-5.43.26-7.36-2-8-.89-5.32,3.18-6,2-4.78-3.76-5.53-3.45A39,39,0,0,1,43.09,45.78Z"/><path class="cls-2" d="M72.09,31.71V12.51A3.76,3.76,0,0,0,71.68,5H55a3.76,3.76,0,0,0-.42,7.49v19.2a24.26,24.26,0,0,0-9.79,7,1.25,1.25,0,1,0,1.92,1.61,21.75,21.75,0,0,1,9.53-6.57,1.25,1.25,0,0,0,.84-1.18V12.53h7.1a1.25,1.25,0,0,0,0-2.51H55a1.25,1.25,0,0,1,0-2.51H71.68a1.25,1.25,0,0,1,0,2.51H69.17a1.25,1.25,0,1,0,0,2.51h0.42V32.58a1.25,1.25,0,0,0,.84,1.18A21.72,21.72,0,1,1,55.16,74.42a1.25,1.25,0,1,0-.94,2.32,24.23,24.23,0,1,0,17.88-45h0Zm0,0"/><path class="cls-2" d="M73.91,58.7a1.25,1.25,0,1,1-1.25-1.25,1.25,1.25,0,0,1,1.25,1.25h0Zm0,0"/><path class="cls-2" d="M68.9,63.71a1.25,1.25,0,1,1-1.25-1.25,1.25,1.25,0,0,1,1.25,1.25h0Zm0,0"/><path class="cls-2" d="M55.91,69.92L53.24,69a4.68,4.68,0,0,0-2-.54c-0.56.19,0.06,2,.26,2.51a2.47,2.47,0,0,0,1.38.74c0.71,0.26,1.43.45,2.14,0.69a23.46,23.46,0,0,0,15.4-.28,19.22,19.22,0,0,0,9.84-27,2.12,2.12,0,0,0-.82-1,1.77,1.77,0,0,0-1.07-.1,10.26,10.26,0,0,0-3.93,2.06c-1.23.84-2.72,1.58-4.16,1.22s-2.3-1.54-3.47-2.32a6.21,6.21,0,0,0-6.19-.34c-1.74.91-3.16,2.69-5.12,2.74-2.36.07-4-2.39-6.25-3.12-2-.64-4.15.17-6.09,1L43.34,45a1.28,1.28,0,0,0,.4,1.85,2.92,2.92,0,0,0,2.1.22A8.16,8.16,0,0,1,48,46.73c1.54,0.12,2.66,1.44,4,2.25a6.66,6.66,0,0,0,6.88,0c1.14-.71,2.08-1.79,3.35-2.21a3.7,3.7,0,0,1,2.42,0,17,17,0,0,1,3.11,2.11,6.63,6.63,0,0,0,6.42.37c1.44-.71,2.59-1.95,4.09-2.52A17.12,17.12,0,0,1,75.7,65.52a17.58,17.58,0,0,1-17.61,5.12C57.35,70.43,56.63,70.17,55.91,69.92Zm0.34-.49"/><path class="cls-2" d="M39.27,32.37V7.49A3.76,3.76,0,0,0,38.85,0H22.14a3.76,3.76,0,0,0-.42,7.49V27.57a1.25,1.25,0,1,0,2.51,0V7.52h7.1a1.25,1.25,0,0,0,0-2.51H22.14a1.25,1.25,0,1,1,0-2.51H38.85a1.25,1.25,0,1,1,0,2.51H36.34a1.25,1.25,0,0,0,0,2.51h0.42V32.58a1.26,1.26,0,0,0,.07.41L49,68.2A5.47,5.47,0,0,1,43.44,76H17.55a6,6,0,0,1-5.1-2.26A6,6,0,0,1,12,68.2L24.16,33a1.25,1.25,0,1,0-2.37-.82L9.62,67.38a8.42,8.42,0,0,0,.79,7.83,8.43,8.43,0,0,0,7.14,3.31H43.44a7.95,7.95,0,0,0,7.93-11.14Zm0,0"/><path class="cls-2" d="M19.83,58.27a1.25,1.25,0,0,0-2,.58L14.36,69a3.61,3.61,0,0,0,.14,3.28,3.61,3.61,0,0,0,3.05,1.2H43.44a3.61,3.61,0,0,0,3.05-1.2A3.61,3.61,0,0,0,46.64,69L43.12,58.85a1.25,1.25,0,0,0-2-.58,4,4,0,0,1-2.89.94,4.14,4.14,0,0,1-3.07-1.37,6.6,6.6,0,0,0-9.41,0,4.14,4.14,0,0,1-3.07,1.37,4,4,0,0,1-2.89-.93h0Z"/><path class="cls-1" d="M27.42,59.73a4.13,4.13,0,0,1,6.14,0,6.58,6.58,0,0,0,4.7,2,7.13,7.13,0,0,0,3-.56l3,8.7a2.42,2.42,0,0,1,.17,1,2.4,2.4,0,0,1-1,.16H17.55a2.4,2.4,0,0,1-1-.16,2.43,2.43,0,0,1,.17-1l3-8.7a7.13,7.13,0,0,0,3,.56,6.58,6.58,0,0,0,4.7-2h0Z"/><path class="cls-2" d="M87.64,85.17H9a1.32,1.32,0,1,1,0-2.65H87.64A1.32,1.32,0,1,1,87.64,85.17Z"/><path class="cls-2" d="M74.41,92.73H22.26a1.32,1.32,0,1,1,0-2.65H74.41A1.32,1.32,0,0,1,74.41,92.73Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="18">
+					0				</span>
+				<span class="fact-text">new businesses started
+over the past 5 years</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-new-inventions" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon research">
+				<svg height="140" width="140" id="svg_research" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><path class="cls-1" d="M43.09,45.78L51.1,70s12.42,3.89,15.82,1.72,10.34-2.64,11-7S82,55.49,81.12,52.57s-1.7-6.89-2.35-6.79-5.43,1.38-5.69,1.46-2.93,2.17-5.43.26-7.36-2-8-.89-5.32,3.18-6,2-4.78-3.76-5.53-3.45A39,39,0,0,1,43.09,45.78Z"/><path class="cls-2" d="M72.09,31.71V12.51A3.76,3.76,0,0,0,71.68,5H55a3.76,3.76,0,0,0-.42,7.49v19.2a24.26,24.26,0,0,0-9.79,7,1.25,1.25,0,1,0,1.92,1.61,21.75,21.75,0,0,1,9.53-6.57,1.25,1.25,0,0,0,.84-1.18V12.53h7.1a1.25,1.25,0,0,0,0-2.51H55a1.25,1.25,0,0,1,0-2.51H71.68a1.25,1.25,0,0,1,0,2.51H69.17a1.25,1.25,0,1,0,0,2.51h0.42V32.58a1.25,1.25,0,0,0,.84,1.18A21.72,21.72,0,1,1,55.16,74.42a1.25,1.25,0,1,0-.94,2.32,24.23,24.23,0,1,0,17.88-45h0Zm0,0"/><path class="cls-2" d="M73.91,58.7a1.25,1.25,0,1,1-1.25-1.25,1.25,1.25,0,0,1,1.25,1.25h0Zm0,0"/><path class="cls-2" d="M68.9,63.71a1.25,1.25,0,1,1-1.25-1.25,1.25,1.25,0,0,1,1.25,1.25h0Zm0,0"/><path class="cls-2" d="M55.91,69.92L53.24,69a4.68,4.68,0,0,0-2-.54c-0.56.19,0.06,2,.26,2.51a2.47,2.47,0,0,0,1.38.74c0.71,0.26,1.43.45,2.14,0.69a23.46,23.46,0,0,0,15.4-.28,19.22,19.22,0,0,0,9.84-27,2.12,2.12,0,0,0-.82-1,1.77,1.77,0,0,0-1.07-.1,10.26,10.26,0,0,0-3.93,2.06c-1.23.84-2.72,1.58-4.16,1.22s-2.3-1.54-3.47-2.32a6.21,6.21,0,0,0-6.19-.34c-1.74.91-3.16,2.69-5.12,2.74-2.36.07-4-2.39-6.25-3.12-2-.64-4.15.17-6.09,1L43.34,45a1.28,1.28,0,0,0,.4,1.85,2.92,2.92,0,0,0,2.1.22A8.16,8.16,0,0,1,48,46.73c1.54,0.12,2.66,1.44,4,2.25a6.66,6.66,0,0,0,6.88,0c1.14-.71,2.08-1.79,3.35-2.21a3.7,3.7,0,0,1,2.42,0,17,17,0,0,1,3.11,2.11,6.63,6.63,0,0,0,6.42.37c1.44-.71,2.59-1.95,4.09-2.52A17.12,17.12,0,0,1,75.7,65.52a17.58,17.58,0,0,1-17.61,5.12C57.35,70.43,56.63,70.17,55.91,69.92Zm0.34-.49"/><path class="cls-2" d="M39.27,32.37V7.49A3.76,3.76,0,0,0,38.85,0H22.14a3.76,3.76,0,0,0-.42,7.49V27.57a1.25,1.25,0,1,0,2.51,0V7.52h7.1a1.25,1.25,0,0,0,0-2.51H22.14a1.25,1.25,0,1,1,0-2.51H38.85a1.25,1.25,0,1,1,0,2.51H36.34a1.25,1.25,0,0,0,0,2.51h0.42V32.58a1.26,1.26,0,0,0,.07.41L49,68.2A5.47,5.47,0,0,1,43.44,76H17.55a6,6,0,0,1-5.1-2.26A6,6,0,0,1,12,68.2L24.16,33a1.25,1.25,0,1,0-2.37-.82L9.62,67.38a8.42,8.42,0,0,0,.79,7.83,8.43,8.43,0,0,0,7.14,3.31H43.44a7.95,7.95,0,0,0,7.93-11.14Zm0,0"/><path class="cls-2" d="M19.83,58.27a1.25,1.25,0,0,0-2,.58L14.36,69a3.61,3.61,0,0,0,.14,3.28,3.61,3.61,0,0,0,3.05,1.2H43.44a3.61,3.61,0,0,0,3.05-1.2A3.61,3.61,0,0,0,46.64,69L43.12,58.85a1.25,1.25,0,0,0-2-.58,4,4,0,0,1-2.89.94,4.14,4.14,0,0,1-3.07-1.37,6.6,6.6,0,0,0-9.41,0,4.14,4.14,0,0,1-3.07,1.37,4,4,0,0,1-2.89-.93h0Z"/><path class="cls-1" d="M27.42,59.73a4.13,4.13,0,0,1,6.14,0,6.58,6.58,0,0,0,4.7,2,7.13,7.13,0,0,0,3-.56l3,8.7a2.42,2.42,0,0,1,.17,1,2.4,2.4,0,0,1-1,.16H17.55a2.4,2.4,0,0,1-1-.16,2.43,2.43,0,0,1,.17-1l3-8.7a7.13,7.13,0,0,0,3,.56,6.58,6.58,0,0,0,4.7-2h0Z"/><path class="cls-2" d="M87.64,85.17H9a1.32,1.32,0,1,1,0-2.65H87.64A1.32,1.32,0,1,1,87.64,85.17Z"/><path class="cls-2" d="M74.41,92.73H22.26a1.32,1.32,0,1,1,0-2.65H74.41A1.32,1.32,0,0,1,74.41,92.73Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="55">
+					0				</span>
+				<span class="fact-text">percent of research 
+funded by Federal awards</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+        
+        
+        
+        
+    </div><!-- end .l-main -->
+
+</div>
+
+<div id="trigger-footer"></div>
+<footer id="l-footer" class="" role="contentinfo">
+	<div id="l-footer-first" class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div>
+					<button id="footer-toggle">
+						<h3>
+							<span class="open-text">Click For More</span>
+							<span class="close-text">Less</span>
+							<span class="fa fa-caret-square-o-down"><span class='sr-only'>toggle footer </span></span>
+						</h3>
+					</button>
+
+					<div class="social-container">
+						<img alt="UNC Charlotte Logo" class="footer-logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo-footer.png">
+					</div>
+																				</div>
+			</div>
+		</div>
+	</div>
+	<div id="l-footer-second" class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col col-sm-4">
+						<h3>Campus Links</h3>
+						<ul>
+							<li><a href="https://emergency.charlotte.edu" title="Alerts and Advisories at UNC Charlotte">Alerts</a></li>
+							<li><a href="https://jobs.charlotte.edu" title="Jobs at UNC Charlotte">Jobs</a></li>
+							<li><a href="https://giving.charlotte.edu" title="Make a gift to UNC Charlotte">Make a Gift</a></li>
+							<li><a href="https://maps.charlotte.edu" title="Directions to UNC Charlotte">Maps / Directions</a></li>
+							<li><a href="https://accessibility.charlotte.edu" title="Accessibility resources at UNC Charlotte" style="vertical-align: top;"><i class="fa fa-wheelchair" aria-hidden="true"></i> Accessibility</a></li>
+						</ul>
+					</div>
+					<div class="col col-sm-4">
+						<h3>Resources</h3>
+						<ul>
+							<li><a href="/gateway/alumni-friends" title="Alumni and Friends">Alumni &amp; Friends</a></li>
+							<li><a href="/gateway/faculty-staff" title="Faculty and Staff">Faculty &amp; Staff</a></li>
+							<li><a href="/gateway/prospective-students" title="Prospective Students">Prospective Students</a></li>
+							<li><a href="/gateway/community" title="Community">Community</a></li>
+							<li><a href="/gateway/current-students" title="Current Students"> Current Students</a></li>
+							<li><a href="/gateway/parents-family" title="Parents and Family"> Parents and Family</a></li>
+						</ul>
+					</div>
+
+					<div class="col col-sm-4">
+						<h3>Stay In Touch</h3>
+						<div class="social">
+							<a href="https://www.facebook.com/UNCCharlotte" target="_blank"><span class="fa fa-facebook" title="Facebook"></span><span class="sr-only">facebook</span></a>
+							<a href="https://www.instagram.com/unccharlotte/" target="_blank"><span class="fa fa-instagram" title="Instagram"></span><span class="sr-only">instagram</span></a>
+							<a href="https://www.flickr.com/photos/stakeyourclaim/sets/" target="_blank"><span class="fa fa-flickr" title="Flickr"></span><span class="sr-only">flickr</span></a>
+							<a href="https://www.linkedin.com/school/166586/" target="_blank"><span class="fa fa-linkedin" title="LinkedIn"></span><span class="sr-only">linkedin</span></a>
+							<a href="https://twitter.com/UNCCharlotte" target="_blank"><span class="fa fa-twitter" title="Twitter"></span><span class="sr-only">twitter</span></a>
+							<a href="https://www.youtube.com/user/unccharlottevideo" target="_blank"><span class="fa fa-youtube-play" title="YouTube"></span><span class="sr-only">youtube</span></a>
+							<a href="https://maps.charlotte.edu" target="_blank"><span class="fa fa-map-marker" title="Maps"></span><span class="sr-only">maps</span></a><br/>
+							<p class="small"><a href="/" title="www.uncc.edu">The University of North Carolina at Charlotte</a><br/>9201 University City Blvd, Charlotte, NC 28223-0001<br/>704-687-8622</p>
+							<em class="small">&copy; 2021 UNC Charlotte | All Rights Reserved <br/> <a href="/contact" title="Contact Us">Contact Us</a> | <a href="https://legal.charlotte.edu/termsofuse" title="Terms of Use">Terms of Use</a> | <a href="https://legal.charlotte.edu/policies" title="University Policy"> University Policies</a></em>
+<br /><br /><br />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript" src="/alerts/alerts.js" defer="defer"></script>
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js_injector/js_injector_1.js?qysvsp"></script>
+</body>
+</html>
+
+
+ REQUEST: 2 
+URL: https://charlotte.edu/landing/admissions-financial-aid
+<!DOCTYPE html>
   <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
   <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
   <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
@@ -191,7 +852,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <div id="block-views-news-block-1" class="block block--views block--views-news-block-1">
         <h2 class="block__title">News</h2>
       <div class="block__content">
-    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1a0b2d41ecd45ff7c84c9928a6806703">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-39eafdcf50014ed9263a551e82a3e664">
         
   
   
@@ -310,12 +971,95 @@ src="https://campusevents.uncc.edu/widget/view?schools=uncc&days=365&num=5&conta
                           <div class="l-region l-region--long-scroll-second">
     <div id="block-views-facts-block-1" class="block block--views block--views-facts-block-1">
         <div class="block__content">
-    <div class="view view-facts view-id-facts view-display-id-block_1 container view-dom-id-d83577bd3c2823b7010c2f14ba753882">
+    <div class="view view-facts view-id-facts view-display-id-block_1 container view-dom-id-85741990cc0385c668d6c35cb8f0e74c">
         
   
   
       <div class="view-content">
         <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-example-statistic" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon students">
+				<svg height="140" width="140" id="svg_students" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><ellipse class="cls-1" cx="47.72" cy="37.57" rx="11.24" ry="14.46"/><path class="cls-2" d="M47.39,53.24h0.38a10.89,10.89,0,0,0,8.32-3.6c4.54-5.12,3.79-13.9,3.71-14.74-0.3-6.29-3.27-9.3-5.72-10.7a13.12,13.12,0,0,0-6.35-1.66h-0.2a13.14,13.14,0,0,0-6.35,1.62c-2.48,1.4-5.5,4.41-5.79,10.75-0.08.84-.84,9.62,3.71,14.74a10.85,10.85,0,0,0,8.31,3.6h0Zm-8.86-18s0-.07,0-0.09c0.39-8.46,6.4-9.37,9-9.37h0.14c3.19,0.07,8.6,1.37,9,9.37a0.22,0.22,0,0,0,0,.09c0,0.08.84,8.11-2.92,12.33a7.73,7.73,0,0,1-6.08,2.53H47.52a7.71,7.71,0,0,1-6.07-2.53c-3.74-4.2-2.94-12.26-2.93-12.33h0Zm0,0"/><path class="cls-2" d="M71.83,67.8v0c0-.09,0-0.19,0-0.3-0.07-2.34-.22-7.8-5.35-9.55l-0.12,0a34.06,34.06,0,0,1-9.8-4.46A1.59,1.59,0,0,0,54.73,56,36.79,36.79,0,0,0,65.51,61c2.75,1,3.06,3.92,3.14,6.61a2.31,2.31,0,0,0,0,.3,21.48,21.48,0,0,1-.25,3.65C66.5,72.59,59,76.34,47.6,76.34s-18.89-3.76-20.82-4.85a20.26,20.26,0,0,1-.25-3.65c0-.09,0-0.19,0-0.3,0.08-2.69.39-5.63,3.14-6.61A37.08,37.08,0,0,0,40.47,56a1.59,1.59,0,1,0-1.83-2.61,33.68,33.68,0,0,1-9.8,4.46l-0.12,0c-5.12,1.76-5.27,7.22-5.35,9.55a2.39,2.39,0,0,1,0,.3v0a18.09,18.09,0,0,0,.6,5.35,1.51,1.51,0,0,0,.61.74c0.35,0.24,8.84,5.64,23,5.64s22.68-5.42,23-5.64a1.58,1.58,0,0,0,.61-0.74,19,19,0,0,0,.57-5.33h0Zm0,0"/><ellipse class="cls-1" cx="17.66" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M17.45,39h0.24A6.89,6.89,0,0,0,23,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H17.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,17.45,39h0ZM11.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,17.61,37H17.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M32.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06A27.64,27.64,0,0,1,4.42,50.52a12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0C2.4,43,2.3,46.49,2.26,48a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,3,52C3.24,52.18,8.61,55.6,17.6,55.6S31.95,52.17,32.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/><ellipse class="cls-1" cx="76.67" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M76.46,39H76.7A6.89,6.89,0,0,0,82,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H76.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,76.46,39h0ZM70.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,76.61,37H76.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M91.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06,27.64,27.64,0,0,1-13.17-3.07,12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0c-3.24,1.11-3.34,4.57-3.38,6a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,62,52c0.22,0.15,5.59,3.57,14.57,3.57S91,52.17,91.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="comma" data-count="30146">
+					0				</span>
+				<span class="fact-text">Students</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-in-state-tuition" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon students">
+				<svg height="140" width="140" id="svg_students" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><ellipse class="cls-1" cx="47.72" cy="37.57" rx="11.24" ry="14.46"/><path class="cls-2" d="M47.39,53.24h0.38a10.89,10.89,0,0,0,8.32-3.6c4.54-5.12,3.79-13.9,3.71-14.74-0.3-6.29-3.27-9.3-5.72-10.7a13.12,13.12,0,0,0-6.35-1.66h-0.2a13.14,13.14,0,0,0-6.35,1.62c-2.48,1.4-5.5,4.41-5.79,10.75-0.08.84-.84,9.62,3.71,14.74a10.85,10.85,0,0,0,8.31,3.6h0Zm-8.86-18s0-.07,0-0.09c0.39-8.46,6.4-9.37,9-9.37h0.14c3.19,0.07,8.6,1.37,9,9.37a0.22,0.22,0,0,0,0,.09c0,0.08.84,8.11-2.92,12.33a7.73,7.73,0,0,1-6.08,2.53H47.52a7.71,7.71,0,0,1-6.07-2.53c-3.74-4.2-2.94-12.26-2.93-12.33h0Zm0,0"/><path class="cls-2" d="M71.83,67.8v0c0-.09,0-0.19,0-0.3-0.07-2.34-.22-7.8-5.35-9.55l-0.12,0a34.06,34.06,0,0,1-9.8-4.46A1.59,1.59,0,0,0,54.73,56,36.79,36.79,0,0,0,65.51,61c2.75,1,3.06,3.92,3.14,6.61a2.31,2.31,0,0,0,0,.3,21.48,21.48,0,0,1-.25,3.65C66.5,72.59,59,76.34,47.6,76.34s-18.89-3.76-20.82-4.85a20.26,20.26,0,0,1-.25-3.65c0-.09,0-0.19,0-0.3,0.08-2.69.39-5.63,3.14-6.61A37.08,37.08,0,0,0,40.47,56a1.59,1.59,0,1,0-1.83-2.61,33.68,33.68,0,0,1-9.8,4.46l-0.12,0c-5.12,1.76-5.27,7.22-5.35,9.55a2.39,2.39,0,0,1,0,.3v0a18.09,18.09,0,0,0,.6,5.35,1.51,1.51,0,0,0,.61.74c0.35,0.24,8.84,5.64,23,5.64s22.68-5.42,23-5.64a1.58,1.58,0,0,0,.61-0.74,19,19,0,0,0,.57-5.33h0Zm0,0"/><ellipse class="cls-1" cx="17.66" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M17.45,39h0.24A6.89,6.89,0,0,0,23,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H17.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,17.45,39h0ZM11.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,17.61,37H17.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M32.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06A27.64,27.64,0,0,1,4.42,50.52a12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0C2.4,43,2.3,46.49,2.26,48a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,3,52C3.24,52.18,8.61,55.6,17.6,55.6S31.95,52.17,32.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/><ellipse class="cls-1" cx="76.67" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M76.46,39H76.7A6.89,6.89,0,0,0,82,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H76.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,76.46,39h0ZM70.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,76.61,37H76.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M91.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06,27.64,27.64,0,0,1-13.17-3.07,12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0c-3.24,1.11-3.34,4.57-3.38,6a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,62,52c0.22,0.15,5.59,3.57,14.57,3.57S91,52.17,91.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="33">
+					0				</span>
+				<span class="fact-text">percent of new undergraduates
+are first-generation college students</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
     <div class="entity entity-bean bean-factoid" about="/block/nng-1" typeof="" class="entity entity-bean bean-factoid">
 
 	
@@ -357,89 +1101,6 @@ src="https://campusevents.uncc.edu/widget/view?schools=uncc&days=365&num=5&conta
 
 
   </div>
-  <div class="views-row views-row-2 views-row-even">
-    <div class="entity entity-bean bean-factoid" about="/block/factoid-masters-degrees" typeof="" class="entity entity-bean bean-factoid">
-
-	
-	<div class="factoid">
-		<div class="mask-container">
-			<div class="mask left">
-			  <div class="semiCircleWrapper">
-				<div class="semiCircle">
-				  <div class="semiCircleInner"></div>
-				</div>
-			  </div>
-			</div>
-			<div class="mask right">
-			  <div class="semiCircleWrapper">
-				<div class="semiCircle">
-				  <div class="semiCircleInner"></div>
-				</div>
-			  </div>
-			</div>
-		</div>
-
-		<div class="icon-container">
-			<div class="icon campus">
-				<svg height="140" width="140" id="svg_campus" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><rect class="cls-1" x="9.88" y="29.82" width="26.31" height="6.04"/><rect class="cls-1" x="62.31" y="29.82" width="23.57" height="6.04"/><path class="cls-1" d="M53.17,72a6.16,6.16,0,0,0-11,0H41.5V90.34H53.85V72H53.17Z"/><rect class="cls-1" x="24.85" y="39.08" width="5.34" height="13.67"/><rect class="cls-1" x="75.53" y="39.08" width="5.34" height="13.67"/><rect class="cls-1" x="74.24" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="24.85" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="7.51" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="44.21" y="52.24" width="5.34" height="14.81" transform="translate(106.52 12.77) rotate(90)"/><path class="cls-2" d="M47.87,32.27a3.65,3.65,0,1,0-3.65-3.65A3.65,3.65,0,0,0,47.87,32.27Zm0-4.54a0.89,0.89,0,1,1-.89.89A0.89,0.89,0,0,1,47.87,27.73Z"/><path class="cls-2" d="M92.94,55.94h-5.7V31.2a1.38,1.38,0,0,0-1.38-1.38H62.31V23.26A1.38,1.38,0,0,0,61.58,22L49.25,15.48V13.79H60.93a1.38,1.38,0,0,0,1.38-1.38V4.34A1.38,1.38,0,0,0,60.93,3H47.87a1.38,1.38,0,0,0-1.38,1.38V15.48L34.16,22a1.38,1.38,0,0,0-.73,1.22v6.56H9.88A1.38,1.38,0,0,0,8.5,31.2V55.94H2.8a1.38,1.38,0,0,0-1.38,1.38V87.57a2.78,2.78,0,0,0,2.77,2.77H91.55a2.78,2.78,0,0,0,2.77-2.77V57.32A1.38,1.38,0,0,0,92.94,55.94Zm-1.38,2.77V60.6H62.31V58.7H91.56ZM63.69,55.94H62.31V37.24H84.48v18.7H63.69ZM84.48,32.58v1.9H62.31v-1.9H84.48ZM59.55,11H49.25V9.76h3.64a1.38,1.38,0,0,0,1.38-1.38V5.72h5.28V11h0ZM49.25,7V5.72h2.26V7H49.25Zm-38,25.58H33.43v1.9H11.26v-1.9Zm0,4.66H33.43v18.7H11.26V37.24ZM9.88,58.7H33.43v1.9H4.18V58.71h5.7ZM4.18,87.57V63.36H33.43V87.58H4.18Zm42.13,0H42.88V74.75a4.8,4.8,0,0,1,3.43-4.6V87.58h0Zm2.76,0V70.16a4.8,4.8,0,0,1,3.4,4.59V87.58h-3.4Zm6.16,0V74.75a7.56,7.56,0,0,0-7.53-7.55h0a7.56,7.56,0,0,0-7.56,7.56V87.58H36.19V24.09l11.68-6.21,11.68,6.21V87.58H55.23Zm36.32,0H62.31V63.36H91.56V87.57h0Z"/><path class="cls-2" d="M55.66,55.94H39.89a1.38,1.38,0,0,0-1.38,1.38V62a1.38,1.38,0,0,0,1.38,1.38H55.66A1.38,1.38,0,0,0,57,62V57.32A1.38,1.38,0,0,0,55.66,55.94ZM54.28,60.6h-13V58.7h13v1.9Z"/><path class="cls-2" d="M42.9,52.75h9.57a1.38,1.38,0,0,0,1.38-1.38V40.46a1.38,1.38,0,0,0-1.38-1.38H42.9a1.38,1.38,0,0,0-1.38,1.38V51.37A1.38,1.38,0,0,0,42.9,52.75ZM51.09,50h-2V41.84h2V50Zm-6.81-8.16h2V50h-2V41.84Z"/><path class="cls-2" d="M20.58,39.08H15.25a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34A1.38,1.38,0,0,0,22,51.37V40.46A1.38,1.38,0,0,0,20.58,39.08ZM19.2,41.84v2.7H16.63v-2.7H19.2ZM16.63,50v-2.7H19.2V50H16.63Z"/><path class="cls-2" d="M30.18,39.08H24.85a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,30.18,39.08ZM28.8,50H26.22V41.84H28.8V50Z"/><path class="cls-2" d="M71.26,39.08H65.93a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,71.26,39.08ZM69.89,50H67.31V41.84h2.58V50Z"/><path class="cls-2" d="M80.86,39.08H75.53a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,80.86,39.08Zm-1.38,2.76v2.7H76.9v-2.7h2.58ZM76.9,50v-2.7h2.58V50H76.9Z"/><path class="cls-2" d="M21.29,67.19H16.34A1.38,1.38,0,0,0,15,68.57V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,21.29,67.19ZM19.91,78.11H17.72V70h2.18v8.16h0Z"/><path class="cls-2" d="M12.65,67.19H7.71a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94A1.38,1.38,0,0,0,14,79.49V68.57A1.38,1.38,0,0,0,12.65,67.19ZM11.27,70v4H9.09V70h2.18ZM9.09,78.11V76.73h2.18v1.38H9.09Z"/><path class="cls-2" d="M30.18,67.19H25.24a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,30.18,67.19ZM28.8,70v0.89H26.62V70H28.8Zm-2.18,8.16V73.6H28.8v4.51H26.62Z"/><path class="cls-2" d="M78.91,67.19H74a1.38,1.38,0,0,0-1.38,1.38V79.49A1.38,1.38,0,0,0,74,80.86h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,78.91,67.19ZM77.53,78.11H75.35V70h2.18v8.16Z"/><path class="cls-2" d="M70.28,67.19H65.33A1.38,1.38,0,0,0,64,68.57V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,70.28,67.19ZM68.9,70v0.89H66.71V70H68.9Zm-2.18,8.16V73.6H68.9v4.51H66.71Z"/><path class="cls-2" d="M87.8,67.19H82.86a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38H87.8a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,87.8,67.19ZM86.42,70v4H84.24V70h2.18Zm-2.18,8.16V76.73h2.18v1.38H84.24Z"/></svg>			</div><!-- end .icon -->
-		</div><!-- end .icon-container -->
-			
-		<div class="text-container">
-			<h2>
-				<span class="fact-num" data-type="normal" data-count="65">
-					0				</span>
-				<span class="fact-text">master's degree
-programs</span>
-			</h2>
-		</div>
-	</div><!-- end .factoid -->
-
-</div>
-
-
-
-  </div>
-  <div class="views-row views-row-3 views-row-odd views-row-last">
-    <div class="entity entity-bean bean-factoid" about="/block/factoid-example-statistic" typeof="" class="entity entity-bean bean-factoid">
-
-	
-	<div class="factoid">
-		<div class="mask-container">
-			<div class="mask left">
-			  <div class="semiCircleWrapper">
-				<div class="semiCircle">
-				  <div class="semiCircleInner"></div>
-				</div>
-			  </div>
-			</div>
-			<div class="mask right">
-			  <div class="semiCircleWrapper">
-				<div class="semiCircle">
-				  <div class="semiCircleInner"></div>
-				</div>
-			  </div>
-			</div>
-		</div>
-
-		<div class="icon-container">
-			<div class="icon students">
-				<svg height="140" width="140" id="svg_students" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><ellipse class="cls-1" cx="47.72" cy="37.57" rx="11.24" ry="14.46"/><path class="cls-2" d="M47.39,53.24h0.38a10.89,10.89,0,0,0,8.32-3.6c4.54-5.12,3.79-13.9,3.71-14.74-0.3-6.29-3.27-9.3-5.72-10.7a13.12,13.12,0,0,0-6.35-1.66h-0.2a13.14,13.14,0,0,0-6.35,1.62c-2.48,1.4-5.5,4.41-5.79,10.75-0.08.84-.84,9.62,3.71,14.74a10.85,10.85,0,0,0,8.31,3.6h0Zm-8.86-18s0-.07,0-0.09c0.39-8.46,6.4-9.37,9-9.37h0.14c3.19,0.07,8.6,1.37,9,9.37a0.22,0.22,0,0,0,0,.09c0,0.08.84,8.11-2.92,12.33a7.73,7.73,0,0,1-6.08,2.53H47.52a7.71,7.71,0,0,1-6.07-2.53c-3.74-4.2-2.94-12.26-2.93-12.33h0Zm0,0"/><path class="cls-2" d="M71.83,67.8v0c0-.09,0-0.19,0-0.3-0.07-2.34-.22-7.8-5.35-9.55l-0.12,0a34.06,34.06,0,0,1-9.8-4.46A1.59,1.59,0,0,0,54.73,56,36.79,36.79,0,0,0,65.51,61c2.75,1,3.06,3.92,3.14,6.61a2.31,2.31,0,0,0,0,.3,21.48,21.48,0,0,1-.25,3.65C66.5,72.59,59,76.34,47.6,76.34s-18.89-3.76-20.82-4.85a20.26,20.26,0,0,1-.25-3.65c0-.09,0-0.19,0-0.3,0.08-2.69.39-5.63,3.14-6.61A37.08,37.08,0,0,0,40.47,56a1.59,1.59,0,1,0-1.83-2.61,33.68,33.68,0,0,1-9.8,4.46l-0.12,0c-5.12,1.76-5.27,7.22-5.35,9.55a2.39,2.39,0,0,1,0,.3v0a18.09,18.09,0,0,0,.6,5.35,1.51,1.51,0,0,0,.61.74c0.35,0.24,8.84,5.64,23,5.64s22.68-5.42,23-5.64a1.58,1.58,0,0,0,.61-0.74,19,19,0,0,0,.57-5.33h0Zm0,0"/><ellipse class="cls-1" cx="17.66" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M17.45,39h0.24A6.89,6.89,0,0,0,23,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H17.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,17.45,39h0ZM11.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,17.61,37H17.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M32.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06A27.64,27.64,0,0,1,4.42,50.52a12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0C2.4,43,2.3,46.49,2.26,48a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,3,52C3.24,52.18,8.61,55.6,17.6,55.6S31.95,52.17,32.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/><ellipse class="cls-1" cx="76.67" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M76.46,39H76.7A6.89,6.89,0,0,0,82,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H76.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,76.46,39h0ZM70.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,76.61,37H76.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M91.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06,27.64,27.64,0,0,1-13.17-3.07,12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0c-3.24,1.11-3.34,4.57-3.38,6a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,62,52c0.22,0.15,5.59,3.57,14.57,3.57S91,52.17,91.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/></svg>			</div><!-- end .icon -->
-		</div><!-- end .icon-container -->
-			
-		<div class="text-container">
-			<h2>
-				<span class="fact-num" data-type="comma" data-count="30146">
-					0				</span>
-				<span class="fact-text">Students</span>
-			</h2>
-		</div>
-	</div><!-- end .factoid -->
-
-</div>
-
-
-
-  </div>
     </div>
   
   
@@ -451,7 +1112,7 @@ programs</span>
 </div>
 <div id="block-views-colleges-block-1" class="block block--views block--views-colleges-block-1">
         <div class="block__content">
-    <div class="view view-colleges view-id-colleges view-display-id-block_1 view-dom-id-023787d7cb313a30036c8f3731e00b22">
+    <div class="view view-colleges view-id-colleges view-display-id-block_1 view-dom-id-596e331e59a7163252baf328928a7410">
             <div class="view-header">
       <div class="container">
 <h2>Undergrads to <span>Overachievers</span></h2>
@@ -812,7 +1473,7 @@ img-lg " about="/block/img-sect-exploring-charlotte" typeof="" class="entity ent
                           <div class="l-region l-region--long-scroll-fifth">
     <div id="block-views-faculty-block-1" class="block block--views block--views-faculty-block-1">
         <div class="block__content">
-    <div class="view view-faculty view-id-faculty view-display-id-block_1 container view-dom-id-b5e451b83221bbd957be05b17447bb36">
+    <div class="view view-faculty view-id-faculty view-display-id-block_1 container view-dom-id-dcbab806956ee5cad9664f786beafb0a">
         
   
   
@@ -931,6 +1592,728 @@ img-lg " about="/block/img-sect-exploring-charlotte" typeof="" class="entity ent
   <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js_injector/js_injector_1.js?qysvsp"></script>
 </body>
 </html>
+
+
+ REQUEST: 3 
+URL: https://charlotte.edu/research
+<!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<meta name="description" content="UNC Charlotte, North Carolina&#039;s urban research university, offers many types of financial aid packages to students. We’re here to make your path to graduation as smooth as possible as we shape the future of work for greater Charlotte and beyond." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.charlotte.edu/landing/admissions-financial-aid" />
+<link rel="shortlink" href="https://www.charlotte.edu/node/1" />
+<meta property="og:site_name" content="UNC Charlotte" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Admissions &amp; Financial Aid @ UNC Charlotte" />
+<meta property="og:url" content="https://www.charlotte.edu/landing/admissions-financial-aid" />
+<meta property="og:description" content="UNC Charlotte, North Carolina&#039;s urban research university, offers many types of financial aid packages to students. We’re here to make your path to graduation as smooth as possible as we shape the future of work for greater Charlotte and beyond." />
+<meta property="og:updated_time" content="2020-07-16T16:27:32-04:00" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.charlotte.edu/landing/admissions-financial-aid" />
+<meta name="twitter:title" content="Admissions &amp; Financial Aid" />
+<meta property="article:published_time" content="2016-10-11T13:50:15-04:00" />
+<meta property="article:modified_time" content="2020-07-16T16:27:32-04:00" />
+<meta name="dcterms.title" content="Admissions &amp; Financial Aid" />
+<meta name="dcterms.creator" content="cmsadmin" />
+<meta name="dcterms.date" content="2016-10-11T13:50-04:00" />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.charlotte.edu/landing/admissions-financial-aid" />
+<meta name="dcterms.modified" content="2020-07-16T16:27-04:00" />
+  <title>Admissions & Financial Aid at the University of North Carolina at Charlotte | UNC Charlotte</title>
+  <link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_Fv50EZIGLeaXrpATgDt7418bTKMZuYI9JWOVVL3pG0g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_sJ_DiP25h5wPYFvivHtL4laS1BNLpOJOQNbwi3frvnk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_osC6AX_A0yKNsbgaSBxiRpYDdjkHPuRGWIkzB0EkE5E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_SNfYNmIqTZxDMQlLcrqMmiOkpaKotEgr0WSRFebdD24.css" media="all" />
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_AXxRUvKBTPKpuTuZ-bxAqsvJdQAXcNG8YfffkvB9dLg.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_7cDlyCaWvpvugsawmEZHGe8OyEiL0ESGqhZPUM9s8sY.js"></script>
+<script>
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1072478,hjsv:6};
+        a=o.getElementsByTagName("head")[0];
+        r=o.createElement("script");r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv=");
+
+
+</script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_nqSnaBSnocuY1OG4jmW9-0J0kKzYJdZPSbyDz55GET4.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_ul7MwxhDg77c-XIzkLnf0lC9IIRQjIdEp3g258S733A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":""});</script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-1 node-type-landing-page section-landing">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFH2K33" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="l-page">
+
+    <header id="l-header" class="l-header" role="banner">
+	
+	<div class="container">
+
+		<div id="l-header-first">
+			  <div class="l-region l-region--header-first">
+    <div id="block-block-1" class="block block--block block--block-1">
+
+	<div class="block__content">
+		<div id="logo-container">
+			<h1>			<a href="/" id="logo-link" title="Home">
+				<img alt="UNC Charlotte" class="logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo.png" />
+			</a>
+			</h1>		</div>
+		<div id="main-toggle-container">
+			<div id="nav-icon1">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+			</div>
+
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <form id="utility-search" class="search" method="get" action="https://search.uncc.edu">
+    <div style="display: flex;">
+       <input type="text" id="utility-search-input" aria-label="Site Search" maxlength="150" size="10" placeholder=" search..." name="q" />
+       <button type="submit" aria-label="Search"><i class="fa fa-search" aria-hidden="true"></i></button>
+   </div>
+</form>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf active-trail"><a href="/landing/admissions-financial-aid" class="active-trail active">Admissions &amp; Financial Aid</a></li>
+<li class="leaf"><a href="https://www.charlotte.edu/academics" title="">Academics</a></li>
+<li class="leaf"><a href="/research">Research</a></li>
+<li class="leaf"><a href="/landing/athletics">Athletics</a></li>
+<li class="leaf"><a href="/landing/campus-life">Campus Life</a></li>
+<li class="last leaf"><a href="/landing/diversity">Diversity</a></li>
+</ul></nav>
+<nav id="block-menu-menu-gateway" role="navigation" class="block block--menu block--menu-menu-gateway">
+      
+  <ul class="menu"><li class="first leaf"><a href="/gateway/alumni-friends">Alumni &amp; Friends</a></li>
+<li class="leaf"><a href="/gateway/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="leaf"><a href="/gateway/prospective-students">Prospective Students</a></li>
+<li class="leaf"><a href="/gateway/community">Community</a></li>
+<li class="leaf"><a href="/gateway/current-students">Current Students</a></li>
+<li class="last leaf"><a href="/gateway/parents-family">Parents &amp; Family</a></li>
+</ul></nav>
+<nav id="block-menu-menu-utility" role="navigation" class="block block--menu block--menu-menu-utility">
+      
+  <ul class="menu"><li class="first leaf"><a href="https://my.charlotte.edu" title="">My UNC Charlotte</a></li>
+<li class="leaf"><a href="https://directory.charlotte.edu" title="">Directory</a></li>
+<li class="leaf"><a href="https://49eralumni.charlotte.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Make a Gift</a></li>
+<li class="last leaf"><a href="https://library.charlotte.edu" title="">Library</a></li>
+</ul></nav>
+<nav id="block-menu-block-2" role="navigation" class="block block--menu-block block--menu-block-2">
+      
+  <div class="menu-block-wrapper menu-block-2 menu-name-menu-cta-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1517"><a href="https://www.charlotte.edu/landing/about-us" title="">About Us</a></li>
+<li class="leaf menu-mlid-773"><a href="https://www.charlotte.edu/landing/admissions-financial-aid" title="">Apply Now</a></li>
+<li class="leaf menu-mlid-775"><a href="https://admissions.uncc.edu/about-unc-charlotte/visit-campus" title="">Visit Our Campus</a></li>
+<li class="leaf menu-mlid-1064"><a href="https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Give to UNC Charlotte</a></li>
+<li class="leaf menu-mlid-776"><a href="https://virtualtour.uncc.edu" title="">Take a Virtual Tour</a></li>
+<li class="last leaf menu-mlid-1575"><a href="https://ninernationcares.uncc.edu/" title="">COVID-19 Resources</a></li>
+</ul></div>
+</nav>
+<div id="block-block-19" class="block block--block block--block-19">
+        <div class="block__content">
+    <!-- Hotjar Tracking Code for https://www.charlotte.edu/ -->
+  </div>
+</div>
+<div id="block-block-43" class="block block--block block--block-43">
+        <div class="block__content">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFH2K33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  </div>
+</div>
+  </div>
+		</div>
+
+		<div id="l-header-second">
+					</div>
+
+		<div id="l-header-third">
+					</div>
+
+	</div>
+
+</header>
+
+    <div class="l-main">
+
+        <div class="container-fluid first">
+    <div class="row">
+        <section class="long-scroll-region" id="l-long-scroll-first">
+            <div id="l-edit-page">
+                                                                            </div>
+            
+                            <section class="" id="l-content-header">
+                    <div class="container">
+                        <div class="row row-no-padding">
+                            <div class="col col-xs-12">
+                                                                    <h1>Admissions &amp; Financial Aid</h1>
+                                                                  <div class="l-region l-region--content-header">
+    <div id="block-views-cta-links-block-1" class="block block--views block--views-cta-links-block-1">
+        <div class="block__content">
+    <div class="view view-cta-links view-id-cta_links view-display-id-block_1 view-dom-id-75a162acbd96d4d7b85e3b0f4f7c322d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+      
+  <div class="views-field views-field-field-cta-link">        <div class="field-content"><ul><li><a href="http://admissions.uncc.edu/about-unc-charlotte/visit-campus/">Visit Our Campus</a></li>
+<li><a href="http://virtualtour.uncc.edu/#UMAP_2011021602395">Take a Virtual Tour</a></li>
+</ul></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                        
+                              <div class="l-region l-region--long-scroll-first">
+    <div id="block-bean-bg-video-admissions" class="block block--bean block--bean-bg-video-admissions">
+        <div class="block__content">
+    <div class="entity entity-bean bean-bg-video" about="/block/bg-video-admissions" typeof="" class="entity entity-bean bean-bg-video">
+	<div class="field-item">
+		<div class="video-background">
+			<div class="video-foreground" style="background:url(https://www.charlotte.edu/sites/www.charlotte.edu/files/video/home-video-mobile.jpg); background-repeat:no-repeat; background-position:center;">
+				<iframe id="bg-video" title="featured video" data-src="https://www.youtube.com/embed/PtvnjtGefiU?controls=0&showinfo=0&rel=0&autoplay=1&mute=1&loop=1&playlist=PtvnjtGefiU" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+</div>
+<div id="block-bean-info-sect-what-type-of-student" class="block block--bean block--bean-info-sect-what-type-of-student">
+        <div class="block__content">
+    <div class="entity entity-bean bean-info-section" about="/block/info-sect-what-type-of-student" typeof="" class="entity entity-bean bean-info-section">
+
+					<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>What type of student will you be?</h2>
+</div></div></div>		
+					
+			<div class="btn-container">
+
+													<a class="btn btn-primary" href="http://admissions.uncc.edu/">Undergraduate Admissions</a>
+									<a class="btn btn-primary" href="https://gradadmissions.uncc.edu/">Graduate Admissions</a>
+							</div><!-- end .btn-container -->
+
+				</div>
+
+
+
+  </div>
+</div>
+  </div>
+            
+        </section>
+    </div>
+</div>
+                    <div class="container-fluid second">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-second">
+                        <a id="main-content"></a>
+                          <div class="l-region l-region--long-scroll-second">
+    <div id="block-bean-img-box-readmits" class="block block--bean block--bean-img-box-readmits">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box box-lg" about="/block/img-box-readmits" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/readmit_imagebox.jpg" alt="readmit students" title="">
+
+				<div class="text-container">
+											<h3>Welcome Readmits! <br> Once a 49er, Always a 49er.</h3>
+										
+											<p>Want to take care of some unfinished business? 
+<br>We'd love to have you back!</p>
+					
+									</div>
+
+			
+		</div>
+
+		
+					<div class="btn-container">
+				<p>Coming back to UNC Charlotte after taking time off?</p>
+				<a class="btn-start-here" href="https://ninercentral.uncc.edu/courses-registration/readmission">Start Here</a>
+			</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-non-degree-seekers" class="block block--bean block--bean-img-box-non-degree-seekers">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box box-lg" about="/block/img-box-non-degree-seekers" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/bcob_imagebox.jpg" alt="Center City student" title="">
+
+				<div class="text-container">
+											<h3>Non-Degree Seekers Discover Endless Reasons to Enroll.</h3>
+										
+											<p>Opportunities to learn and grow aren't only <br> limited to those seeking a degree.</p>
+					
+									</div>
+
+			
+		</div>
+
+					<div class="btn-container">
+				<div class="field field--name-field-button field--type-link-field field--label-hidden"><div class="field__items"><div class="field__item even"><a href="http://continuinged.uncc.edu/">Continuing Education</a></div><div class="field__item odd"><a href="https://gradadmissions.uncc.edu/admissions/post-baccalaureate">Post-Baccalaureate</a></div><div class="field__item even"><a href="http://gradcertificate.uncc.edu/">Graduate Certificates</a></div></div></div>			</div>
+		
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+                    <div class="container-fluid third">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-third">
+                          <div class="l-region l-region--long-scroll-third">
+    <div id="block-bean-info-sect-financial-aid" class="block block--bean block--bean-info-sect-financial-aid">
+        <h2 class="block__title">Financial Aid</h2>
+      <div class="block__content">
+    <div class="entity entity-bean bean-info-section" about="/block/info-sect-financial-aid" typeof="" class="entity entity-bean bean-info-section">
+
+					<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><p>Grants, scholarships, loans, work-study...all kinds of financial help along with help finding it!</p>
+</div></div></div>		
+				</div>
+
+
+
+  </div>
+</div>
+<div id="block-views-facts-block-1" class="block block--views block--views-facts-block-1">
+        <div class="block__content">
+    <div class="view view-facts view-id-facts view-display-id-block_1 container view-dom-id-7ebac1bb7ce75f06038f0ca8d7b2c459">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-scholarships-awarded" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon scholarship">
+				<svg height="140" width="140" id="svg_scholarship" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#a49665;}.cls-2{fill:#574a1e;}</style></defs><title>Artboard 1 copy 7</title><polygon class="cls-1" points="46.46 33.17 44 32.58 43.34 35.02 45.8 35.62 46.46 33.17"/><polygon class="cls-1" points="44.34 39.13 49.45 42.62 44.41 36.53 39.71 39.32 42.02 40.51 44.34 39.13"/><polygon class="cls-1" points="43.51 42.87 48.23 43.95 42.69 40.87 39.06 43.02 42.01 43.75 43.51 42.87"/><polygon class="cls-1" points="49.59 36.03 51.91 34.65 51.97 32.06 47.27 34.84 50.19 42.18 49.59 36.03"/><polygon class="cls-1" points="51.95 41.75 53.27 37.09 54.77 36.2 55.54 33.26 51.92 35.4 51.95 41.75"/><polygon class="cls-1" points="46.88 45.84 48.84 46.32 51.48 45.27 53.72 43.42 54.25 41.48 50.77 44.07 46.88 45.84"/><polygon class="cls-1" points="42.06 45.11 45.35 45.89 46.86 45 43.58 44.21 42.06 45.11"/><polygon class="cls-1" points="53.5 41.06 55.01 40.17 55.92 36.91 54.4 37.81 53.5 41.06"/><path class="cls-1" d="M13.75,49.88A34.74,34.74,0,0,1,17,54,27.92,27.92,0,0,0,13.75,49.88Z"/><path class="cls-1" d="M38.26,52.68l.09,0a15.83,15.83,0,0,1-5.47-6.22A15.3,15.3,0,0,0,38.26,52.68Z"/><path class="cls-1" d="M32.32,45.12c.17.44.35.87.56,1.3C32.67,46,32.49,45.56,32.32,45.12Z"/><path class="cls-1" d="M31.81,43.55c.11.39.23.78.36,1.16C32,44.33,31.91,43.94,31.81,43.55Z"/><path class="cls-1" d="M31.48,42q.1.56.23,1.11C31.62,42.77,31.54,42.4,31.48,42Z"/><path class="cls-2" d="M38.26,52.68a15.3,15.3,0,0,1-5.38-6.26c-.21-.43-.39-.86-.56-1.3l-.15-.4c-.14-.39-.26-.77-.36-1.16,0-.14-.07-.28-.1-.41q-.13-.55-.23-1.11c0-.1,0-.2,0-.3a18.31,18.31,0,0,1-.2-3.39L11.48,48a12.33,12.33,0,0,1,2.26,1.87A27.92,27.92,0,0,1,17,54a22.86,22.86,0,0,1,1.38,2.31l0,.08a14.26,14.26,0,0,1,1.65,5.18Z"/><path class="cls-2" d="M18.44,56.41a17.56,17.56,0,0,1,1,2.49A6.8,6.8,0,0,1,20,61.62l.06,0A14.26,14.26,0,0,0,18.44,56.41Z"/><path class="cls-2" d="M17.94,55.52a8.79,8.79,0,0,1,.46.8A22.86,22.86,0,0,0,17,54C17.3,54.59,17.73,55.09,17.94,55.52Z"/><path class="cls-2" d="M32.17,44.72l.15.4Z"/><path class="cls-2" d="M31.7,43.14c0,.14.06.28.1.41C31.77,43.42,31.74,43.28,31.7,43.14Z"/><path class="cls-2" d="M31.43,41.73c0,.1,0,.2,0,.3Z"/><path class="cls-1" d="M63,36.75q-.1-.56-.23-1.11C62.84,36,62.92,36.38,63,36.75Z"/><path class="cls-1" d="M62.14,33.66c-.17-.44-.35-.87-.56-1.3C61.79,32.78,62,33.22,62.14,33.66Z"/><path class="cls-1" d="M61.58,32.35c-.21-.43-.44-.84-.69-1.24C61.13,31.52,61.37,31.93,61.58,32.35Z"/><path class="cls-1" d="M60.66,30.75c-.22-.34-.45-.68-.7-1C60.21,30.07,60.44,30.41,60.66,30.75Z"/><path class="cls-1" d="M62.65,35.22c-.11-.39-.23-.78-.36-1.17C62.42,34.45,62.54,34.83,62.65,35.22Z"/><path class="cls-1" d="M59.7,29.42q-.36-.44-.74-.86C59.22,28.83,59.46,29.12,59.7,29.42Z"/><path class="cls-2" d="M59,28.56q.38.42.74.86l.26.33c.25.32.48.66.7,1l.23.36c.24.4.48.81.69,1.24s.39.86.56,1.3l.15.4c.14.39.26.77.36,1.17,0,.14.07.27.1.41q.13.55.23,1.11c0,.1,0,.2,0,.3a18.31,18.31,0,0,1,.2,3.4l24.68-12.1a1.75,1.75,0,0,0,.88-2.21l-.7-1.44C84.78,18,79.44,14.7,76.72,16L56.19,26.09a18.31,18.31,0,0,1,2.56,2.24Z"/><path class="cls-2" d="M62.75,35.64c0-.14-.06-.27-.1-.41C62.69,35.36,62.72,35.5,62.75,35.64Z"/><path class="cls-2" d="M60.89,31.12l-.23-.36Z"/><path class="cls-2" d="M62.28,34.06l-.15-.4Z"/><path class="cls-2" d="M63,37c0-.1,0-.2,0-.3Z"/><path class="cls-2" d="M58.75,28.33l.21.22Z"/><path class="cls-2" d="M60,29.75l-.26-.33Z"/><polygon class="cls-1" points="62.28 44.68 63.74 47.66 62.28 44.68 62.28 44.68"/><polygon class="cls-1" points="62.28 44.68 62.28 44.68 62.27 44.65 62.34 44.44 62.37 44.42 62.37 44.42 62.2 44.51 62.28 44.68"/><path class="cls-2" d="M63.74,47.66,65,50.25l16.5-8.09A16.45,16.45,0,0,1,75,38.25l-12.6,6.18-.09.26Z"/><path class="cls-2" d="M62.27,44.65v0l.09-.26h0Z"/><polygon class="cls-2" points="65.01 50.25 65.01 50.25 63.74 47.66 65.01 50.25"/><path class="cls-1" d="M16.59,63.3l-.14.07Z"/><polygon class="cls-1" points="42.18 54.5 42.1 54.36 41.96 54.43 42.18 54.5"/><path class="cls-1" d="M16.4,60a4.85,4.85,0,0,1,.33,2.86,1.19,1.19,0,0,0,0,.27,1.06,1.06,0,0,0,.19-.34c.3-1.57-.75-4.44-2.52-7,.21.43.64.93.85,1.36A18.36,18.36,0,0,1,16.4,60Z"/><path class="cls-1" d="M18.44,56.41l0-.08Z"/><polygon class="cls-1" points="38.26 52.68 20.09 61.59 20.09 61.59 38.26 52.68 38.26 52.68"/><polygon class="cls-1" points="20.03 61.62 20.09 61.59 20.09 61.59 20.03 61.62"/><path class="cls-1" d="M11.48,48l-.06,0a11.66,11.66,0,0,1,2.32,1.84A12.33,12.33,0,0,0,11.48,48Z"/><path class="cls-2" d="M41.93,54.44,17.71,66.32c-1.58.77-4.73,1.25-7.82-5.06a1.51,1.51,0,0,1,.73-2.14,1.51,1.51,0,0,1,2.14.73c1.06,2.15,2.54,4.09,3.55,3.6a1.12,1.12,0,0,0,.39-.3,1.19,1.19,0,0,1,0-.27A4.85,4.85,0,0,0,16.4,60a18.36,18.36,0,0,0-1.19-2.8c-.21-.43-.64-.93-.85-1.36-3-4.38-5.24-6.69-8-5.35-4,2-.51,9.86.62,12.16C10.68,70.12,17.94,73.32,22,71.35l23-11.25-2.73-5.57Z"/><path class="cls-2" d="M16.3,63.45l.14-.07.14-.07a.18.18,0,0,0,.1-.16A1.12,1.12,0,0,1,16.3,63.45Z"/><path class="cls-2" d="M41.93,54.44l.26.09v0L42,54.43Z"/><polygon class="cls-2" points="44.92 60.1 44.92 60.1 42.19 54.53 42.19 54.53 44.92 60.1"/><polygon class="cls-2" points="42.18 54.5 42.19 54.53 42.19 54.53 42.18 54.5 42.18 54.5"/><polygon class="cls-2" points="41.93 54.44 17.71 66.31 41.93 54.44 41.93 54.44"/><polygon class="cls-2" points="41.96 54.43 41.93 54.44 41.93 54.44 41.96 54.43 41.96 54.43"/><path class="cls-1" d="M91.73,24.87,91,23.29c-3.94-8-10.77-12.52-15.64-10.13L52.52,24.34a15.9,15.9,0,0,0-20.43,10L5,47.63C.4,49.88.14,55.88,4.15,64.06c4.22,8.61,13,13.18,19.22,10.16L46.33,63l8,16.36,5.12-15,15,5.12-8-16.36,23-11.25A1.39,1.39,0,0,0,90,39.8a1.51,1.51,0,0,0-2.14-.73c-2.75,1.35-6.63.41-9.93-2.25l11.28-5.53A5.07,5.07,0,0,0,91.73,24.87Zm-50.13,3a12.83,12.83,0,0,1,16.45,4.68l0,0a12.78,12.78,0,0,1,.63,1.13c.18.36.33.74.47,1.11.07.19.13.39.19.59s.12.35.17.53.12.49.17.74.06.27.08.4.08.51.11.77,0,.28,0,.42,0,.47,0,.71,0,.38,0,.57,0,.35,0,.52,0,.6-.08.89l0,.18a12.89,12.89,0,0,1-.26,1.29,1.55,1.55,0,0,0-.19.36L59,44.13a12.69,12.69,0,0,1-6.2,6.6,13,13,0,0,1-9,.86l-1.28-.35a12.73,12.73,0,0,1-6.09-5l0,0a12.72,12.72,0,0,1-1.14-2.32v0A12.83,12.83,0,0,1,41.6,27.91ZM11.48,48l19.74-9.68a18.28,18.28,0,0,0,.08,2.28c0,.37.06.75.12,1.12l0,.3c.06.37.14.74.23,1.11,0,.14.06.28.1.41.11.39.23.78.36,1.16l.15.4c.17.44.35.87.56,1.3a15.83,15.83,0,0,0,5.47,6.22l-.09,0h0L20.09,61.59l-.06,0a6.8,6.8,0,0,0-.62-2.72,17.56,17.56,0,0,0-1-2.49l0-.08a8.79,8.79,0,0,0-.46-.8c-.21-.43-.64-.93-.92-1.51a34.74,34.74,0,0,0-3.28-4.14A11.66,11.66,0,0,0,11.42,48ZM22,71.35c-4,2-11.28-1.23-14.94-8.69C5.89,60.36,2.38,52.47,6.4,50.5c2.73-1.34,4.92,1,8,5.35,1.77,2.52,2.82,5.38,2.52,7a1.06,1.06,0,0,1-.19.34.18.18,0,0,1-.1.16l-.14.07-.14.07c-1,.49-2.49-1.45-3.55-3.6a1.51,1.51,0,0,0-2.14-.73,1.51,1.51,0,0,0-.73,2.14c3.1,6.31,6.24,5.84,7.82,5.06L41.93,54.44h0l.14-.07.07.14v0l2.73,5.57ZM68.19,64,57.5,60.34,53.84,71,46.17,55.39a15.88,15.88,0,0,0,14.35-7l2.32,4.74h0ZM81.51,42.16,65,50.25l-1.27-2.59-1.46-3-.08-.17.17-.08h0L75,38.25A16.45,16.45,0,0,0,81.51,42.16Zm6.4-13.82L63.23,40.44A18.31,18.31,0,0,0,63,37l0-.3c-.06-.37-.14-.74-.23-1.11,0-.14-.06-.27-.1-.41-.11-.39-.23-.78-.36-1.17l-.15-.4c-.17-.44-.35-.87-.56-1.3s-.44-.84-.69-1.24l-.23-.36c-.22-.34-.45-.68-.7-1l-.26-.33c-.24-.3-.48-.58-.74-.86l-.21-.22a18.31,18.31,0,0,0-2.56-2.24L76.72,16C79.44,14.7,84.78,18,88.08,24.7l.7,1.44A1.75,1.75,0,0,1,87.91,28.34Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="1114">
+					0				</span>
+				<span class="fact-text">Annual and Endowed Institutional Scholarships Awarded More Than $4.2 million</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-example-statistic" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon students">
+				<svg height="140" width="140" id="svg_students" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><ellipse class="cls-1" cx="47.72" cy="37.57" rx="11.24" ry="14.46"/><path class="cls-2" d="M47.39,53.24h0.38a10.89,10.89,0,0,0,8.32-3.6c4.54-5.12,3.79-13.9,3.71-14.74-0.3-6.29-3.27-9.3-5.72-10.7a13.12,13.12,0,0,0-6.35-1.66h-0.2a13.14,13.14,0,0,0-6.35,1.62c-2.48,1.4-5.5,4.41-5.79,10.75-0.08.84-.84,9.62,3.71,14.74a10.85,10.85,0,0,0,8.31,3.6h0Zm-8.86-18s0-.07,0-0.09c0.39-8.46,6.4-9.37,9-9.37h0.14c3.19,0.07,8.6,1.37,9,9.37a0.22,0.22,0,0,0,0,.09c0,0.08.84,8.11-2.92,12.33a7.73,7.73,0,0,1-6.08,2.53H47.52a7.71,7.71,0,0,1-6.07-2.53c-3.74-4.2-2.94-12.26-2.93-12.33h0Zm0,0"/><path class="cls-2" d="M71.83,67.8v0c0-.09,0-0.19,0-0.3-0.07-2.34-.22-7.8-5.35-9.55l-0.12,0a34.06,34.06,0,0,1-9.8-4.46A1.59,1.59,0,0,0,54.73,56,36.79,36.79,0,0,0,65.51,61c2.75,1,3.06,3.92,3.14,6.61a2.31,2.31,0,0,0,0,.3,21.48,21.48,0,0,1-.25,3.65C66.5,72.59,59,76.34,47.6,76.34s-18.89-3.76-20.82-4.85a20.26,20.26,0,0,1-.25-3.65c0-.09,0-0.19,0-0.3,0.08-2.69.39-5.63,3.14-6.61A37.08,37.08,0,0,0,40.47,56a1.59,1.59,0,1,0-1.83-2.61,33.68,33.68,0,0,1-9.8,4.46l-0.12,0c-5.12,1.76-5.27,7.22-5.35,9.55a2.39,2.39,0,0,1,0,.3v0a18.09,18.09,0,0,0,.6,5.35,1.51,1.51,0,0,0,.61.74c0.35,0.24,8.84,5.64,23,5.64s22.68-5.42,23-5.64a1.58,1.58,0,0,0,.61-0.74,19,19,0,0,0,.57-5.33h0Zm0,0"/><ellipse class="cls-1" cx="17.66" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M17.45,39h0.24A6.89,6.89,0,0,0,23,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H17.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,17.45,39h0ZM11.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,17.61,37H17.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M32.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06A27.64,27.64,0,0,1,4.42,50.52a12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0C2.4,43,2.3,46.49,2.26,48a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,3,52C3.24,52.18,8.61,55.6,17.6,55.6S31.95,52.17,32.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/><ellipse class="cls-1" cx="76.67" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M76.46,39H76.7A6.89,6.89,0,0,0,82,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H76.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,76.46,39h0ZM70.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,76.61,37H76.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M91.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06,27.64,27.64,0,0,1-13.17-3.07,12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0c-3.24,1.11-3.34,4.57-3.38,6a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,62,52c0.22,0.15,5.59,3.57,14.57,3.57S91,52.17,91.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="comma" data-count="30146">
+					0				</span>
+				<span class="fact-text">Students</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-pell-grants" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon finance2">
+				<svg height="140" width="140" id="svg_finance2" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#a49665;}.cls-2{fill:#574a1e;}</style></defs><title>UNC Charlotte Icons</title><path class="cls-1" d="M86.52,35.41c-0.12-2-2.53-3.61-7.35-4.81a2.63,2.63,0,0,0,.25-1.11V21.21h0c-0.43-6.9-28.69-7.1-31.94-7.1s-31.51.2-31.94,7.1h0v8.28c0,2.25,2.91,4,7.22,5.32a2.65,2.65,0,0,0-.11.59h0v8.27c-4.65,1.2-7,2.76-7.09,4.75h0v8.29c0,1.57,1.42,2.89,3.73,4a2.69,2.69,0,0,0-.16.73h0v8.29c0,3.94,8.88,6.38,18.73,7.52a0.92,0.92,0,0,0,.21,0l0.06,0c1.9,0.21,3.83.38,5.74,0.5l0.12,0H44c2.42,0.14,4.81.22,7,.22s4.62-.08,7-0.22h0.06l0.12,0c1.91-.12,3.84-0.29,5.74-0.5H64a1.39,1.39,0,0,0,.21,0C74.1,76.11,83,73.67,83,69.73V61.45h0c-0.08-1.45-1.32-2.66-3.76-3.67a2.6,2.6,0,0,0,.23-1.06V49c4.25-1.3,7.1-3.05,7.1-5.28V35.41h0ZM21.43,31.88c-2.3-.86-3.55-1.73-3.55-2.39v-4.9a17.26,17.26,0,0,0,3.55,1.62v5.67ZM17.9,21.31c0.19-1.76,10.06-4.83,29.57-4.83S76.86,19.54,77,21.31c-0.14.8-2,1.86-5.18,2.86a79.32,79.32,0,0,1-19,2.84l-1.28.05-1.07,0c-1,0-2,0-3,0s-2,0-3,0l-1.07,0L42.12,27a79.33,79.33,0,0,1-19-2.84C19.86,23.17,18,22.11,17.9,21.31Zm59.16,3.28v4.9a0.94,0.94,0,0,1-.27.58h0l-0.43.34a11.66,11.66,0,0,1-2.82,1.46V26.21A17.52,17.52,0,0,0,77.06,24.59Zm-5.92,2.35v5.7c-1.06.31-2.26,0.6-3.56,0.88V27.76Q69.48,27.38,71.14,26.94Zm-5.92,1.24V34c-1.13.2-2.31,0.38-3.56,0.54V28.68Q63.5,28.46,65.23,28.18Zm-5.92.76v5.87c-1.15.12-2.33,0.23-3.56,0.31V29.22Q57.56,29.1,59.31,28.93Zm-5.92.42v5.9l-0.6,0h0c-0.8,0-1.61.06-2.43,0.08H48.65V29.48h1.17C51,29.44,52.2,29.41,53.39,29.36Zm-7.1.13V35.4c-1.59,0-3.18-.06-4.73-0.13V29.36c1.18,0.05,2.37.09,3.57,0.12h1.17Zm-7.1-.26v5.89c-1.2-.09-2.39-0.18-3.55-0.31V28.93C36.8,29,38,29.14,39.18,29.22Zm-5.92-.55v5.85l-0.71-.09-0.45-.06-2-.31L29.72,34V28.18C30.86,28.36,32,28.53,33.27,28.68Zm-9.47,4V26.94c1.1,0.29,2.29.57,3.55,0.82v5.78l-0.44-.09c-0.63-.14-1.24-0.28-1.83-0.44S24.21,32.77,23.8,32.66ZM25,38.79a17.76,17.76,0,0,0,3.56,1.63V46c-1.86-.72-3.06-1.45-3.45-2.1L25,43.8s0-.08,0-0.12v-4.9Zm-1.36,7.08,0.06,0.05c1.62,1.63,5,2.92,9.15,3.88l0.29,0.06,0.94,0.2a91.9,91.9,0,0,0,13.4,1.7h0c1.61,0.09,3.24.16,4.92,0.18l2.18,0c0.82,0,1.66,0,2.51,0,1.55,0,3.07-.09,4.58-0.18h0A91.76,91.76,0,0,0,75.37,50a21.77,21.77,0,0,1-3.5,1.36,81.46,81.46,0,0,1-20.45,2.9l-0.8,0-0.88,0-2.26,0c-1,0-2,0-3,0l-1.07,0-1.28,0a79.57,79.57,0,0,1-19-2.85c-3.25-1-5.07-2.07-5.18-2.88C18,48.06,19.22,46.94,23.62,45.87Zm7.28,1v-5.7c1.11,0.3,2.29.57,3.56,0.82v5.77C33.14,47.44,32,47.14,30.9,46.84Zm5.92,1.35v-5.8c1.15,0.18,2.34.35,3.56,0.5v5.85c-0.73-.09-1.43-0.2-2.12-0.3H38.17ZM42.73,49V43.13c1.17,0.12,2.35.21,3.56,0.29v5.9l-0.29,0-0.48,0c-0.76-.06-1.5-0.12-2.22-0.2l-0.46,0h-0.1Zm5.92,0.46V43.56c1.19,0.06,2.38.09,3.57,0.12h1.16V49.6l-1.72,0H51.41q-1.34,0-2.62-.1H48.65Zm7.1,0.13V43.69h1.17c1.19,0,2.38-.06,3.57-0.12v5.91C58.93,49.54,57.35,49.58,55.75,49.59Zm7.1-.28v-5.9c1.2-.08,2.39-0.17,3.55-0.29V49l-2.08.21H64.2Zm5.92-.59V42.88c1.22-.14,2.4-0.31,3.55-0.5v5.81l-0.12,0-1.58.26-0.94.14Zm7.1-1.25-0.9.2-0.28.06V42c1.26-.25,2.44-0.52,3.55-0.82v5.72L77.73,47C77.14,47.17,76.51,47.32,75.88,47.47Zm1.18,4.33v4.9a0.75,0.75,0,0,1-.13.39l-0.4.35a10.58,10.58,0,0,1-3,1.63V53.44A17.68,17.68,0,0,0,77.06,51.81Zm-5.92,2.35v5.72q-1.59.46-3.56,0.88V55C68.85,54.73,70,54.45,71.14,54.16ZM65.23,55.4v5.81c-1.12.2-2.3,0.38-3.56,0.54V55.9Q63.5,55.68,65.23,55.4Zm-5.92.76V62l-2.25.21-0.51,0-0.79.06v-5.9C57,56.36,58.14,56.27,59.31,56.15Zm-5.92.42v5.91l-0.76,0-2.17.07H49.94l-1.28,0V56.71l1,0h0.19C51,56.67,52.21,56.63,53.39,56.58Zm-7.1.13v5.91h-1l-1.62,0h-0.2l-1.92-.08V56.58c1.18,0.06,2.37.09,3.57,0.12h0.19Zm-7.1-.27v5.9c-1-.07-2-0.16-2.94-0.25l-0.36,0-0.25,0V56.15C36.8,56.27,38,56.36,39.18,56.44Zm-5.92-.54v5.85c-1.25-.17-2.43-0.35-3.55-0.54V55.4C30.86,55.59,32,55.76,33.27,55.9ZM27.35,55v5.77q-1.63-.35-3-0.72l-0.44-.12-0.11,0V54.16C24.9,54.46,26.09,54.73,27.35,55Zm-6.61,3.85c-1.86-.77-2.86-1.53-2.86-2.12v-4.9a17.41,17.41,0,0,0,3.55,1.63v5.64l-0.68-.26h0ZM25,72.12c-2.3-.86-3.55-1.73-3.55-2.39v-4.9A17.83,17.83,0,0,0,25,66.46v5.66Zm5.92,1.65c-1.3-.28-2.5-0.57-3.55-0.88V67.18c1.1,0.29,2.29.57,3.55,0.82v5.78Zm5.92,1c-1.25-.17-2.43-0.35-3.55-0.54V68.42c1.14,0.19,2.33.36,3.55,0.5v5.85Zm5.92,0.59q-1.84-.13-3.55-0.31V69.18c1.17,0.11,2.35.21,3.55,0.29v5.9Zm7.1,0.28q-2.45,0-4.73-.13V69.6c1.18,0.06,2.37.09,3.57,0.12h0.18l1,0v5.91Zm7.1-.14c-1.52.08-3.1,0.13-4.73,0.14V69.72h1.16q1.8,0,3.57-.12V75.5Zm5.92-.45q-1.71.18-3.55,0.31V69.46c1.2-.08,2.38-0.17,3.55-0.28v5.88Zm5.92-.82c-1.12.2-2.3,0.38-3.55,0.54V68.92c1.22-.15,2.4-0.32,3.55-0.5v5.81Zm5.92-1.34c-1.05.31-2.24,0.6-3.55,0.88V68c1.25-.25,2.44-0.52,3.55-0.82V72.9Zm5.92-3.17c0,0.67-1.25,1.54-3.55,2.4V66.46a17.83,17.83,0,0,0,3.55-1.63v4.9Zm0-8.18c-0.13.8-1.95,1.86-5.18,2.86a79.46,79.46,0,0,1-19,2.85l-1.28,0-1.07,0c-1,0-2,0-3,0s-2,0-3,0L47,67.3l-1.29-.05a79.21,79.21,0,0,1-19-2.84c-3.13-1-4.94-2-5.17-2.79L22.55,62l0.12,0,1,0.28L24,62.4l0.58,0.15a86.44,86.44,0,0,0,15.75,2.24h0c1.84,0.1,3.71.17,5.61,0.2h1.5l2,0c1.73,0,3.43-.09,5.1-0.19h0q3-.19,5.88-0.51h0.09c2.1-.24,4.1-0.54,5.95-0.89l1.13-.21,0.25-.05a31.83,31.83,0,0,0,8.6-2.8l0.32-.19,0.38-.24,0.35-.22C79.88,60.49,80.52,61.24,80.59,61.54ZM79,38.37a79.85,79.85,0,0,1-19,2.84l-1.28.05-1.07,0c-1,0-2,0-3,0s-2,0-3,0l-1.07,0-1.28,0a79.58,79.58,0,0,1-19-2.85c-3.23-1-5-2.06-5.18-2.86a0.18,0.18,0,0,1,0-.07l0.25,0.06,1.42,0.32c2.35,0.5,5,.92,7.73,1.24h0c1.89,0.21,3.85.38,5.87,0.5h0.07c1.45,0.08,2.92.15,4.4,0.18,0.91,0,1.8,0,2.68,0l1.9,0C58,37.63,65.94,36.6,71.48,35l0.75-.23,0.45-.13,1.24-.43,0.2-.07,1-.39,0.26-.12c0.33-.15.65-0.3,0.94-0.46L76.67,33l0.42-.25,0.23-.14c5.3,1.15,6.7,2.4,6.83,2.9C84,36.29,82.22,37.36,79,38.37Zm5.19,5.32c0,0.66-1.25,1.53-3.55,2.39V40.42a17.49,17.49,0,0,0,3.55-1.63v4.9Z"/><path class="cls-2" d="M84.15,35.49c-0.13-.49-1.53-1.75-6.83-2.9l-0.23.14L76.67,33l-0.37.21c-0.29.16-.61,0.31-0.94,0.46l-0.26.12-1,.39-0.2.07-1.24.43-0.45.13L71.48,35C65.94,36.6,58,37.63,49.37,37.76l-1.9,0c-0.87,0-1.77,0-2.68,0-1.49,0-3-.1-4.4-0.18H40.32c-2-.12-4-0.29-5.87-0.5h0c-2.77-.32-5.38-0.73-7.73-1.24l-1.42-.32L25,35.44a0.18,0.18,0,0,0,0,.07c0.14,0.8,2,1.86,5.18,2.86a79.58,79.58,0,0,0,19,2.85l1.28,0,1.07,0c1,0,2,0,3,0s2,0,3,0l1.07,0,1.28-.05a79.85,79.85,0,0,0,19-2.84C82.22,37.36,84,36.29,84.15,35.49Z"/><path class="cls-2" d="M42.12,27l1.28,0.05,1.07,0c1,0,2,0,3,0s2,0,3,0l1.07,0L52.82,27a79.32,79.32,0,0,0,19-2.84c3.21-1,5-2.05,5.18-2.86C76.86,19.54,67,16.48,47.47,16.48S18.08,19.54,17.9,21.31c0.14,0.8,2,1.86,5.17,2.86A79.33,79.33,0,0,0,42.12,27Z"/><path class="cls-2" d="M23.07,51.38a79.57,79.57,0,0,0,19,2.85l1.28,0,1.07,0c1,0,2,0,3,0l2.26,0,0.88,0,0.8,0a81.46,81.46,0,0,0,20.45-2.9A21.77,21.77,0,0,0,75.37,50,91.76,91.76,0,0,1,61.7,51.76h0c-1.5.09-3,.15-4.58,0.18-0.85,0-1.69,0-2.51,0l-2.18,0c-1.68,0-3.31-.09-4.92-0.18h0a91.9,91.9,0,0,1-13.4-1.7l-0.94-.2-0.29-.06c-4.18-1-7.53-2.25-9.15-3.88l-0.06-.05c-4.39,1.07-5.59,2.19-5.72,2.63C18,49.31,19.82,50.38,23.07,51.38Z"/><path class="cls-2" d="M77.19,59.88l-0.38.24-0.32.19a31.83,31.83,0,0,1-8.6,2.8l-0.25.05-1.13.21c-1.85.35-3.84,0.65-5.95,0.89H60.47q-2.84.32-5.88,0.51h0c-1.66.1-3.37,0.16-5.1,0.19l-2,0H46c-1.9,0-3.77-.09-5.61-0.2h0a86.44,86.44,0,0,1-15.75-2.24L24,62.4l-0.38-.11-1-.28-0.12,0-1.09-.36c0.22,0.79,2,1.82,5.17,2.79a79.21,79.21,0,0,0,19,2.84L47,67.3l1.06,0c1,0,2,0,3,0s2,0,3,0l1.07,0,1.28,0a79.46,79.46,0,0,0,19-2.85c3.23-1,5.05-2.06,5.18-2.86-0.07-.3-0.72-1-3.06-1.88Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="41">
+					0				</span>
+				<span class="fact-text">percent of undergraduates 
+received Pell grants</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-bean-info-sect-financial-aid-button" class="block block--bean block--bean-info-sect-financial-aid-button">
+        <div class="block__content">
+    <div class="entity entity-bean bean-info-section" about="/block/info-sect-financial-aid-button" typeof="" class="entity entity-bean bean-info-section">
+
+		
+					
+			<div class="btn-container">
+
+													<a class="btn btn-secondary" href="http://finaid.uncc.edu">Go to the financial aid website to get started</a>
+							</div><!-- end .btn-container -->
+
+				</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+                
+                    <div class="container-fluid fourth">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-fourth">
+                          <div class="l-region l-region--long-scroll-fourth">
+    <div id="block-bean-info-sect-admissions-related-l" class="block block--bean block--bean-info-sect-admissions-related-l">
+        <h2 class="block__title">Student Services</h2>
+      <div class="block__content">
+    <div class="entity entity-bean bean-info-section" about="/block/info-sect-admissions---related-l" typeof="" class="entity entity-bean bean-info-section">
+
+		
+					
+			<div class="btn-container">
+
+													<a class="btn btn-info" href="http://ncresidency.uncc.edu/">Residency Determination</a>
+									<a class="btn btn-info" href="http://registrar.uncc.edu/">Office of the Registrar</a>
+									<a class="btn btn-info" href="http://studentaffairs.uncc.edu/">Student Affairs</a>
+							</div><!-- end .btn-container -->
+
+				</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-veteran-services" class="block block--bean block--bean-img-box-veteran-services">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box" about="/block/img-box-veteran-services" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+							<a href="http://unccdso.uncc.edu/org/veteranstudentservices">
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/veterans-398.png" alt="veterans holding american flag" title="">
+
+				<div class="text-container">
+											<h3>Veteran Services</h3>
+										
+											<p>Check out our dedicated Veterans Center and its many specially tailored programs. It's our turn to serve you.</p>
+					
+											<span class="learn-more white">Learn More</span>
+									</div>
+
+							</a>
+			
+		</div>
+
+		
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+                    <div class="container-fluid fifth">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-fifth">
+                          <div class="l-region l-region--long-scroll-fifth">
+    <div id="block-bean-info-sect-here-to-help" class="block block--bean block--bean-info-sect-here-to-help">
+        <h2 class="block__title">We're Here To Help!</h2>
+      <div class="block__content">
+    <div class="entity entity-bean bean-info-section" about="/block/info-sect-here-to-help" typeof="" class="entity entity-bean bean-info-section">
+
+		
+				</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-undergraduate" class="block block--bean block--bean-img-box-undergraduate">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box box-lg" about="/block/img-box-undergraduate" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/undergrad_imagebox%20%281%29%20%281%29.jpg" alt="Undergraduates studying" title="">
+
+				<div class="text-container">
+											<h3>Undergraduate</h3>
+										
+											<p>Have questions? Hitting a roadblock? Need help? We're here to make your path to graduation as smooth as possible.</p>
+					
+									</div>
+
+			
+		</div>
+
+		
+					<div class="btn-container">
+				<p>Explore Undergraduate Admissions</p>
+				<a class="btn-start-here" href="http://admissions.uncc.edu/">Start Here</a>
+			</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-box-graduate" class="block block--bean block--bean-img-box-graduate">
+        <div class="block__content">
+    <div class="entity entity-bean bean-img-box box-lg" about="/block/img-box-graduate" typeof="" class="entity entity-bean bean-img-box">
+
+		
+		<div class="img-container">
+			
+			
+				<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/block/grad_imagebox%20%281%29.jpg" alt="graduate students and teacher" title="">
+
+				<div class="text-container">
+											<h3>Graduate</h3>
+										
+											<p>Just for you...special events, assistance and resources designed especially for graduate students.</p>
+					
+									</div>
+
+			
+		</div>
+
+		
+					<div class="btn-container">
+				<p>Explore Graduate Admissions</p>
+				<a class="btn-start-here" href="https://gradadmissions.uncc.edu/">Start Here</a>
+			</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+        
+        
+        
+    </div><!-- end .l-main -->
+
+</div>
+
+<div id="trigger-footer"></div>
+<footer id="l-footer" class="" role="contentinfo">
+	<div id="l-footer-first" class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div>
+					<button id="footer-toggle">
+						<h3>
+							<span class="open-text">Click For More</span>
+							<span class="close-text">Less</span>
+							<span class="fa fa-caret-square-o-down"><span class='sr-only'>toggle footer </span></span>
+						</h3>
+					</button>
+
+					<div class="social-container">
+						<img alt="UNC Charlotte Logo" class="footer-logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo-footer.png">
+					</div>
+																				</div>
+			</div>
+		</div>
+	</div>
+	<div id="l-footer-second" class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col col-sm-4">
+						<h3>Campus Links</h3>
+						<ul>
+							<li><a href="https://emergency.charlotte.edu" title="Alerts and Advisories at UNC Charlotte">Alerts</a></li>
+							<li><a href="https://jobs.charlotte.edu" title="Jobs at UNC Charlotte">Jobs</a></li>
+							<li><a href="https://giving.charlotte.edu" title="Make a gift to UNC Charlotte">Make a Gift</a></li>
+							<li><a href="https://maps.charlotte.edu" title="Directions to UNC Charlotte">Maps / Directions</a></li>
+							<li><a href="https://accessibility.charlotte.edu" title="Accessibility resources at UNC Charlotte" style="vertical-align: top;"><i class="fa fa-wheelchair" aria-hidden="true"></i> Accessibility</a></li>
+						</ul>
+					</div>
+					<div class="col col-sm-4">
+						<h3>Resources</h3>
+						<ul>
+							<li><a href="/gateway/alumni-friends" title="Alumni and Friends">Alumni &amp; Friends</a></li>
+							<li><a href="/gateway/faculty-staff" title="Faculty and Staff">Faculty &amp; Staff</a></li>
+							<li><a href="/gateway/prospective-students" title="Prospective Students">Prospective Students</a></li>
+							<li><a href="/gateway/community" title="Community">Community</a></li>
+							<li><a href="/gateway/current-students" title="Current Students"> Current Students</a></li>
+							<li><a href="/gateway/parents-family" title="Parents and Family"> Parents and Family</a></li>
+						</ul>
+					</div>
+
+					<div class="col col-sm-4">
+						<h3>Stay In Touch</h3>
+						<div class="social">
+							<a href="https://www.facebook.com/UNCCharlotte" target="_blank"><span class="fa fa-facebook" title="Facebook"></span><span class="sr-only">facebook</span></a>
+							<a href="https://www.instagram.com/unccharlotte/" target="_blank"><span class="fa fa-instagram" title="Instagram"></span><span class="sr-only">instagram</span></a>
+							<a href="https://www.flickr.com/photos/stakeyourclaim/sets/" target="_blank"><span class="fa fa-flickr" title="Flickr"></span><span class="sr-only">flickr</span></a>
+							<a href="https://www.linkedin.com/school/166586/" target="_blank"><span class="fa fa-linkedin" title="LinkedIn"></span><span class="sr-only">linkedin</span></a>
+							<a href="https://twitter.com/UNCCharlotte" target="_blank"><span class="fa fa-twitter" title="Twitter"></span><span class="sr-only">twitter</span></a>
+							<a href="https://www.youtube.com/user/unccharlottevideo" target="_blank"><span class="fa fa-youtube-play" title="YouTube"></span><span class="sr-only">youtube</span></a>
+							<a href="https://maps.charlotte.edu" target="_blank"><span class="fa fa-map-marker" title="Maps"></span><span class="sr-only">maps</span></a><br/>
+							<p class="small"><a href="/" title="www.uncc.edu">The University of North Carolina at Charlotte</a><br/>9201 University City Blvd, Charlotte, NC 28223-0001<br/>704-687-8622</p>
+							<em class="small">&copy; 2021 UNC Charlotte | All Rights Reserved <br/> <a href="/contact" title="Contact Us">Contact Us</a> | <a href="https://legal.charlotte.edu/termsofuse" title="Terms of Use">Terms of Use</a> | <a href="https://legal.charlotte.edu/policies" title="University Policy"> University Policies</a></em>
+<br /><br /><br />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript" src="/alerts/alerts.js" defer="defer"></script>
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js_injector/js_injector_1.js?qysvsp"></script>
+</body>
+</html>
+
 WEBSITE URLS:
 https://charlotte.edu/
  https://charlotte.edu/landing/admissions-financial-aid
@@ -964,13 +2347,13 @@ https://www.charlotte.edu/academics
  https://admissions.uncc.edu/about-unc-charlotte/visit-campus
  https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&gid=2&pgid=1143
  https://virtualtour.uncc.edu
- https://ninernationcares.uncc.edu/
+ https://ninernationcares.uncc.edu
  https://www.charlotte.edu/landing/about-us
  https://www.charlotte.edu/landing/admissions-financial-aid
  https://admissions.uncc.edu/about-unc-charlotte/visit-campus
  https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&gid=2&pgid=1143
  https://virtualtour.uncc.edu
- https://ninernationcares.uncc.edu/
+ https://ninernationcares.uncc.edu
  https://inside.charlotte.edu/news-features/2021-08-24/niner-nation-launches-2021-22-academic-year
  https://inside.charlotte.edu/news-features/2021-08-19/university-convocation-2021-chancellor-gaber-spotlights-ways-unc-charlotte
  https://inside.charlotte.edu/news-features/2021-08-19/hi-we%E2%80%99re-charlotte-nice-meet-you
@@ -987,9 +2370,9 @@ https://www.charlotte.edu/academics
  https://maps.charlotte.edu
  https://accessibility.charlotte.edu
  https://www.facebook.com/UNCCharlotte
- https://www.instagram.com/unccharlotte/
- https://www.flickr.com/photos/stakeyourclaim/sets/
- https://www.linkedin.com/school/166586/
+ https://www.instagram.com/unccharlotte
+ https://www.flickr.com/photos/stakeyourclaim/sets
+ https://www.linkedin.com/school/166586
  https://twitter.com/UNCCharlotte
  https://www.youtube.com/user/unccharlottevideo
  https://maps.charlotte.edu

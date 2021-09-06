@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/AdventOfCodeDay8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/AdventOfCodeDay8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/OUTPUT/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/OUTPUT/links.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/input.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Web_Parser/Web_Crawler.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/Web_Crawler.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/file_writer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/file_writer.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

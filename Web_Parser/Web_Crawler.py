@@ -3,11 +3,13 @@ from urllib.parse import urljoin
 import requests
 from bs4 import BeautifulSoup
 import os
+import concurrent.futures
 
 
 class Spider:
     filename = 'output.txt'
     log = ''
+    threads = 2
 
     def __init__(self, start_url, depth, enable_log):
         self.urls = list()
@@ -43,6 +45,8 @@ class Spider:
                 response_html = requests.get(url)
                 # Adding the responses to a list
                 self.responses.append(BeautifulSoup(response_html.text, 'html.parser').prettify())
+                if url.endswith('/'):
+                    url = url[:-1]
                 self.crawled.append(url)
                 # Adding the URL to List
                 return response_html
@@ -73,6 +77,8 @@ class Spider:
                 links_list.append(full_link)
                 self.urls.append(full_link)
             elif full_link and full_link.startswith('https://'):
+                if full_link.endswith('/'):
+                    full_link = full_link[:-1]
                 self.external_urls.append(full_link)
 
         links_list = list(filter(None, links_list))
@@ -85,7 +91,7 @@ class Spider:
         for u in self.urls:
             print(u)
 
-    # Create a file to appen the output to
+    # Create a file to append the output to
     def create_file(self, filename):
         if not os.path.exists('OUTPUT'):
             print('Creating directory ' + 'OUTPUT')
@@ -108,19 +114,15 @@ class Spider:
         with open('OUTPUT/' + self.filename, 'w') as f:
             f.write(str(data))
 
-    # depth is to limit the requests
+    # depth is to limit the requests in THREADING
     def main(self):
-        # Let us implement threading
-        task = threading.Thread(target=self.start())
-        task.start()
-
-    # start function
-    def start(self):
-        for i in range(0, self.depth):
-            url = self.urls[i]
-            self.log += f'Request: {i + 1}\nURL: {url}\n ' + str(self.make_request(url).text)
+        with concurrent.futures.ThreadPoolExecutor() as executor:
+            result = [executor.submit(self.make_request, self.urls[i]) for i in range(self.threads)]
+        for index, f in enumerate(concurrent.futures.as_completed(result)):
+            self.log += f'\n REQUEST: {index + 1} \nURL: {self.urls[index]}\n' + str(f.result().text) + '\n'
 
 
-s = Spider(start_url='https://charlotte.edu', depth=1, enable_log='1')
+s = Spider(start_url='https://charlotte.edu', depth=3, enable_log='1')
 s.print_log()
 print(s.external_urls)
+print(s.crawled)
