@@ -17,7 +17,6 @@ def create_project_dir(directory):
 def create_data_files(project_name, base_url):
     crawled_data = os.path.join('OUTPUT', 'data.csv')
     link_file = os.path.join('OUTPUT', 'links.csv')
-
     if not os.path.isfile(crawled_data):
         write_file(crawled_data, base_url)
     if not os.path.isfile(link_file):

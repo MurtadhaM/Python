@@ -1,0 +1,997 @@
+Request: 1
+URL: https://charlotte.edu/
+ <!DOCTYPE html>
+  <!--[if IEMobile 7]><html class="no-js ie iem7" lang="en" dir="ltr"><![endif]-->
+  <!--[if lte IE 6]><html class="no-js ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+  <!--[if (IE 7)&(!IEMobile)]><html class="no-js ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+  <!--[if IE 8]><html class="no-js ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+  <!--[if (gte IE 9)|(gt IEMobile 7)]><html class="no-js ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+  <!--[if !IE]><!--><html class="no-js" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+  <meta charset="utf-8" />
+<link rel="shortcut icon" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="MobileOptimized" content="width" />
+<meta http-equiv="cleartype" content="on" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://www.charlotte.edu/sites/all/themes/omega/omega/apple-touch-icon-precomposed.png" />
+<meta name="description" content="UNC Charlotte, North Carolina&#039;s urban research university, fuels American innovation in everything from resilient and sustainable architecture and environmental systems, epidemiological modeling and sustainable energy, shaping the future of work for greater Charlotte and beyond." />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://www.charlotte.edu/" />
+<link rel="shortlink" href="https://www.charlotte.edu/" />
+<meta property="og:site_name" content="The University of North Carolina at Charlotte | UNC Charlotte" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.charlotte.edu/" />
+<meta property="og:title" content="The University of North Carolina at Charlotte | UNC Charlotte" />
+<meta property="og:description" content="UNC Charlotte, North Carolina&#039;s urban research university, fuels American innovation in everything from resilient and sustainable architecture and environmental systems, epidemiological modeling and sustainable energy, shaping the future of work for greater Charlotte and beyond." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:url" content="https://www.charlotte.edu/" />
+<meta name="twitter:title" content="UNC Charlotte" />
+<meta name="dcterms.title" content="The University of North Carolina at Charlotte | UNC Charlotte" />
+<meta name="dcterms.description" content="UNC Charlotte, North Carolina&#039;s urban research university, fuels American innovation in everything from resilient and sustainable architecture and environmental systems, epidemiological modeling and sustainable energy, shaping the future of work for greater Charlotte and beyond." />
+<meta name="dcterms.type" content="Text" />
+<meta name="dcterms.format" content="text/html" />
+<meta name="dcterms.identifier" content="https://www.charlotte.edu/" />
+  <title>The University of North Carolina at Charlotte | UNC Charlotte</title>
+  <link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_Fv50EZIGLeaXrpATgDt7418bTKMZuYI9JWOVVL3pG0g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_-2TvNVOP1v5hQl_AIXEjWHvOGjJyJefhYrpmfBHGeyg.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_osC6AX_A0yKNsbgaSBxiRpYDdjkHPuRGWIkzB0EkE5E.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.charlotte.edu/sites/www.charlotte.edu/files/css/css_62AMJGmOVg2C90Lvc2PtiCOdRRwq41vgW_I1BSMUt0Y.css" media="all" />
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_AXxRUvKBTPKpuTuZ-bxAqsvJdQAXcNG8YfffkvB9dLg.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_7cDlyCaWvpvugsawmEZHGe8OyEiL0ESGqhZPUM9s8sY.js"></script>
+<script>
+
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1072478,hjsv:6};
+        a=o.getElementsByTagName("head")[0];
+        r=o.createElement("script");r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv=");
+
+
+</script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_rvAg4qBaVeWNQAWc4jqXMKvSWJem9WAX7SIKLbgkks0.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_nqSnaBSnocuY1OG4jmW9-0J0kKzYJdZPSbyDz55GET4.js"></script>
+<script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js/js_ul7MwxhDg77c-XIzkLnf0lC9IIRQjIdEp3g258S733A.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":""});</script>
+</head>
+<body class="html front not-logged-in page-node page-node- page-node-99 node-type-landing-page">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KFH2K33" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>  <div class="l-page">
+
+    <header id="l-header" class="l-header" role="banner">
+	
+	<div class="container">
+
+		<div id="l-header-first">
+			  <div class="l-region l-region--header-first">
+    <div id="block-block-1" class="block block--block block--block-1">
+
+	<div class="block__content">
+		<div id="logo-container">
+			<h1>			<a href="/" id="logo-link" title="Home">
+				<img alt="UNC Charlotte" class="logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo.png" />
+			</a>
+			</h1>		</div>
+		<div id="main-toggle-container">
+			<div id="nav-icon1">
+				<span></span>
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</div>
+			</div>
+
+</div>
+<div id="block-block-3" class="block block--block block--block-3">
+        <div class="block__content">
+    <form id="utility-search" class="search" method="get" action="https://search.uncc.edu">
+    <div style="display: flex;">
+       <input type="text" id="utility-search-input" aria-label="Site Search" maxlength="150" size="10" placeholder=" search..." name="q" />
+       <button type="submit" aria-label="Search"><i class="fa fa-search" aria-hidden="true"></i></button>
+   </div>
+</form>  </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+      
+  <ul class="menu"><li class="first leaf"><a href="/landing/admissions-financial-aid">Admissions &amp; Financial Aid</a></li>
+<li class="leaf"><a href="https://www.charlotte.edu/academics" title="">Academics</a></li>
+<li class="leaf"><a href="/research">Research</a></li>
+<li class="leaf"><a href="/landing/athletics">Athletics</a></li>
+<li class="leaf"><a href="/landing/campus-life">Campus Life</a></li>
+<li class="last leaf"><a href="/landing/diversity">Diversity</a></li>
+</ul></nav>
+<nav id="block-menu-menu-gateway" role="navigation" class="block block--menu block--menu-menu-gateway">
+      
+  <ul class="menu"><li class="first leaf"><a href="/gateway/alumni-friends">Alumni &amp; Friends</a></li>
+<li class="leaf"><a href="/gateway/faculty-staff">Faculty &amp; Staff</a></li>
+<li class="leaf"><a href="/gateway/prospective-students">Prospective Students</a></li>
+<li class="leaf"><a href="/gateway/community">Community</a></li>
+<li class="leaf"><a href="/gateway/current-students">Current Students</a></li>
+<li class="last leaf"><a href="/gateway/parents-family">Parents &amp; Family</a></li>
+</ul></nav>
+<nav id="block-menu-menu-utility" role="navigation" class="block block--menu block--menu-menu-utility">
+      
+  <ul class="menu"><li class="first leaf"><a href="https://my.charlotte.edu" title="">My UNC Charlotte</a></li>
+<li class="leaf"><a href="https://directory.charlotte.edu" title="">Directory</a></li>
+<li class="leaf"><a href="https://49eralumni.charlotte.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Make a Gift</a></li>
+<li class="last leaf"><a href="https://library.charlotte.edu" title="">Library</a></li>
+</ul></nav>
+<nav id="block-menu-block-2" role="navigation" class="block block--menu-block block--menu-block-2">
+      
+  <div class="menu-block-wrapper menu-block-2 menu-name-menu-cta-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1517"><a href="https://www.charlotte.edu/landing/about-us" title="">About Us</a></li>
+<li class="leaf menu-mlid-773"><a href="https://www.charlotte.edu/landing/admissions-financial-aid" title="">Apply Now</a></li>
+<li class="leaf menu-mlid-775"><a href="https://admissions.uncc.edu/about-unc-charlotte/visit-campus" title="">Visit Our Campus</a></li>
+<li class="leaf menu-mlid-1064"><a href="https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Give to UNC Charlotte</a></li>
+<li class="leaf menu-mlid-776"><a href="https://virtualtour.uncc.edu" title="">Take a Virtual Tour</a></li>
+<li class="last leaf menu-mlid-1575"><a href="https://ninernationcares.uncc.edu/" title="">COVID-19 Resources</a></li>
+</ul></div>
+</nav>
+<div id="block-block-19" class="block block--block block--block-19">
+        <div class="block__content">
+    <!-- Hotjar Tracking Code for https://www.charlotte.edu/ -->
+  </div>
+</div>
+<div id="block-block-43" class="block block--block block--block-43">
+        <div class="block__content">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KFH2K33"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->  </div>
+</div>
+  </div>
+		</div>
+
+		<div id="l-header-second">
+					</div>
+
+		<div id="l-header-third">
+					</div>
+
+	</div>
+
+</header>
+
+    <div class="l-main">
+
+        <div class="container-fluid first">
+    <div class="row">
+        <section class="long-scroll-region" id="l-long-scroll-first">
+            <div id="l-edit-page">
+                                                                            </div>
+            
+                            <aside class="" id="l-cta-flyout">
+                    <span id="close-ne-sect" class="fa fa-times" aria-hidden="true"></span>
+                    <div class='scrollable-region'>
+                          <div class="l-region l-region--cta-flyout">
+    <div id="block-block-2" class="block block--block block--block-2">
+        <div class="block__content">
+    <div><button id="news-events-toggle">News &amp; Events</button></div>
+  </div>
+</div>
+<nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1">
+      
+  <div class="menu-block-wrapper menu-block-1 menu-name-menu-cta-links parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-1517"><a href="https://www.charlotte.edu/landing/about-us" title="">About Us</a></li>
+<li class="leaf menu-mlid-773"><a href="https://www.charlotte.edu/landing/admissions-financial-aid" title="">Apply Now</a></li>
+<li class="leaf menu-mlid-775"><a href="https://admissions.uncc.edu/about-unc-charlotte/visit-campus" title="">Visit Our Campus</a></li>
+<li class="leaf menu-mlid-1064"><a href="https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&amp;gid=2&amp;pgid=1143" title="">Give to UNC Charlotte</a></li>
+<li class="leaf menu-mlid-776"><a href="https://virtualtour.uncc.edu" title="">Take a Virtual Tour</a></li>
+<li class="last leaf menu-mlid-1575"><a href="https://ninernationcares.uncc.edu/" title="">COVID-19 Resources</a></li>
+</ul></div>
+</nav>
+<div id="block-views-news-block-1" class="block block--views block--views-news-block-1">
+        <h2 class="block__title">News</h2>
+      <div class="block__content">
+    <div class="view view-news view-id-news view-display-id-block_1 view-dom-id-1a0b2d41ecd45ff7c84c9928a6806703">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://inside.charlotte.edu/news-features/2021-08-24/niner-nation-launches-2021-22-academic-year">Niner Nation launches the 2021-22 academic year —  in person, with high hopes  </a></span>  </div>  
+  <div class="views-field views-field-field-pub-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-08-24T09:40:34-04:00">Tue, 08/24/2021</span></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://inside.charlotte.edu/news-features/2021-08-19/university-convocation-2021-chancellor-gaber-spotlights-ways-unc-charlotte">University Convocation 2021: Chancellor Gaber spotlights ways UNC Charlotte will ‘Shape What’s Next’</a></span>  </div>  
+  <div class="views-field views-field-field-pub-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-08-19T13:42:23-04:00">Thu, 08/19/2021</span></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://inside.charlotte.edu/news-features/2021-08-19/hi-we%E2%80%99re-charlotte-nice-meet-you">Hi, we’re Charlotte. Nice to meet you.</a></span>  </div>  
+  <div class="views-field views-field-field-pub-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-08-19T09:56:49-04:00">Thu, 08/19/2021</span></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://inside.charlotte.edu/news-features/2021-08-18/air-force-veteran-awarded-inaugural-dubois-legacy-scholarship">Air Force veteran awarded inaugural Dubois Legacy Scholarship</a></span>  </div>  
+  <div class="views-field views-field-field-pub-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-08-18T15:05:06-04:00">Wed, 08/18/2021</span></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="https://inside.charlotte.edu/news-features/2021-08-17/unc-charlotte%E2%80%99s-pandemic-response-receives-2021-aascu-excellence-and">UNC Charlotte’s pandemic response receives 2021 AASCU Excellence and Innovation Award</a></span>  </div>  
+  <div class="views-field views-field-field-pub-date">        <div class="field-content"><span class="date-display-single" property="dc:date" datatype="xsd:dateTime" content="2021-08-16T10:08:40-04:00">Mon, 08/16/2021</span></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a class="read-more" href="http://inside.uncc.edu" target="_blank">View All News</a></p>
+    </div>
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-23" class="block block--block block--block-23">
+        <h2 class="block__title">Events</h2>
+      <div class="block__content">
+    <div id="localist-widget-97611197" class="localist-widget"></div><script defer type="text/javascript"
+src="https://campusevents.uncc.edu/widget/view?schools=uncc&days=365&num=5&container=localist-widget-97611197&template=sidebar-widget"></script><div id="lclst_widget_footer"><a rel="nofollow" style="margin-left:auto;margin-right:auto;display:block;width:81px;margin-top:10px;" title="Widget powered by Localist Event Calendar Software" href="https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link"><img src="//d3e1o4bcbhmj8g.cloudfront.net/assets/platforms/default/about/widget_footer.png" alt="Localist Online Calendar Software" style="vertical-align: middle;" width="81" height="23"></a></div>  </div>
+</div>
+  </div>
+                    </div>
+                </aside>
+
+                        
+                              <div class="l-region l-region--long-scroll-first">
+    <div id="block-bean-silder-we-are-all-niners" class="block block--bean block--bean-silder-we-are-all-niners">
+        <div class="block__content">
+    <div class="entity entity-bean bean-feat-slider clearfix" about="/block/silder-we-are-all-niners" typeof="" class="entity entity-bean bean-feat-slider">
+
+  <div class="content">
+    	
+		<div class="slide">
+		<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20A.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+													<p><p class="big-text all-caps">Charlotte</p>
+<p class="simple-text">Shape What's Next</p></p>
+								
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20B.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+													<p><p class="big-text all-caps">Charlotte</p>
+<p class="simple-text">Shape What's Next</p></p>
+								
+			</div>
+		</div>
+	</div>
+
+	
+		<div class="slide">
+		<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/featured/Shape%20What%27s%20Next%20C.jpg">
+		<div class="text-container">
+			<div class="text-cell">
+													<p><p class="big-text all-caps">Charlotte</p>
+<p class="simple-text">Shape What's Next</p></p>
+								
+			</div>
+		</div>
+	</div>
+
+  </div>
+</div>
+  </div>
+</div>
+<div id="block-bean-bg-video-home" class="block block--bean block--bean-bg-video-home">
+        <div class="block__content">
+    <div class="entity entity-bean bean-bg-video" about="/block/bg-video-home" typeof="" class="entity entity-bean bean-bg-video">
+	<div class="field-item">
+		<div class="video-background">
+			<div class="video-foreground" style="background:url(https://www.charlotte.edu/sites/www.charlotte.edu/files/video/2021%20All%20In%20C%20Web%20Banner%20Still.jpg); background-repeat:no-repeat; background-position:center;">
+				<iframe id="bg-video" title="featured video" data-src="https://www.youtube.com/embed/4-BtWpNVx0Y?controls=0&showinfo=0&rel=0&autoplay=1&mute=1&loop=1&playlist=4-BtWpNVx0Y" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+	</div>
+</div>
+  </div>
+</div>
+  </div>
+            
+        </section>
+    </div>
+</div>
+                    <div class="container-fluid second">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-second">
+                        <a id="main-content"></a>
+                          <div class="l-region l-region--long-scroll-second">
+    <div id="block-views-facts-block-1" class="block block--views block--views-facts-block-1">
+        <div class="block__content">
+    <div class="view view-facts view-id-facts view-display-id-block_1 container view-dom-id-d83577bd3c2823b7010c2f14ba753882">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div class="entity entity-bean bean-factoid" about="/block/nng-1" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon international">
+				
+<svg height="140" width="140" id="svg_international" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><polygon class="cls-1" points="56.5 5.9 58.83 14.07 56.5 20.12 50.79 21.73 47.87 25.75 50.53 32.88 53.35 38.08 57.41 36.65 61.3 28.47 63.38 27.43 66.49 29.9 69.47 35.36 75.16 37.17 85.69 35.36 87.38 33.6 84.65 23.28 79.85 17.31 70.29 9.66 60.69 4.39 55.49 3.04 56.5 5.9"/><path class="cls-2" d="M66.8,47c-0.51.15-1.21,0.35-1.4,0.36-2.45,0-4,1.9-5.13,3.28-0.43.53-1.21,1.48-1.71,1.49a5.55,5.55,0,0,0-2.5-.6,4.27,4.27,0,0,0-4.3,3,3.43,3.43,0,0,0,2.16,3.87c2.88,1.44,5.85,2.92,7.17,4.25A6.14,6.14,0,0,0,65.42,64c2.79,0,6.5-1.36,7.77-5.18a10,10,0,0,1,2.87-3.77c1.35-1.29,2.63-2.52,2.64-4.27a4.07,4.07,0,0,0-1.36-2.94,6.85,6.85,0,0,0-5-1.88,20.46,20.46,0,0,0-5.5,1h0Z"/><path class="cls-1" d="M75.17,50.75a7.59,7.59,0,0,1-1.55,1.75,13,13,0,0,0-3.78,5.21C69,60.34,66,60.47,65.42,60.47a3.37,3.37,0,0,1-1.82-.39c-1.73-1.73-4.82-3.28-8.1-4.91h0a2,2,0,0,1,1.49.12,3.87,3.87,0,0,0,1.74.43c2,0,3.2-1.51,4.29-2.85,0.8-1,1.62-2,2.39-2a9.49,9.49,0,0,0,2.37-.5,17.36,17.36,0,0,1,4.53-.86,3.41,3.41,0,0,1,2.54.84,2.9,2.9,0,0,1,.32.39h0Z"/><path class="cls-2" d="M91.17,39.69a1.77,1.77,0,1,0-3.51.49,43.27,43.27,0,0,1,.41,5.89,42.57,42.57,0,0,1-42,42.51c-6.3-4-12.2-9-9.57-15.09,4.72-11,.33-15.13-1.55-16.89l-0.35-.34A8.44,8.44,0,0,0,32.91,55c-1.3-.78-1.65-1-0.95-3.08a6.65,6.65,0,0,1,1.78-2.78c1.64-1.73,2.89-3.46,2.89-8.47a6.68,6.68,0,0,0-4.06-6.38c-2.93-1.29-6.83-.84-8.9,1a4,4,0,0,0-1.19,4.38c1.26,3.78-1.62,9.25-7,13.29-1.43,1.07-1.85.58-2.11,0.29-1.58-1.82-1.46-7-.16-8.31a2.62,2.62,0,0,0,.69-3c-1.43-3.25-10.59-3-12.4-2.92A1.77,1.77,0,0,0-.19,40.69a41.88,41.88,0,0,0-.32,5.37,46,46,0,0,0,35,44.72,1.77,1.77,0,0,0,.85-3.44A42.42,42.42,0,0,1,3,46.06c0-1.23,0-2.32.14-3.42a26.42,26.42,0,0,1,6.84.74c-2,3.17-1.81,9.41.67,12.27,1.78,2.05,4.36,2.14,6.91.22,6.81-5.1,10-11.88,8.25-17.25A0.5,0.5,0,0,1,26.06,38a5.37,5.37,0,0,1,5.08-.42,3.12,3.12,0,0,1,1.95,3.14c0,4-.81,4.85-1.92,6a10.1,10.1,0,0,0-2.57,4.1c-1.59,4.78,1,6.32,2.49,7.23a5.53,5.53,0,0,1,1,.69l0.44,0.42c1.56,1.46,4.46,4.17.71,12.9C29,82,39.93,88.9,44.61,91.85a1.78,1.78,0,0,0,.95.27A46.11,46.11,0,0,0,91.61,46.06a46.63,46.63,0,0,0-.44-6.38h0Z"/><path class="cls-2" d="M46.91,71.78c-2.21,0-4.8,2.54-5.75,4.83a4,4,0,0,0,.6,4.57,6.41,6.41,0,0,0,8.62,0,4.54,4.54,0,0,0,.81-4.87,10.12,10.12,0,0,0-2.34-3.75,2.73,2.73,0,0,0-1.94-.78h0Z"/><path class="cls-1" d="M47.87,78.67a3.1,3.1,0,0,1-3.6,0,2.14,2.14,0,0,1,.45-1.29,5.89,5.89,0,0,1,1.94-2,6.48,6.48,0,0,1,1.16,2,1.45,1.45,0,0,1,0,1.24h0Z"/><path class="cls-2" d="M90,34A46.35,46.35,0,0,0,70.28,7.21h0c-4-3.08-9.91-4.9-13.28-5.77l-0.16,0C56.31,1.26,55.76,1.14,55.22,1l-0.88-.18h0a46.11,46.11,0,0,0-53,32.32,1.77,1.77,0,0,0,3.4,1A42.58,42.58,0,0,1,54.46,4.48,9.26,9.26,0,0,0,56.21,9.9l0.5,0.79c0,6.35-1.3,7.39-1.28,7.39-2.87,0-7.58,2.56-9.36,5.87a5.66,5.66,0,0,0,.25,6,42.87,42.87,0,0,1,2.3,4.08c1.51,2.92,3.18,6.15,5.8,6.15a4,4,0,0,0,1.8-.47c2.06-1,3.55-4,5-6.81a22.58,22.58,0,0,1,2.11-3.67c1.8,0.24,2.68,1.87,3.87,4.45,0.87,1.9,1.78,3.85,3.56,4.74,3,1.5,12.84-.07,18.28-2.38A1.77,1.77,0,0,0,90,34Zm-17.71,1.3C71.64,35,71,33.53,70.38,32.25c-1.23-2.68-2.93-6.34-7.25-6.53-2.23-.13-3.49,2.43-5.11,5.64-0.95,1.88-2.38,4.72-3.52,5.29-0.66-.15-2-2.68-2.74-4.19A45.92,45.92,0,0,0,49.26,28a2.12,2.12,0,0,1-.07-2.41,9.45,9.45,0,0,1,6.23-4c3.2,0,4.83-3.68,4.83-10.93a5.08,5.08,0,0,0-1-2.68A7.07,7.07,0,0,1,58.09,5.6l3.56,1.1a42.81,42.81,0,0,1,24.5,26.71C80.64,35.35,73.57,35.93,72.31,35.31Z"/><path class="cls-1" d="M21.37,18.17S32,15.42,33.72,15.08s2.57,6.69,2.57,6.69-6.09,4.63-6.52,3.09-5.69-3.09-6-1.72-2.39-2.23-2.39-2.23S19,18.77,21.37,18.17Z"/><path class="cls-2" d="M30.21,26.6a1.89,1.89,0,0,1-1.79-1.28A6.58,6.58,0,0,0,24.93,24a1.64,1.64,0,0,1-1.21.84c-0.55.08-1.57,0.22-3.48-3.06C19.69,21.26,18.62,20,19,18.59a2.54,2.54,0,0,1,2-1.8c0.45-.12,10.69-2.76,12.42-3.1a2.09,2.09,0,0,1,1.65.38c1.62,1.17,2.34,5.23,2.62,7.54l0.1,0.81-0.65.5C33,26.06,31.11,26.6,30.21,26.6Zm0.93-2.13h0Zm-6.23-3.29c1.64,0,4.59.88,5.79,2.43a24.5,24.5,0,0,0,4.06-2.48,17.24,17.24,0,0,0-1.21-4.55c-2.32.53-10,2.51-11.56,2.9a3.3,3.3,0,0,0,.34.38L22.49,20l0.11,0.19c0.25,0.44.56,0.91,0.83,1.28a3.22,3.22,0,0,1,1.4-.3h0.08Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="comma" data-count="1">
+					0				</span>
+				<span class="fact-text">#NinerNation</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-masters-degrees" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon campus">
+				<svg height="140" width="140" id="svg_campus" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><rect class="cls-1" x="9.88" y="29.82" width="26.31" height="6.04"/><rect class="cls-1" x="62.31" y="29.82" width="23.57" height="6.04"/><path class="cls-1" d="M53.17,72a6.16,6.16,0,0,0-11,0H41.5V90.34H53.85V72H53.17Z"/><rect class="cls-1" x="24.85" y="39.08" width="5.34" height="13.67"/><rect class="cls-1" x="75.53" y="39.08" width="5.34" height="13.67"/><rect class="cls-1" x="74.24" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="24.85" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="7.51" y="67.19" width="5.34" height="13.67"/><rect class="cls-1" x="44.21" y="52.24" width="5.34" height="14.81" transform="translate(106.52 12.77) rotate(90)"/><path class="cls-2" d="M47.87,32.27a3.65,3.65,0,1,0-3.65-3.65A3.65,3.65,0,0,0,47.87,32.27Zm0-4.54a0.89,0.89,0,1,1-.89.89A0.89,0.89,0,0,1,47.87,27.73Z"/><path class="cls-2" d="M92.94,55.94h-5.7V31.2a1.38,1.38,0,0,0-1.38-1.38H62.31V23.26A1.38,1.38,0,0,0,61.58,22L49.25,15.48V13.79H60.93a1.38,1.38,0,0,0,1.38-1.38V4.34A1.38,1.38,0,0,0,60.93,3H47.87a1.38,1.38,0,0,0-1.38,1.38V15.48L34.16,22a1.38,1.38,0,0,0-.73,1.22v6.56H9.88A1.38,1.38,0,0,0,8.5,31.2V55.94H2.8a1.38,1.38,0,0,0-1.38,1.38V87.57a2.78,2.78,0,0,0,2.77,2.77H91.55a2.78,2.78,0,0,0,2.77-2.77V57.32A1.38,1.38,0,0,0,92.94,55.94Zm-1.38,2.77V60.6H62.31V58.7H91.56ZM63.69,55.94H62.31V37.24H84.48v18.7H63.69ZM84.48,32.58v1.9H62.31v-1.9H84.48ZM59.55,11H49.25V9.76h3.64a1.38,1.38,0,0,0,1.38-1.38V5.72h5.28V11h0ZM49.25,7V5.72h2.26V7H49.25Zm-38,25.58H33.43v1.9H11.26v-1.9Zm0,4.66H33.43v18.7H11.26V37.24ZM9.88,58.7H33.43v1.9H4.18V58.71h5.7ZM4.18,87.57V63.36H33.43V87.58H4.18Zm42.13,0H42.88V74.75a4.8,4.8,0,0,1,3.43-4.6V87.58h0Zm2.76,0V70.16a4.8,4.8,0,0,1,3.4,4.59V87.58h-3.4Zm6.16,0V74.75a7.56,7.56,0,0,0-7.53-7.55h0a7.56,7.56,0,0,0-7.56,7.56V87.58H36.19V24.09l11.68-6.21,11.68,6.21V87.58H55.23Zm36.32,0H62.31V63.36H91.56V87.57h0Z"/><path class="cls-2" d="M55.66,55.94H39.89a1.38,1.38,0,0,0-1.38,1.38V62a1.38,1.38,0,0,0,1.38,1.38H55.66A1.38,1.38,0,0,0,57,62V57.32A1.38,1.38,0,0,0,55.66,55.94ZM54.28,60.6h-13V58.7h13v1.9Z"/><path class="cls-2" d="M42.9,52.75h9.57a1.38,1.38,0,0,0,1.38-1.38V40.46a1.38,1.38,0,0,0-1.38-1.38H42.9a1.38,1.38,0,0,0-1.38,1.38V51.37A1.38,1.38,0,0,0,42.9,52.75ZM51.09,50h-2V41.84h2V50Zm-6.81-8.16h2V50h-2V41.84Z"/><path class="cls-2" d="M20.58,39.08H15.25a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34A1.38,1.38,0,0,0,22,51.37V40.46A1.38,1.38,0,0,0,20.58,39.08ZM19.2,41.84v2.7H16.63v-2.7H19.2ZM16.63,50v-2.7H19.2V50H16.63Z"/><path class="cls-2" d="M30.18,39.08H24.85a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,30.18,39.08ZM28.8,50H26.22V41.84H28.8V50Z"/><path class="cls-2" d="M71.26,39.08H65.93a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,71.26,39.08ZM69.89,50H67.31V41.84h2.58V50Z"/><path class="cls-2" d="M80.86,39.08H75.53a1.38,1.38,0,0,0-1.38,1.38V51.37a1.38,1.38,0,0,0,1.38,1.38h5.34a1.38,1.38,0,0,0,1.38-1.38V40.46A1.38,1.38,0,0,0,80.86,39.08Zm-1.38,2.76v2.7H76.9v-2.7h2.58ZM76.9,50v-2.7h2.58V50H76.9Z"/><path class="cls-2" d="M21.29,67.19H16.34A1.38,1.38,0,0,0,15,68.57V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,21.29,67.19ZM19.91,78.11H17.72V70h2.18v8.16h0Z"/><path class="cls-2" d="M12.65,67.19H7.71a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94A1.38,1.38,0,0,0,14,79.49V68.57A1.38,1.38,0,0,0,12.65,67.19ZM11.27,70v4H9.09V70h2.18ZM9.09,78.11V76.73h2.18v1.38H9.09Z"/><path class="cls-2" d="M30.18,67.19H25.24a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,30.18,67.19ZM28.8,70v0.89H26.62V70H28.8Zm-2.18,8.16V73.6H28.8v4.51H26.62Z"/><path class="cls-2" d="M78.91,67.19H74a1.38,1.38,0,0,0-1.38,1.38V79.49A1.38,1.38,0,0,0,74,80.86h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,78.91,67.19ZM77.53,78.11H75.35V70h2.18v8.16Z"/><path class="cls-2" d="M70.28,67.19H65.33A1.38,1.38,0,0,0,64,68.57V79.49a1.38,1.38,0,0,0,1.38,1.38h4.94a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,70.28,67.19ZM68.9,70v0.89H66.71V70H68.9Zm-2.18,8.16V73.6H68.9v4.51H66.71Z"/><path class="cls-2" d="M87.8,67.19H82.86a1.38,1.38,0,0,0-1.38,1.38V79.49a1.38,1.38,0,0,0,1.38,1.38H87.8a1.38,1.38,0,0,0,1.38-1.38V68.57A1.38,1.38,0,0,0,87.8,67.19ZM86.42,70v4H84.24V70h2.18Zm-2.18,8.16V76.73h2.18v1.38H84.24Z"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="normal" data-count="65">
+					0				</span>
+				<span class="fact-text">master's degree
+programs</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <div class="entity entity-bean bean-factoid" about="/block/factoid-example-statistic" typeof="" class="entity entity-bean bean-factoid">
+
+	
+	<div class="factoid">
+		<div class="mask-container">
+			<div class="mask left">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+			<div class="mask right">
+			  <div class="semiCircleWrapper">
+				<div class="semiCircle">
+				  <div class="semiCircleInner"></div>
+				</div>
+			  </div>
+			</div>
+		</div>
+
+		<div class="icon-container">
+			<div class="icon students">
+				<svg height="140" width="140" id="svg_students" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92.9 92.12"><defs><style>.cls-1{fill:#574a1e;}.cls-2{fill:#a49665;}</style></defs><title>UNC Charlotte Icons</title><ellipse class="cls-1" cx="47.72" cy="37.57" rx="11.24" ry="14.46"/><path class="cls-2" d="M47.39,53.24h0.38a10.89,10.89,0,0,0,8.32-3.6c4.54-5.12,3.79-13.9,3.71-14.74-0.3-6.29-3.27-9.3-5.72-10.7a13.12,13.12,0,0,0-6.35-1.66h-0.2a13.14,13.14,0,0,0-6.35,1.62c-2.48,1.4-5.5,4.41-5.79,10.75-0.08.84-.84,9.62,3.71,14.74a10.85,10.85,0,0,0,8.31,3.6h0Zm-8.86-18s0-.07,0-0.09c0.39-8.46,6.4-9.37,9-9.37h0.14c3.19,0.07,8.6,1.37,9,9.37a0.22,0.22,0,0,0,0,.09c0,0.08.84,8.11-2.92,12.33a7.73,7.73,0,0,1-6.08,2.53H47.52a7.71,7.71,0,0,1-6.07-2.53c-3.74-4.2-2.94-12.26-2.93-12.33h0Zm0,0"/><path class="cls-2" d="M71.83,67.8v0c0-.09,0-0.19,0-0.3-0.07-2.34-.22-7.8-5.35-9.55l-0.12,0a34.06,34.06,0,0,1-9.8-4.46A1.59,1.59,0,0,0,54.73,56,36.79,36.79,0,0,0,65.51,61c2.75,1,3.06,3.92,3.14,6.61a2.31,2.31,0,0,0,0,.3,21.48,21.48,0,0,1-.25,3.65C66.5,72.59,59,76.34,47.6,76.34s-18.89-3.76-20.82-4.85a20.26,20.26,0,0,1-.25-3.65c0-.09,0-0.19,0-0.3,0.08-2.69.39-5.63,3.14-6.61A37.08,37.08,0,0,0,40.47,56a1.59,1.59,0,1,0-1.83-2.61,33.68,33.68,0,0,1-9.8,4.46l-0.12,0c-5.12,1.76-5.27,7.22-5.35,9.55a2.39,2.39,0,0,1,0,.3v0a18.09,18.09,0,0,0,.6,5.35,1.51,1.51,0,0,0,.61.74c0.35,0.24,8.84,5.64,23,5.64s22.68-5.42,23-5.64a1.58,1.58,0,0,0,.61-0.74,19,19,0,0,0,.57-5.33h0Zm0,0"/><ellipse class="cls-1" cx="17.66" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M17.45,39h0.24A6.89,6.89,0,0,0,23,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H17.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,17.45,39h0ZM11.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,17.61,37H17.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M32.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06A27.64,27.64,0,0,1,4.42,50.52a12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0C2.4,43,2.3,46.49,2.26,48a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,3,52C3.24,52.18,8.61,55.6,17.6,55.6S31.95,52.17,32.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/><ellipse class="cls-1" cx="76.67" cy="29.05" rx="7.11" ry="9.15"/><path class="cls-2" d="M76.46,39H76.7A6.89,6.89,0,0,0,82,36.69c2.87-3.24,2.4-8.8,2.34-9.33-0.19-4-2.07-5.88-3.62-6.77a8.3,8.3,0,0,0-4-1.05H76.54a8.31,8.31,0,0,0-4,1c-1.57.89-3.48,2.79-3.67,6.8-0.05.53-.53,6.09,2.34,9.33A6.86,6.86,0,0,0,76.46,39h0ZM70.85,27.55s0,0,0-.06c0.25-5.35,4-5.93,5.67-5.93h0.09c2,0,5.44.87,5.67,5.93a0.14,0.14,0,0,0,0,.06c0,0.05.53,5.13-1.84,7.8A4.89,4.89,0,0,1,76.61,37H76.54a4.88,4.88,0,0,1-3.84-1.6c-2.37-2.66-1.86-7.76-1.85-7.8h0Zm0,0"/><path class="cls-2" d="M91.92,48.18v0c0-.06,0-0.12,0-0.19,0-1.48-.14-4.94-3.38-6l-0.07,0a21.55,21.55,0,0,1-6.2-2.82,1,1,0,0,0-1.16,1.65,23.28,23.28,0,0,0,6.82,3.11c1.74,0.62,1.93,2.48,2,4.18a1.46,1.46,0,0,0,0,.19,13.59,13.59,0,0,1-.16,2.31,27.48,27.48,0,0,1-13.16,3.06,27.64,27.64,0,0,1-13.17-3.07,12.82,12.82,0,0,1-.16-2.31c0-.06,0-0.12,0-0.19,0.05-1.7.25-3.56,2-4.18a23.46,23.46,0,0,0,6.82-3.11,1,1,0,1,0-1.16-1.65,21.31,21.31,0,0,1-6.2,2.82l-0.07,0c-3.24,1.11-3.34,4.57-3.38,6a1.51,1.51,0,0,1,0,.19v0a11.44,11.44,0,0,0,.38,3.38A1,1,0,0,0,62,52c0.22,0.15,5.59,3.57,14.57,3.57S91,52.17,91.17,52a1,1,0,0,0,.39-0.47,12,12,0,0,0,.36-3.37h0Zm0,0"/></svg>			</div><!-- end .icon -->
+		</div><!-- end .icon-container -->
+			
+		<div class="text-container">
+			<h2>
+				<span class="fact-num" data-type="comma" data-count="30146">
+					0				</span>
+				<span class="fact-text">Students</span>
+			</h2>
+		</div>
+	</div><!-- end .factoid -->
+
+</div>
+
+
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-views-colleges-block-1" class="block block--views block--views-colleges-block-1">
+        <div class="block__content">
+    <div class="view view-colleges view-id-colleges view-display-id-block_1 view-dom-id-023787d7cb313a30036c8f3731e00b22">
+            <div class="view-header">
+      <div class="container">
+<h2>Undergrads to <span>Overachievers</span></h2>
+<p>Variety is more than the spice of life. It is life! The world offers a broader range of career opportunities than ever before, which is why we offer the way to explore and prepare for so many of them right. Choose from diverse majors in 90 bachelor's degree programs and more than 100 graduate programs.</p>
+<a href="/academics" class="btn btn-primary">Explore Academic Offerings at UNC Charlotte</a>
+</div>    </div>
+  
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/Barbora_Silovska_vertical.jpg?itok=AL5iRSHY" width="500" height="800" alt="Belk College of Business Student" /></div>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/COAA_cover.jpg?itok=JG8WqgIj" width="378" height="800" alt="COAA student" /></div>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/education-student.jpg?itok=xO2LxUT6" width="500" height="800" alt="Cato College of Education" title="Cato College of Education" /></div>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/CCI_panel2.jpg?itok=ALlH0JsD" width="500" height="800" alt="CCI student" /></div>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/Nursing%20Students_vertical_0.jpg?itok=VodXlC6p" width="500" height="748" alt="CHHS nursing students" /></div>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/lizeth_hernandez_2016.jpg?itok=7b-wn-XE" width="282" height="800" alt="CLAS student" /></div>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-field-panel-image">        <div class="field-content"><img typeof="foaf:Image" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/styles/college_panel/public/college/Babiker%20Soliman_ENGR_0.jpg?itok=KRvgghRr" width="500" height="800" alt="ENGR student" /></div>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+                    <div class="container-fluid third">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-third">
+                          <div class="l-region l-region--long-scroll-third">
+    <div id="block-bean-img-sect-from-day-one" class="block block--bean block--bean-img-sect-from-day-one">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-left " about="/block/img-sect-from-day-one" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/Claudia%20Martinez_980x830.jpg" alt="Claudia Martinez">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>#1 in Latinx Enrollment</h2>
+<h3>UNC Charlotte outpaces North Carolina's other four-year institutions with Latinx enrollment, undergraduate degrees and graduation rates</h3>
+<p>"It's so important to see other students like me on campus," says senior Claudia Martinez.</p>
+</div></div></div>				 
+								<a class="btn btn-primary btn-primary" href="https://inside.uncc.edu/news-features/2021-01-11/university-leads-state-awarding-degrees-latinx-students">Read More</a>
+							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-sect-and-beyond" class="block block--bean block--bean-img-sect-and-beyond">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-right " about="/block/img-sect-and-beyond" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/SDS_homepage_980x830.jpg" alt="UNC Charlotte's School of Data Science answers the call">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>Data Science answers the call</h2>
+<h3>How UNC Charlotte is responding to industry demand in Charlotte, the region and beyond.</h3>
+<p>Bringing together brilliant minds through interdisciplinary partnership, the University is bridging the gap between society and technology through hands-on programming and research.</p>
+</div></div></div>				 
+								<a class="btn btn-primary btn-primary" href="https://features.uncc.edu/data-science-answers-the-call">Read More</a>
+							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+                
+                    <div class="container-fluid fourth">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-fourth">
+                          <div class="l-region l-region--long-scroll-fourth">
+    <div id="block-bean-img-sect-home-research" class="block block--bean block--bean-img-sect-home-research">
+        <div class="block__content">
+    
+<div class="entity entity-bean bean-img-section bg-center" about="/block/img-sect-home-research" typeof="" class="entity entity-bean bean-img-section">
+	<div class="row">
+		<div class="col-img" style="background-image:url(https://www.charlotte.edu/sites/www.charlotte.edu/files/section/home_research_background2.jpg);"></div>
+		<div class="col-text">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>Where lab work&nbsp;is put to the ultimate test. Reality.</h2>
+<p>Go beyond hypotheses and theory. Study in a place where on-campus research comes to life in off-campus applications throughout area communities, businesses and industries.</p>
+</div></div></div>				 
+								<a class="btn btn-primary btn-secondary" href="https://www.charlotte.edu/landing/research">Explore Research At UNC Charlotte</a>
+							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-sect-home-campus-life" class="block block--bean block--bean-img-sect-home-campus-life">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-right " about="/block/img-sect-home-campus-life" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/home-union-900.jpg" alt="student union">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2 class="thin">Quaint &amp; Quiet</h2>
+<h2 class="gold">Lively &amp; Loud</h2>
+<p>Can't decide between a peaceful, picturesque college campus and an action-packed big-city school? Then don't.</p>
+</div></div></div>				 
+								<a class="btn btn-primary btn-primary" href="https://www.charlotte.edu/landing/campus-life">Get Involved in Campus Life at UNC Charlotte</a>
+							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-img-sect-clubs-activities" class="block block--bean block--bean-img-sect-clubs-activities">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-left img-lg " about="/block/img-sect-clubs--activities" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/explore-charlotte01.jpg" alt="water balloons">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>Clubs &amp; Activities</h2>
+<p><span>Choose from more than 350 student organizations in and out of the classroom at UNC Charlotte. There's something for everyone here!</span></p>
+</div></div></div>							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-home-gallery-1" class="block block--bean block--bean-home-gallery-1">
+        <div class="block__content">
+    <div class="entity entity-bean bean-gallery clearfix" about="/block/home-gallery-1" typeof="" class="entity entity-bean bean-gallery">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="img-container">
+	
+		<div class="gallery-img img-0 img-sm">
+
+			
+			<img alt="students tailgating" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-clubs1.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-1 img-lg">
+
+			
+			<img alt="cornhole" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-clubs2.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-2 img-md">
+
+			
+			<img alt="water slide" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-clubs3.jpg">
+					</div>
+
+	</div>
+</div>  </div>
+</div>
+  </div>
+</div>
+<div id="block-bean-img-sect-49er-sports" class="block block--bean block--bean-img-sect-49er-sports">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-right img-lg " about="/block/img-sect-49er-sports" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/home-sports-full-1000.jpg" alt="football player running">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>49er Sports</h2>
+<p><span id="docs-internal-guid-564a3bd8-389d-c5b7-ddea-c346c483e98a"><span>Niner Nation loves cheering on the 49ers and their 18 NCAA Division I varsity sports. Members of the Football Bowl Subdivision (FBS) Conference USA, the 49ers boast some of the nation’s finest facilities and compete against the NCAA’s top competition.</span></span></p>
+</div></div></div>							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-home-gallery-2" class="block block--bean block--bean-home-gallery-2">
+        <div class="block__content">
+    <div class="entity entity-bean bean-gallery clearfix" about="/block/home-gallery-2" typeof="" class="entity entity-bean bean-gallery">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="img-container">
+	
+		<div class="gallery-img img-0 img-lg">
+
+			
+			<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/night_stadium.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-1 img-md">
+
+			
+			<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-womensbball.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-2 img-md">
+
+			
+			<img alt="women's basketball" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-sports2.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-3 img-md">
+
+			
+			<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-flag.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-4 img-lg">
+
+			
+			<img alt="" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-soccer.jpg">
+					</div>
+
+	</div>
+</div>  </div>
+</div>
+  </div>
+</div>
+<div id="block-bean-img-sect-exploring-charlotte" class="block block--bean block--bean-img-sect-exploring-charlotte">
+        <div class="block__content">
+    <div class="default entity entity-bean bean-img-section 
+img-lg " about="/block/img-sect-exploring-charlotte" typeof="" class="entity entity-bean bean-img-section">
+	
+		<div class="row">
+		<div class="col-img col-xs-12 col-md-5 ">
+			<img src="https://www.charlotte.edu/sites/www.charlotte.edu/files/section/home-charlotte-full-1000.jpg" alt="modern building">
+						
+					</div>
+
+		<div class="col-text col-xs-12 col-md-7">
+			<div class="text-container">
+				<div class="field field--name-field-section-text field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><h2>Exploring Charlotte</h2>
+<p>Metropolitan energy meets southern charm in the Queen City.&nbsp; From professional sports and polished culture to outdoor adventure and recreation, Charlotte is a top destination.&nbsp;</p>
+</div></div></div>							</div>
+		</div>
+	</div>
+		
+</div>
+
+
+
+  </div>
+</div>
+<div id="block-bean-home-gallery-3" class="block block--bean block--bean-home-gallery-3">
+        <div class="block__content">
+    <div class="entity entity-bean bean-gallery clearfix" about="/block/home-gallery-3" typeof="" class="entity entity-bean bean-gallery">
+
+  <div class="content">
+    <div class="field-collection-container clearfix"><div class="img-container">
+	
+		<div class="gallery-img img-0 img-md">
+
+			
+			<img alt="panther statue" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-charlotte1.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-1 img-lg">
+
+			
+			<img alt="Queen Charlotte at airport" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/queen-charlotte-cropped.jpg">
+					</div>
+
+	
+		<div class="gallery-img img-2 img-md">
+
+			
+			<img alt="nascar race" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/gallery/home-charlotte3.jpg">
+					</div>
+
+	</div>
+</div>  </div>
+</div>
+  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+                    <div class="container-fluid fifth">
+                <div class="row">
+                    <section class="long-scroll-region" id="l-long-scroll-fifth">
+                          <div class="l-region l-region--long-scroll-fifth">
+    <div id="block-views-faculty-block-1" class="block block--views block--views-faculty-block-1">
+        <div class="block__content">
+    <div class="view view-faculty view-id-faculty view-display-id-block_1 container view-dom-id-b5e451b83221bbd957be05b17447bb36">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-field-profile-image">        <div class="field-content"><img class="normal" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Jennifer_Webb_500x715.jpg" alt="Jennifer Webb, Associate Professor of Psychology" title=""></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><h3>Enhancing student motivation and learning</h3>
+<h4>Jennifer Webb, Associate Professor of Psychology</h4></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-field-profile-image">        <div class="field-content"><img class="normal" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Oscar_Lansen_500x715.jpg" alt="Oscar Lansen, Teaching Professor of History" title=""></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><h3>Revolutionizing teaching practices to benefit students</h3>
+<h4>Oscar Lansen, Teaching Professor of History</h4></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-field-profile-image">        <div class="field-content"><img class="normal" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Thomas_Marshal%20_500x715.jpg" alt="Thomas Marshall, Lecturer in Risk Management " title=""></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><h3>Providing experiential learning opportunities</h3>
+<h4>Thomas Marshall, Lecturer in Risk Management </h4></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even views-row-last">
+      
+  <div class="views-field views-field-field-profile-image">        <div class="field-content"><img class="normal" src="https://www.charlotte.edu/sites/www.charlotte.edu/files/faculty/Jordan_Poler_500x715.jpg" alt="Jordan Poler" title=""></div>  </div>  
+  <div class="views-field views-field-nothing">        <span class="field-content"><h3>Forging connections with students</h3>
+<h4>Jordan Poler, Associate Professor of Chemistry</h4></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <p><a href="http://inside.uncc.edu/faculty-spotlights" class="btn btn-primary">Explore Faculty Inside UNC Charlotte</a></p>
+    </div>
+  
+  
+</div>  </div>
+</div>
+  </div>
+                    </section>
+                </div>
+            </div>
+        
+        
+        
+        
+    </div><!-- end .l-main -->
+
+</div>
+
+<div id="trigger-footer"></div>
+<footer id="l-footer" class="" role="contentinfo">
+	<div id="l-footer-first" class="container-fluid">
+		<div class="container">
+			<div class="row">
+				<div>
+					<button id="footer-toggle">
+						<h3>
+							<span class="open-text">Click For More</span>
+							<span class="close-text">Less</span>
+							<span class="fa fa-caret-square-o-down"><span class='sr-only'>toggle footer </span></span>
+						</h3>
+					</button>
+
+					<div class="social-container">
+						<img alt="UNC Charlotte Logo" class="footer-logo" src="/sites/all/themes/uncctheme/assets/images/charlotte-logo-footer.png">
+					</div>
+																				</div>
+			</div>
+		</div>
+	</div>
+	<div id="l-footer-second" class="container-fluid">
+			<div class="container">
+				<div class="row">
+					<div class="col col-sm-4">
+						<h3>Campus Links</h3>
+						<ul>
+							<li><a href="https://emergency.charlotte.edu" title="Alerts and Advisories at UNC Charlotte">Alerts</a></li>
+							<li><a href="https://jobs.charlotte.edu" title="Jobs at UNC Charlotte">Jobs</a></li>
+							<li><a href="https://giving.charlotte.edu" title="Make a gift to UNC Charlotte">Make a Gift</a></li>
+							<li><a href="https://maps.charlotte.edu" title="Directions to UNC Charlotte">Maps / Directions</a></li>
+							<li><a href="https://accessibility.charlotte.edu" title="Accessibility resources at UNC Charlotte" style="vertical-align: top;"><i class="fa fa-wheelchair" aria-hidden="true"></i> Accessibility</a></li>
+						</ul>
+					</div>
+					<div class="col col-sm-4">
+						<h3>Resources</h3>
+						<ul>
+							<li><a href="/gateway/alumni-friends" title="Alumni and Friends">Alumni &amp; Friends</a></li>
+							<li><a href="/gateway/faculty-staff" title="Faculty and Staff">Faculty &amp; Staff</a></li>
+							<li><a href="/gateway/prospective-students" title="Prospective Students">Prospective Students</a></li>
+							<li><a href="/gateway/community" title="Community">Community</a></li>
+							<li><a href="/gateway/current-students" title="Current Students"> Current Students</a></li>
+							<li><a href="/gateway/parents-family" title="Parents and Family"> Parents and Family</a></li>
+						</ul>
+					</div>
+
+					<div class="col col-sm-4">
+						<h3>Stay In Touch</h3>
+						<div class="social">
+							<a href="https://www.facebook.com/UNCCharlotte" target="_blank"><span class="fa fa-facebook" title="Facebook"></span><span class="sr-only">facebook</span></a>
+							<a href="https://www.instagram.com/unccharlotte/" target="_blank"><span class="fa fa-instagram" title="Instagram"></span><span class="sr-only">instagram</span></a>
+							<a href="https://www.flickr.com/photos/stakeyourclaim/sets/" target="_blank"><span class="fa fa-flickr" title="Flickr"></span><span class="sr-only">flickr</span></a>
+							<a href="https://www.linkedin.com/school/166586/" target="_blank"><span class="fa fa-linkedin" title="LinkedIn"></span><span class="sr-only">linkedin</span></a>
+							<a href="https://twitter.com/UNCCharlotte" target="_blank"><span class="fa fa-twitter" title="Twitter"></span><span class="sr-only">twitter</span></a>
+							<a href="https://www.youtube.com/user/unccharlottevideo" target="_blank"><span class="fa fa-youtube-play" title="YouTube"></span><span class="sr-only">youtube</span></a>
+							<a href="https://maps.charlotte.edu" target="_blank"><span class="fa fa-map-marker" title="Maps"></span><span class="sr-only">maps</span></a><br/>
+							<p class="small"><a href="/" title="www.uncc.edu">The University of North Carolina at Charlotte</a><br/>9201 University City Blvd, Charlotte, NC 28223-0001<br/>704-687-8622</p>
+							<em class="small">&copy; 2021 UNC Charlotte | All Rights Reserved <br/> <a href="/contact" title="Contact Us">Contact Us</a> | <a href="https://legal.charlotte.edu/termsofuse" title="Terms of Use">Terms of Use</a> | <a href="https://legal.charlotte.edu/policies" title="University Policy"> University Policies</a></em>
+<br /><br /><br />
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<script type="text/javascript" src="/alerts/alerts.js" defer="defer"></script>
+  <script src="https://www.charlotte.edu/sites/www.charlotte.edu/files/js_injector/js_injector_1.js?qysvsp"></script>
+</body>
+</html>
+WEBSITE URLS:
+https://charlotte.edu/
+ https://charlotte.edu/landing/admissions-financial-aid
+ https://charlotte.edu/research
+ https://charlotte.edu/landing/athletics
+ https://charlotte.edu/landing/campus-life
+ https://charlotte.edu/landing/diversity
+ https://charlotte.edu/gateway/alumni-friends
+ https://charlotte.edu/gateway/faculty-staff
+ https://charlotte.edu/gateway/prospective-students
+ https://charlotte.edu/gateway/community
+ https://charlotte.edu/gateway/current-students
+ https://charlotte.edu/gateway/parents-family
+ https://charlotte.edu/academics
+ https://charlotte.edu/gateway/alumni-friends
+ https://charlotte.edu/gateway/faculty-staff
+ https://charlotte.edu/gateway/prospective-students
+ https://charlotte.edu/gateway/community
+ https://charlotte.edu/gateway/current-students
+ https://charlotte.edu/gateway/parents-family
+ https://charlotte.edu/
+ https://charlotte.edu/contact
+EXTERNAL URLS:
+https://www.charlotte.edu/academics
+ https://my.charlotte.edu
+ https://directory.charlotte.edu
+ https://49eralumni.charlotte.edu/s/1721/giving/landing17.aspx?sid=1721&gid=2&pgid=1143
+ https://library.charlotte.edu
+ https://www.charlotte.edu/landing/about-us
+ https://www.charlotte.edu/landing/admissions-financial-aid
+ https://admissions.uncc.edu/about-unc-charlotte/visit-campus
+ https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&gid=2&pgid=1143
+ https://virtualtour.uncc.edu
+ https://ninernationcares.uncc.edu/
+ https://www.charlotte.edu/landing/about-us
+ https://www.charlotte.edu/landing/admissions-financial-aid
+ https://admissions.uncc.edu/about-unc-charlotte/visit-campus
+ https://49eralumni.uncc.edu/s/1721/giving/landing17.aspx?sid=1721&gid=2&pgid=1143
+ https://virtualtour.uncc.edu
+ https://ninernationcares.uncc.edu/
+ https://inside.charlotte.edu/news-features/2021-08-24/niner-nation-launches-2021-22-academic-year
+ https://inside.charlotte.edu/news-features/2021-08-19/university-convocation-2021-chancellor-gaber-spotlights-ways-unc-charlotte
+ https://inside.charlotte.edu/news-features/2021-08-19/hi-we%E2%80%99re-charlotte-nice-meet-you
+ https://inside.charlotte.edu/news-features/2021-08-18/air-force-veteran-awarded-inaugural-dubois-legacy-scholarship
+ https://inside.charlotte.edu/news-features/2021-08-17/unc-charlotte%E2%80%99s-pandemic-response-receives-2021-aascu-excellence-and
+ https://www.localist.com?utm_source=widget&utm_campaign=widget_footer&utm_medium=branded%20link
+ https://inside.uncc.edu/news-features/2021-01-11/university-leads-state-awarding-degrees-latinx-students
+ https://features.uncc.edu/data-science-answers-the-call
+ https://www.charlotte.edu/landing/research
+ https://www.charlotte.edu/landing/campus-life
+ https://emergency.charlotte.edu
+ https://jobs.charlotte.edu
+ https://giving.charlotte.edu
+ https://maps.charlotte.edu
+ https://accessibility.charlotte.edu
+ https://www.facebook.com/UNCCharlotte
+ https://www.instagram.com/unccharlotte/
+ https://www.flickr.com/photos/stakeyourclaim/sets/
+ https://www.linkedin.com/school/166586/
+ https://twitter.com/UNCCharlotte
+ https://www.youtube.com/user/unccharlottevideo
+ https://maps.charlotte.edu
+ https://legal.charlotte.edu/termsofuse
+ https://legal.charlotte.edu/policies
