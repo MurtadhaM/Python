@@ -10,7 +10,7 @@ available_columns = [
 ]
 
 
-file = open('input.txt')
+file = open('../input.txt')
 
 contents = file.read()
 

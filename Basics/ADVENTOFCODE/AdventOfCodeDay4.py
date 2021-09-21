@@ -1,5 +1,5 @@
 
-file = open('input.txt')
+file = open('../input.txt')
 
 contents = file.read()
 # contents = file.read().replace('\n', ' ').strip()

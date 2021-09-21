@@ -64,4 +64,4 @@ def input_parser_2(filename):
     print(number_valid)
 
 
-input_parser_2('input.txt')
+input_parser_2('../input.txt')

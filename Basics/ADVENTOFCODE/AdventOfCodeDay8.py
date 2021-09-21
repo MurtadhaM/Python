@@ -1,4 +1,4 @@
-with open('input.txt', 'r') as text:
+with open('../input.txt', 'r') as text:
     lines = text.read().split("\n")
 initial_value = 0
 

@@ -1,6 +1,6 @@
 import os
 import readline
-f =  open('input.txt')
+f =  open('../input.txt')
 # print(f.readlines())
 lines = list(f.readlines())
 for i in lines:
