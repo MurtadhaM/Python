@@ -2,17 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/Basics/voteCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Code.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNCC/all_links.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNCC/crawled.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UNCC/queue.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/csv-plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Basics/input.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Basics/ADVENTOFCODE/input.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1x9wY91yInGeU1nlclrEKLBy5Fd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,14 +68,14 @@
       <recent name="$PROJECT_DIR$/Py_Site/Py_Site" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Basics/ADVENTOFCODE" />
+      <recent name="$PROJECT_DIR$/Basics" />
       <recent name="$PROJECT_DIR$/Py_Site" />
       <recent name="$PROJECT_DIR$/Py_Site/Py_Site" />
       <recent name="$PROJECT_DIR$/Spyder" />
-      <recent name="$PROJECT_DIR$/WebCrawler" />
-      <recent name="$PROJECT_DIR$/Basics" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.AdventOfCodeDay8">
     <configuration name="AdventOfCodeDay7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,10 +188,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.AdventOfCodeDay8" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.voteCheck" />
         <item itemvalue="Python.Web_Crawler" />
-        <item itemvalue="Python.AdventOfCodeDay8" />
         <item itemvalue="Python.AdventOfCodeDay7" />
       </list>
     </recent_temporary>
@@ -205,8 +205,17 @@
       <option name="presentableId" value="Default" />
       <updated>1629780660016</updated>
       <workItem from="1632235339251" duration="582000" />
-      <workItem from="1632236565927" duration="91000" />
+      <workItem from="1632236565927" duration="1522000" />
+      <workItem from="1632263303175" duration="1693000" />
     </task>
+    <task id="LOCAL-00001" summary="21">
+      <created>1632236764059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1632236764059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +238,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/Spider" />
     </ignored-roots>
+    <MESSAGE value="21" />
+    <option name="LAST_COMMIT_MESSAGE" value="21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -249,6 +260,7 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$AdventOfCodeDay8.coverage" NAME="AdventOfCodeDay8 Coverage Results" MODIFIED="1632265203425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1632235793389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
   </component>
 </project>
