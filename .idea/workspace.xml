@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/file.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/input.txt" afterDir="false" />
-    </list>
+    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -207,6 +195,7 @@
       <workItem from="1632235339251" duration="582000" />
       <workItem from="1632236565927" duration="1522000" />
       <workItem from="1632263303175" duration="1693000" />
+      <workItem from="1632276878509" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary="21">
       <created>1632236764059</created>
