@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21" />
+    <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change afterPath="$PROJECT_DIR$/Basics/Marzouq_CA.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Mininet Typology Level 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Mininet Typology.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +21,17 @@
         <option value="HTML File" />
         <option value="Python Script" />
       </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
     </option>
   </component>
   <component name="Git.Settings">
@@ -46,8 +64,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="app.teamhub.trackedBranches" value="1u64pbi/main" />
+    <property name="com.obroom.plugin.regextool:Tester:letf" value="asda" />
+    <property name="com.obroom.plugin.regextool:Tester:upetf" value="asdasd" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Basics" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,7 +85,7 @@
       <recent name="$PROJECT_DIR$/Spyder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.AdventOfCodeDay8">
+  <component name="RunManager" selected="Python.main">
     <configuration name="AdventOfCodeDay7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,8 +198,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.AdventOfCodeDay8" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.AdventOfCodeDay8" />
         <item itemvalue="Python.voteCheck" />
         <item itemvalue="Python.Web_Crawler" />
         <item itemvalue="Python.AdventOfCodeDay7" />
@@ -196,6 +218,12 @@
       <workItem from="1632236565927" duration="1522000" />
       <workItem from="1632263303175" duration="1693000" />
       <workItem from="1632276878509" duration="37000" />
+      <workItem from="1632791232714" duration="503000" />
+      <workItem from="1632794786623" duration="211000" />
+      <workItem from="1632864414980" duration="979000" />
+      <workItem from="1632877875299" duration="64000" />
+      <workItem from="1632877967028" duration="415000" />
+      <workItem from="1632946826152" duration="485000" />
     </task>
     <task id="LOCAL-00001" summary="21">
       <created>1632236764059</created>
@@ -250,6 +278,6 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$AdventOfCodeDay8.coverage" NAME="AdventOfCodeDay8 Coverage Results" MODIFIED="1632265203425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
-    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1632235793389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1632794987773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
   </component>
 </project>

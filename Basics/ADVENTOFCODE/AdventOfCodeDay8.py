@@ -4,6 +4,9 @@ initial_value = 0
 indexes_traveled = list()
 
 
+
+
+
 def acc_opp(line_opp, value):
     output = 0
     # print(line_opp)
