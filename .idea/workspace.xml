@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/Basics/OUTPUT/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/OUTPUT/links.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Basics/Web_Mining.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Basics/Weather.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Web_Parser/OUTPUT/output.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +64,7 @@
     <property name="com.obroom.plugin.regextool:Tester:letf" value="asda" />
     <property name="com.obroom.plugin.regextool:Tester:upetf" value="asdasd" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Basics" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -85,8 +81,8 @@
       <recent name="$PROJECT_DIR$/Spyder" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="AdventOfCodeDay8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Weather">
+    <configuration name="Weather" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +95,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/ADVENTOFCODE/AdventOfCodeDay8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basics/Weather.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Weather" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.html_parser" />
         <item itemvalue="Python.Web_Crawler" />
         <item itemvalue="Python.Web_Mining" />
-        <item itemvalue="Python.AdventOfCodeDay8" />
       </list>
     </recent_temporary>
   </component>
@@ -228,6 +224,10 @@
       <workItem from="1633034205298" duration="699000" />
       <workItem from="1633046277816" duration="679000" />
       <workItem from="1633059593165" duration="744000" />
+      <workItem from="1633374188336" duration="23000" />
+      <workItem from="1633443740271" duration="1881000" />
+      <workItem from="1633462067672" duration="1140000" />
+      <workItem from="1633465695960" duration="2505000" />
     </task>
     <task id="LOCAL-00001" summary="21">
       <created>1632236764059</created>
@@ -285,6 +285,7 @@
     <SUITE FILE_PATH="coverage/Python$main.coverage" NAME="main Coverage Results" MODIFIED="1633060216407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Python$Web_Crawler.coverage" NAME="Web_Crawler Coverage Results" MODIFIED="1633014368091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Web_Parser" />
     <SUITE FILE_PATH="coverage/Python$html_parser.coverage" NAME="html_parser Coverage Results" MODIFIED="1633034374366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
+    <SUITE FILE_PATH="coverage/Python$Weather.coverage" NAME="Weather Coverage Results" MODIFIED="1633469820300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
     <SUITE FILE_PATH="coverage/Python$Web_Mining.coverage" NAME="Web_Mining Coverage Results" MODIFIED="1633014315760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basics" />
   </component>
 </project>
