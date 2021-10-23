@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/ADVENTOFCODE/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/ADVENTOFCODE/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,6 +233,8 @@
       <workItem from="1633482928258" duration="72000" />
       <workItem from="1633617077947" duration="1158000" />
       <workItem from="1634151341048" duration="97000" />
+      <workItem from="1634825427460" duration="601000" />
+      <workItem from="1634859660729" duration="678000" />
     </task>
     <task id="LOCAL-00001" summary="21">
       <created>1632236764059</created>
