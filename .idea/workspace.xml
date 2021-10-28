@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9610a3d7-5685-4f15-b048-7e27a7a30c8f" name="Changes" comment="21">
-      <change afterPath="$PROJECT_DIR$/News /file.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/News /test.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/News /time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/News /data.json" beforeDir="false" afterPath="$PROJECT_DIR$/News /data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/CreatePNG.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Image_Library/Twint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Image_Library/import request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Library/News_API_Twint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image_Library/import request.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,6 +267,7 @@
       <workItem from="1634859660729" duration="678000" />
       <workItem from="1635096595287" duration="1466000" />
       <workItem from="1635137517920" duration="1266000" />
+      <workItem from="1635363800672" duration="28000" />
     </task>
     <task id="LOCAL-00001" summary="21">
       <created>1632236764059</created>
