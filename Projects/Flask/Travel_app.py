@@ -14,7 +14,7 @@ from flask import Flask, render_template
 app = Flask(__name__)  # create an app
 
 
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///event_app.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///Travel_app.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SECRET_KEY'] = 'GROUPROJECT'
 app.config["IMAGE_UPLOADS"] = "static"
