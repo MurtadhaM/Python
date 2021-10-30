@@ -1,4 +1,8 @@
 
+# Author: Murtadha Marzouq
+# Date: 2020-11-24
+# Group: 15 
+# Assignment: Final Project
 from database import db
 import datetime
 

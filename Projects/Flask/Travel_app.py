@@ -1,3 +1,7 @@
+# Author: Murtadha Marzouq
+# Date: 2020-11-24
+# Group: 15 
+# Assignment: Final Project
 from forms import LoginForm
 from forms import RegisterForm
 import bcrypt
@@ -13,18 +17,13 @@ from flask import Flask, render_template
 
 app = Flask(__name__)  # create an app
 
-
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///Travel_app.db'
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 app.config['SECRET_KEY'] = 'GROUPROJECT'
 app.config["IMAGE_UPLOADS"] = "static"
 db.init_app(app)
-# Setup models
 with app.app_context():
-    db.create_all()  # run under the app context
-
-
-# LOGIN PAGE #
+    db.create_all()  
 @app.route('/')
 @app.route('/login', methods=['POST', 'GET'])
 def login():
@@ -37,7 +36,6 @@ def login():
             session['user'] = the_user.first_name
             session['user_id'] = the_user.id
             return redirect(url_for('index'))
-
         login_form.password.errors = ["Incorrect username or password."]
         return render_template("login.html", form=login_form)
     else:
@@ -46,7 +44,6 @@ def login():
 
 @app.route('/logout')
 def logout():
-    # check if a user is saved in session
     if session.get('user'):
         session.clear()
 
@@ -68,32 +65,23 @@ def register():
         # create user model
         new_user = User(first_name, last_name,
                         request.form['email'], h_password)
-        # add user to database and commit
         db.session.add(new_user)
         db.session.commit()
-        # save the user's name to the session
         session['user'] = first_name
-        # access id value from user model of this newly added user
         session['user_id'] = new_user.id
-        # show user dashboard view
         return redirect(url_for('index'))
 
-    # something went wrong - display register view
     return render_template('register.html', form=form)
 
 
-# EVENTS (HOME) PAGE #
 @app.route('/index')
 def index():
-    # retrieve user from database
-    # check if a user is saved in session
     if session.get('user'):
         return render_template("index.html", user=session['user'])
     else:
         return redirect(url_for('login'))
 
 
-# ACCOUNT INFO PAGE #
 @app.route('/profile/userID')
 def profile():
     # insert code

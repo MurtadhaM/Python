@@ -1,3 +1,8 @@
+# Author: Murtadha Marzouq
+# Date: 2020-11-24
+# Group: 15 
+# Assignment: Final Project
+# 
 from flask_wtf import FlaskForm
 from wtforms import StringField, PasswordField, SubmitField, TextAreaField, FileField
 from wtforms.validators import Length, Regexp, DataRequired, EqualTo, Email
@@ -15,22 +20,22 @@ class RegisterForm(FlaskForm):
     lastname = StringField('Last Name', validators=[Length(1, 20)])
 
     email = StringField('Email', [
-        Email(message='Not a valid email address.'),
+        Email(message='Email format is not valid.'),
         DataRequired()])
 
     password = PasswordField('Password', [
-        DataRequired(message="Please enter a password."),
-        EqualTo('confirmPassword', message='Passwords must match')
+        DataRequired(message="Enter a password."),
+        EqualTo('confirmPassword', message='Passwords invalid')
     ])
 
     confirmPassword = PasswordField('Confirm Password', validators=[
-        Length(min=6, max=10)
+        Length(min=6, max=15)
     ])
     submit = SubmitField('Submit')
 
     def validate_email(self, field):
         if db.session.query(User).filter_by(email=field.data).count() != 0:
-            raise ValidationError('Username already in use.')
+            raise ValidationError('Username Exists.')
 
 
 class LoginForm(FlaskForm):
@@ -48,4 +53,4 @@ class LoginForm(FlaskForm):
 
     def validate_email(self, field):
         if db.session.query(User).filter_by(email=field.data).count() == 0:
-            raise ValidationError('Incorrect username or password.')
+            raise ValidationError('Incorrect Credentials.')
