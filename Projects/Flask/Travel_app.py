@@ -1,4 +1,4 @@
-# Author: Murtadha Marzouq
+# Author: Group 15
 # Date: 2020-11-24
 # Group: 15 
 # Assignment: Final Project
