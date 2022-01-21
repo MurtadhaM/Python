@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dashboard Page</title>
+    <!-- styles -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+</head>
+
+<body>
+    <nav class="nav">
+        <a href="{{ url_for('index') }}">Dashboard</a>
+        <a href="{{ url_for('profile') }}">My Account</a>
+        <a href="{{url_for('logout')}}">Logout</a>
+    </nav>
+
+    <div class="body">
+        <h1>Dashboard</h1>
+        <br><br>
+        <h2>Travel Ristriction</h2>
+        <embed src="{{ url_for('static', filename='table.html') }}" width="800" height="600"></embed>
+        <h2>Poverty Levels </h2>
+        <iframe frameBorder='no' src='https://databank.worldbank.org/embed/Development/id/d97f4f16?ti=y&ds=n&dd=y&tb=y&sh=y&dw=y&pr=y&inf=y&zm=y&md=y&navigator=n&theme=darkGrey&bdrClr=rgb(68,68,68)&bdrStyle=solid&bdrWidth=0px&title=Arial;14px;true;false;rgb(68,68,68);justify&exptypes=Excel,CSV,TabbedTxt'
+            width="800" height="425"></iframe>
+
+
+
+    </div>
+</body>
+
+</html>

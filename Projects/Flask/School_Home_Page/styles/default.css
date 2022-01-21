@@ -1,0 +1,59 @@
+
+/*
+Author: Miguel Morel                                                                                                                       
+Assignment: Home Page
+Student ID: 800877651
+*/
+body
+{
+	font-family: verdana;
+	color: blue ;
+	background-color: LightGray ;
+	margin-left: 75px;
+	margin-right: 75px;
+}
+
+header, footer
+{
+	text-align: center;
+}
+
+h1, h2, h3
+{
+	font-family: Cambria, Cochin, Georgia, serif;
+	text-align: center;
+	line-height: 0px;
+}
+
+a
+{
+	text-decoration: none;
+	color: lightseagreen;
+	font-weight: bold;
+}
+
+a:hover
+{
+	text-decoration: underline;
+	color: mediumseagreen;
+}
+
+figure
+{
+	text-align: center;
+}
+
+figcaption
+{
+	font-style: italic;
+}
+
+nav
+{
+	text-align: center;
+}
+
+#Parahgraphs{
+	color: black;
+	text-align: left;
+}
