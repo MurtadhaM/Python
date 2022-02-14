@@ -5,7 +5,7 @@ import threading
 from queue import Queue
 from urllib.parse import urlparse
 
-import urlparser as urlparser
+
 
 from spider import Spider
 from domain import *
