@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Traveler Profile</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+
+<body>
+    <nav>
+        <a href="{{ url_for('index') }}">Dashboard</a>
+        <a href="{{url_for('logout')}}">Logout</a>
+    </nav>
+    <div class="body">
+        <h2>Profile</h2>
+        <table>
+            <tr>
+                <th>First name</th>
+                <th>Last Name</th>
+                <th>Email</th>
+                <th>Date Joined</th>
+            </tr>
+            {% if user %}
+            <tr>
+                <td>{{ user.first_name }}</a>
+                </td>
+                <td>{{ user.last_name }}</td>
+                <td>{{ user.email }}</td>
+                <td>{{ user.registered_on }}</td>
+            </tr>
+        </table>
+        {% endif %}
+    </div>
+</body>
+
+</html>
