@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "python3.10"
+
+
+,
+    "enable-proposed-api": ["ms-toolsai.jupyter"]
+  }
+  
