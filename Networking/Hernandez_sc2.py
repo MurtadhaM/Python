@@ -1,6 +1,6 @@
 #!/usr/bin/python
-# Author Murtadha Marzouq Type 2 Script (There are 3 levels in Mininet)
-# This is the First senario
+# Author Noah Hernadez Type 2 Script (There are 3 levels in Mininet)
+# This is the Second senario
 
 from mininet.cli import CLI
 from mininet.log import info
@@ -51,13 +51,13 @@ def myNetwork():
     net.addLink(h9, s9)
     net.addLink(h10, s9)
     net.addLink(s15, s13)
-    net.addLink(s14, s13)
-    net.addLink(s13, s9)
-    # First Senario
-    net.addLink(s12, s10, bw=15, delay='10ms')
+    # Second Senario
+    net.addLink(s14, s13, bw=20, delay='5ms')
+    # Second Senario
+    net.addLink(s13, s9, bw=20)
+    net.addLink(s12, s10)
     net.addLink(s11, s10)
-    # First Senario
-    net.addLink(s10, s9, bw=10)
+    net.addLink(s10, s9)
     net.addLink(h8, s15)
     net.addLink(h6, s14)
     info('Let us start the Show\n')
@@ -88,5 +88,5 @@ def myNetwork():
 if __name__ == '__main__':
     setLogLevel('info')
     myNetwork()
-# For the --topo parameter in mn --custom file.py --topo one
-TOPOS = {'one': (lambda: myNetwork())}
+# For the --topo parameter in mn --custom file.py --topo Two
+TOPOS = {'Two': (lambda: myNetwork())}
